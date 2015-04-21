@@ -1,0 +1,10210 @@
+[
+  {
+    "Station name":"Abbey Wood",
+    "Code":"ABW"
+  },
+  {
+    "Station name":"Aber",
+    "Code":"ABE"
+  },
+  {
+    "Station name":"Abercynon",
+    "Code":"ACY"
+  },
+  {
+    "Station name":"Aberdare",
+    "Code":"ABA"
+  },
+  {
+    "Station name":"Aberdeen",
+    "Code":"ABD"
+  },
+  {
+    "Station name":"Aberdour",
+    "Code":"AUR"
+  },
+  {
+    "Station name":"Aberdovey",
+    "Code":"AVY"
+  },
+  {
+    "Station name":"Abererch",
+    "Code":"ABH"
+  },
+  {
+    "Station name":"Abergavenny",
+    "Code":"AGV"
+  },
+  {
+    "Station name":"Abergele & Pensarn",
+    "Code":"AGL"
+  },
+  {
+    "Station name":"Aberystwyth",
+    "Code":"AYW"
+  },
+  {
+    "Station name":"Accrington",
+    "Code":"ACR"
+  },
+  {
+    "Station name":"Achanalt",
+    "Code":"AAT"
+  },
+  {
+    "Station name":"Achnasheen",
+    "Code":"ACN"
+  },
+  {
+    "Station name":"Achnashellach",
+    "Code":"ACH"
+  },
+  {
+    "Station name":"Acklington",
+    "Code":"ACK"
+  },
+  {
+    "Station name":"Acle",
+    "Code":"ACL"
+  },
+  {
+    "Station name":"Acocks Green",
+    "Code":"ACG"
+  },
+  {
+    "Station name":"Acton Bridge (Cheshire)",
+    "Code":"ACB"
+  },
+  {
+    "Station name":"Acton Central",
+    "Code":"ACC"
+  },
+  {
+    "Station name":"Acton Main Line",
+    "Code":"AML"
+  },
+  {
+    "Station name":"Adderley Park",
+    "Code":"ADD"
+  },
+  {
+    "Station name":"Addiewell",
+    "Code":"ADW"
+  },
+  {
+    "Station name":"Addlestone",
+    "Code":"ASN"
+  },
+  {
+    "Station name":"Adisham",
+    "Code":"ADM"
+  },
+  {
+    "Station name":"Adlington (Cheshire)",
+    "Code":"ADC"
+  },
+  {
+    "Station name":"Adlington (Lancs)",
+    "Code":"ADL"
+  },
+  {
+    "Station name":"Adwick",
+    "Code":"AWK"
+  },
+  {
+    "Station name":"Aigburth",
+    "Code":"AIG"
+  },
+  {
+    "Station name":"Ainsdale",
+    "Code":"ANS"
+  },
+  {
+    "Station name":"Aintree",
+    "Code":"AIN"
+  },
+  {
+    "Station name":"Airbles",
+    "Code":"AIR"
+  },
+  {
+    "Station name":"Airdrie",
+    "Code":"ADR"
+  },
+  {
+    "Station name":"Albany Park",
+    "Code":"AYP"
+  },
+  {
+    "Station name":"Albrighton",
+    "Code":"ALB"
+  },
+  {
+    "Station name":"Alderley Edge",
+    "Code":"ALD"
+  },
+  {
+    "Station name":"Aldermaston",
+    "Code":"AMT"
+  },
+  {
+    "Station name":"Aldershot",
+    "Code":"AHT"
+  },
+  {
+    "Station name":"Aldrington",
+    "Code":"AGT"
+  },
+  {
+    "Station name":"Alexandra Palace",
+    "Code":"AAP"
+  },
+  {
+    "Station name":"Alexandra Parade",
+    "Code":"AXP"
+  },
+  {
+    "Station name":"Alexandria",
+    "Code":"ALX"
+  },
+  {
+    "Station name":"Alfreton",
+    "Code":"ALF"
+  },
+  {
+    "Station name":"Allens West",
+    "Code":"ALW"
+  },
+  {
+    "Station name":"Alloa",
+    "Code":"ALO"
+  },
+  {
+    "Station name":"Alness",
+    "Code":"ASS"
+  },
+  {
+    "Station name":"Alnmouth",
+    "Code":"ALM"
+  },
+  {
+    "Station name":"Alresford (Essex)",
+    "Code":"ALR"
+  },
+  {
+    "Station name":"Alsager",
+    "Code":"ASG"
+  },
+  {
+    "Station name":"Althorne (Essex)",
+    "Code":"ALN"
+  },
+  {
+    "Station name":"Althorpe",
+    "Code":"ALP"
+  },
+  {
+    "Station name":"Altnabreac",
+    "Code":"ABC"
+  },
+  {
+    "Station name":"Alton",
+    "Code":"AON"
+  },
+  {
+    "Station name":"Altrincham",
+    "Code":"ALT"
+  },
+  {
+    "Station name":"Alvechurch",
+    "Code":"ALV"
+  },
+  {
+    "Station name":"Ambergate",
+    "Code":"AMB"
+  },
+  {
+    "Station name":"Amberley",
+    "Code":"AMY"
+  },
+  {
+    "Station name":"Amersham",
+    "Code":"AMR"
+  },
+  {
+    "Station name":"Ammanford",
+    "Code":"AMF"
+  },
+  {
+    "Station name":"Ancaster",
+    "Code":"ANC"
+  },
+  {
+    "Station name":"Anderston",
+    "Code":"AND"
+  },
+  {
+    "Station name":"Andover",
+    "Code":"ADV"
+  },
+  {
+    "Station name":"Anerley",
+    "Code":"ANZ"
+  },
+  {
+    "Station name":"Angel Road",
+    "Code":"AGR"
+  },
+  {
+    "Station name":"Angmering",
+    "Code":"ANG"
+  },
+  {
+    "Station name":"Annan",
+    "Code":"ANN"
+  },
+  {
+    "Station name":"Anniesland",
+    "Code":"ANL"
+  },
+  {
+    "Station name":"Ansdell & Fairhaven",
+    "Code":"AFV"
+  },
+  {
+    "Station name":"Appleby",
+    "Code":"APP"
+  },
+  {
+    "Station name":"Appledore (Kent)",
+    "Code":"APD"
+  },
+  {
+    "Station name":"Appleford",
+    "Code":"APF"
+  },
+  {
+    "Station name":"Appley Bridge",
+    "Code":"APB"
+  },
+  {
+    "Station name":"Apsley",
+    "Code":"APS"
+  },
+  {
+    "Station name":"Arbroath",
+    "Code":"ARB"
+  },
+  {
+    "Station name":"Ardgay",
+    "Code":"ARD"
+  },
+  {
+    "Station name":"Ardlui",
+    "Code":"AUI"
+  },
+  {
+    "Station name":"Ardrossan Harbour",
+    "Code":"ADS"
+  },
+  {
+    "Station name":"Ardrossan South Beach",
+    "Code":"ASB"
+  },
+  {
+    "Station name":"Ardrossan Town",
+    "Code":"ADN"
+  },
+  {
+    "Station name":"Ardwick",
+    "Code":"ADK"
+  },
+  {
+    "Station name":"Argyle Street",
+    "Code":"AGS"
+  },
+  {
+    "Station name":"Arisaig",
+    "Code":"ARG"
+  },
+  {
+    "Station name":"Arlesey",
+    "Code":"ARL"
+  },
+  {
+    "Station name":"Armadale (West Lothian)",
+    "Code":"ARM"
+  },
+  {
+    "Station name":"Armathwaite",
+    "Code":"AWT"
+  },
+  {
+    "Station name":"Arnside",
+    "Code":"ARN"
+  },
+  {
+    "Station name":"Arram",
+    "Code":"ARR"
+  },
+  {
+    "Station name":"Arrochar & Tarbet",
+    "Code":"ART"
+  },
+  {
+    "Station name":"Arundel",
+    "Code":"ARU"
+  },
+  {
+    "Station name":"Ascot (Berks)",
+    "Code":"ACT"
+  },
+  {
+    "Station name":"Ascott-under-Wychwood",
+    "Code":"AUW"
+  },
+  {
+    "Station name":"Ash",
+    "Code":"ASH"
+  },
+  {
+    "Station name":"Ash Vale",
+    "Code":"AHV"
+  },
+  {
+    "Station name":"Ashburys",
+    "Code":"ABY"
+  },
+  {
+    "Station name":"Ashchurch for Tewkesbury",
+    "Code":"ASC"
+  },
+  {
+    "Station name":"Ashfield",
+    "Code":"ASF"
+  },
+  {
+    "Station name":"Ashford International",
+    "Code":"AFK"
+  },
+  {
+    "Station name":"Ashford International (Eurostar)",
+    "Code":"ASI"
+  },
+  {
+    "Station name":"Ashford (Surrey)",
+    "Code":"AFS"
+  },
+  {
+    "Station name":"Ashley",
+    "Code":"ASY"
+  },
+  {
+    "Station name":"Ashtead",
+    "Code":"AHD"
+  },
+  {
+    "Station name":"Ashton-under-Lyne",
+    "Code":"AHN"
+  },
+  {
+    "Station name":"Ashurst (Kent)",
+    "Code":"AHS"
+  },
+  {
+    "Station name":"Ashurst New Forest",
+    "Code":"ANF"
+  },
+  {
+    "Station name":"Ashwell & Morden",
+    "Code":"AWM"
+  },
+  {
+    "Station name":"Askam",
+    "Code":"ASK"
+  },
+  {
+    "Station name":"Aslockton",
+    "Code":"ALK"
+  },
+  {
+    "Station name":"Aspatria",
+    "Code":"ASP"
+  },
+  {
+    "Station name":"Aspley Guise",
+    "Code":"APG"
+  },
+  {
+    "Station name":"Aston",
+    "Code":"AST"
+  },
+  {
+    "Station name":"Atherstone",
+    "Code":"ATH"
+  },
+  {
+    "Station name":"Atherton (Manchester)",
+    "Code":"ATN"
+  },
+  {
+    "Station name":"Attadale",
+    "Code":"ATT"
+  },
+  {
+    "Station name":"Attenborough",
+    "Code":"ATB"
+  },
+  {
+    "Station name":"Attleborough",
+    "Code":"ATL"
+  },
+  {
+    "Station name":"Auchinleck",
+    "Code":"AUK"
+  },
+  {
+    "Station name":"Audley End",
+    "Code":"AUD"
+  },
+  {
+    "Station name":"Aughton Park",
+    "Code":"AUG"
+  },
+  {
+    "Station name":"Aviemore",
+    "Code":"AVM"
+  },
+  {
+    "Station name":"Avoncliff",
+    "Code":"AVF"
+  },
+  {
+    "Station name":"Avonmouth",
+    "Code":"AVN"
+  },
+  {
+    "Station name":"Axminster",
+    "Code":"AXM"
+  },
+  {
+    "Station name":"Aylesbury",
+    "Code":"AYS"
+  },
+  {
+    "Station name":"Aylesbury Vale Parkway",
+    "Code":"AVP"
+  },
+  {
+    "Station name":"Aylesford",
+    "Code":"AYL"
+  },
+  {
+    "Station name":"Aylesham",
+    "Code":"AYH"
+  },
+  {
+    "Station name":"Ayr",
+    "Code":"AYR"
+  },
+  {
+    "Station name":"Bache",
+    "Code":"BAC"
+  },
+  {
+    "Station name":"Baglan",
+    "Code":"BAJ"
+  },
+  {
+    "Station name":"Bagshot",
+    "Code":"BAG"
+  },
+  {
+    "Station name":"Baildon",
+    "Code":"BLD"
+  },
+  {
+    "Station name":"Baillieston",
+    "Code":"BIO"
+  },
+  {
+    "Station name":"Balcombe",
+    "Code":"BAB"
+  },
+  {
+    "Station name":"Baldock",
+    "Code":"BDK"
+  },
+  {
+    "Station name":"Balham",
+    "Code":"BAL"
+  },
+  {
+    "Station name":"Balloch",
+    "Code":"BHC"
+  },
+  {
+    "Station name":"Balmossie",
+    "Code":"BSI"
+  },
+  {
+    "Station name":"Bamber Bridge",
+    "Code":"BMB"
+  },
+  {
+    "Station name":"Bamford",
+    "Code":"BAM"
+  },
+  {
+    "Station name":"Banavie",
+    "Code":"BNV"
+  },
+  {
+    "Station name":"Banbury",
+    "Code":"BAN"
+  },
+  {
+    "Station name":"Bangor (Gwynedd)",
+    "Code":"BNG"
+  },
+  {
+    "Station name":"Bank Hall",
+    "Code":"BAH"
+  },
+  {
+    "Station name":"Banstead",
+    "Code":"BAD"
+  },
+  {
+    "Station name":"Barassie",
+    "Code":"BSS"
+  },
+  {
+    "Station name":"Barbican",
+    "Code":"ZBB"
+  },
+  {
+    "Station name":"Bardon Mill",
+    "Code":"BLL"
+  },
+  {
+    "Station name":"Bare Lane",
+    "Code":"BAR"
+  },
+  {
+    "Station name":"Bargeddie",
+    "Code":"BGI"
+  },
+  {
+    "Station name":"Bargoed",
+    "Code":"BGD"
+  },
+  {
+    "Station name":"Barking",
+    "Code":"BKG"
+  },
+  {
+    "Station name":"Barking Underground",
+    "Code":"ZBK"
+  },
+  {
+    "Station name":"Barlaston",
+    "Code":"BRT"
+  },
+  {
+    "Station name":"Barming",
+    "Code":"BMG"
+  },
+  {
+    "Station name":"Barmouth",
+    "Code":"BRM"
+  },
+  {
+    "Station name":"Barnehurst",
+    "Code":"BNH"
+  },
+  {
+    "Station name":"Barnes",
+    "Code":"BNS"
+  },
+  {
+    "Station name":"Barnes Bridge",
+    "Code":"BNI"
+  },
+  {
+    "Station name":"Barnetby",
+    "Code":"BTB"
+  },
+  {
+    "Station name":"Barnham",
+    "Code":"BAA"
+  },
+  {
+    "Station name":"Barnhill",
+    "Code":"BNL"
+  },
+  {
+    "Station name":"Barnsley",
+    "Code":"BNY"
+  },
+  {
+    "Station name":"Barnstaple",
+    "Code":"BNP"
+  },
+  {
+    "Station name":"Barnt Green",
+    "Code":"BTG"
+  },
+  {
+    "Station name":"Barrhead",
+    "Code":"BRR"
+  },
+  {
+    "Station name":"Barrhill",
+    "Code":"BRL"
+  },
+  {
+    "Station name":"Barrow Haven",
+    "Code":"BAV"
+  },
+  {
+    "Station name":"Barrow-in-Furness",
+    "Code":"BIF"
+  },
+  {
+    "Station name":"Barrow-Upon-Soar",
+    "Code":"BWS"
+  },
+  {
+    "Station name":"Barry",
+    "Code":"BRY"
+  },
+  {
+    "Station name":"Barry Docks",
+    "Code":"BYD"
+  },
+  {
+    "Station name":"Barry Island",
+    "Code":"BYI"
+  },
+  {
+    "Station name":"Barry Links",
+    "Code":"BYL"
+  },
+  {
+    "Station name":"Barton-on-Humber",
+    "Code":"BAU"
+  },
+  {
+    "Station name":"Basildon",
+    "Code":"BSO"
+  },
+  {
+    "Station name":"Basingstoke",
+    "Code":"BSK"
+  },
+  {
+    "Station name":"Bat & Ball",
+    "Code":"BBL"
+  },
+  {
+    "Station name":"Bath Spa",
+    "Code":"BTH"
+  },
+  {
+    "Station name":"Bathgate",
+    "Code":"BHG"
+  },
+  {
+    "Station name":"Batley",
+    "Code":"BTL"
+  },
+  {
+    "Station name":"Battersby",
+    "Code":"BTT"
+  },
+  {
+    "Station name":"Battersea Park",
+    "Code":"BAK"
+  },
+  {
+    "Station name":"Battle",
+    "Code":"BAT"
+  },
+  {
+    "Station name":"Battlesbridge",
+    "Code":"BLB"
+  },
+  {
+    "Station name":"Bayford",
+    "Code":"BAY"
+  },
+  {
+    "Station name":"Beaconsfield",
+    "Code":"BCF"
+  },
+  {
+    "Station name":"Bearley",
+    "Code":"BER"
+  },
+  {
+    "Station name":"Bearsden",
+    "Code":"BRN"
+  },
+  {
+    "Station name":"Bearsted",
+    "Code":"BSD"
+  },
+  {
+    "Station name":"Beasdale",
+    "Code":"BSL"
+  },
+  {
+    "Station name":"Beaulieu Road",
+    "Code":"BEU"
+  },
+  {
+    "Station name":"Beauly",
+    "Code":"BEL"
+  },
+  {
+    "Station name":"Bebington",
+    "Code":"BEB"
+  },
+  {
+    "Station name":"Beccles",
+    "Code":"BCC"
+  },
+  {
+    "Station name":"Beckenham Hill",
+    "Code":"BEC"
+  },
+  {
+    "Station name":"Beckenham Junction",
+    "Code":"BKJ"
+  },
+  {
+    "Station name":"Bedford",
+    "Code":"BDM"
+  },
+  {
+    "Station name":"Bedford St Johns",
+    "Code":"BSJ"
+  },
+  {
+    "Station name":"Bedhampton",
+    "Code":"BDH"
+  },
+  {
+    "Station name":"Bedminster",
+    "Code":"BMT"
+  },
+  {
+    "Station name":"Bedworth",
+    "Code":"BEH"
+  },
+  {
+    "Station name":"Bedwyn",
+    "Code":"BDW"
+  },
+  {
+    "Station name":"Beeston",
+    "Code":"BEE"
+  },
+  {
+    "Station name":"Bekesbourne",
+    "Code":"BKS"
+  },
+  {
+    "Station name":"Belle Vue",
+    "Code":"BLV"
+  },
+  {
+    "Station name":"Bellgrove",
+    "Code":"BLG"
+  },
+  {
+    "Station name":"Bellingham",
+    "Code":"BGM"
+  },
+  {
+    "Station name":"Bellshill",
+    "Code":"BLH"
+  },
+  {
+    "Station name":"Belmont",
+    "Code":"BLM"
+  },
+  {
+    "Station name":"Belper",
+    "Code":"BLP"
+  },
+  {
+    "Station name":"Beltring",
+    "Code":"BEG"
+  },
+  {
+    "Station name":"Belvedere",
+    "Code":"BVD"
+  },
+  {
+    "Station name":"Bempton",
+    "Code":"BEM"
+  },
+  {
+    "Station name":"Ben Rhydding",
+    "Code":"BEY"
+  },
+  {
+    "Station name":"Benfleet",
+    "Code":"BEF"
+  },
+  {
+    "Station name":"Bentham",
+    "Code":"BEN"
+  },
+  {
+    "Station name":"Bentley (Hants)",
+    "Code":"BTY"
+  },
+  {
+    "Station name":"Bentley (South Yorks)",
+    "Code":"BYK"
+  },
+  {
+    "Station name":"Bere Alston",
+    "Code":"BAS"
+  },
+  {
+    "Station name":"Bere Ferrers",
+    "Code":"BFE"
+  },
+  {
+    "Station name":"Berkhamsted",
+    "Code":"BKM"
+  },
+  {
+    "Station name":"Berkswell",
+    "Code":"BKW"
+  },
+  {
+    "Station name":"Berney Arms",
+    "Code":"BYA"
+  },
+  {
+    "Station name":"Berry Brow",
+    "Code":"BBW"
+  },
+  {
+    "Station name":"Berrylands",
+    "Code":"BRS"
+  },
+  {
+    "Station name":"Berwick (Sussex)",
+    "Code":"BRK"
+  },
+  {
+    "Station name":"Berwick-upon-Tweed",
+    "Code":"BWK"
+  },
+  {
+    "Station name":"Bescar Lane",
+    "Code":"BES"
+  },
+  {
+    "Station name":"Bescot Stadium",
+    "Code":"BSC"
+  },
+  {
+    "Station name":"Betchworth",
+    "Code":"BTO"
+  },
+  {
+    "Station name":"Bethnal Green",
+    "Code":"BET"
+  },
+  {
+    "Station name":"Betws-y-Coed",
+    "Code":"BYC"
+  },
+  {
+    "Station name":"Beverley",
+    "Code":"BEV"
+  },
+  {
+    "Station name":"Bexhill",
+    "Code":"BEX"
+  },
+  {
+    "Station name":"Bexley",
+    "Code":"BXY"
+  },
+  {
+    "Station name":"Bexleyheath",
+    "Code":"BXH"
+  },
+  {
+    "Station name":"Bicester North",
+    "Code":"BCS"
+  },
+  {
+    "Station name":"Bicester Town",
+    "Code":"BIT"
+  },
+  {
+    "Station name":"Bickley",
+    "Code":"BKL"
+  },
+  {
+    "Station name":"Bidston",
+    "Code":"BID"
+  },
+  {
+    "Station name":"Biggleswade",
+    "Code":"BIW"
+  },
+  {
+    "Station name":"Bilbrook",
+    "Code":"BBK"
+  },
+  {
+    "Station name":"Billericay",
+    "Code":"BIC"
+  },
+  {
+    "Station name":"Billingham (Cleveland)",
+    "Code":"BIL"
+  },
+  {
+    "Station name":"Billingshurst",
+    "Code":"BIG"
+  },
+  {
+    "Station name":"Bingham",
+    "Code":"BIN"
+  },
+  {
+    "Station name":"Bingley",
+    "Code":"BIY"
+  },
+  {
+    "Station name":"Birchgrove",
+    "Code":"BCG"
+  },
+  {
+    "Station name":"Birchington-on-sea",
+    "Code":"BCH"
+  },
+  {
+    "Station name":"Birchwood",
+    "Code":"BWD"
+  },
+  {
+    "Station name":"Birkbeck",
+    "Code":"BIK"
+  },
+  {
+    "Station name":"Birkdale",
+    "Code":"BDL"
+  },
+  {
+    "Station name":"Birkenhead Central",
+    "Code":"BKC"
+  },
+  {
+    "Station name":"Birkenhead Hamilton Square",
+    "Code":"BKQ"
+  },
+  {
+    "Station name":"Birkenhead North",
+    "Code":"BKN"
+  },
+  {
+    "Station name":"Birkenhead Park",
+    "Code":"BKP"
+  },
+  {
+    "Station name":"Birmingham International",
+    "Code":"BHI"
+  },
+  {
+    "Station name":"Birmingham Moor Street",
+    "Code":"BMO"
+  },
+  {
+    "Station name":"Birmingham New Street",
+    "Code":"BHM"
+  },
+  {
+    "Station name":"Birmingham Snow Hill",
+    "Code":"BSW"
+  },
+  {
+    "Station name":"Bishop Auckland",
+    "Code":"BIA"
+  },
+  {
+    "Station name":"Bishopbriggs",
+    "Code":"BBG"
+  },
+  {
+    "Station name":"Bishops Stortford",
+    "Code":"BIS"
+  },
+  {
+    "Station name":"Bishopstone (Sussex)",
+    "Code":"BIP"
+  },
+  {
+    "Station name":"Bishopton (Strathclyde)",
+    "Code":"BPT"
+  },
+  {
+    "Station name":"Bitterne",
+    "Code":"BTE"
+  },
+  {
+    "Station name":"Blackburn",
+    "Code":"BBN"
+  },
+  {
+    "Station name":"Blackheath",
+    "Code":"BKH"
+  },
+  {
+    "Station name":"Blackhorse Road",
+    "Code":"BHO"
+  },
+  {
+    "Station name":"Blackpool North",
+    "Code":"BPN"
+  },
+  {
+    "Station name":"Blackpool Pleasure Beach",
+    "Code":"BPB"
+  },
+  {
+    "Station name":"Blackpool South",
+    "Code":"BPS"
+  },
+  {
+    "Station name":"Blackridge",
+    "Code":"BKR"
+  },
+  {
+    "Station name":"Blackrod",
+    "Code":"BLK"
+  },
+  {
+    "Station name":"Blackwater",
+    "Code":"BAW"
+  },
+  {
+    "Station name":"Blaenau Ffestiniog",
+    "Code":"BFF"
+  },
+  {
+    "Station name":"Blair Atholl",
+    "Code":"BLA"
+  },
+  {
+    "Station name":"Blairhill",
+    "Code":"BAI"
+  },
+  {
+    "Station name":"Blake Street",
+    "Code":"BKT"
+  },
+  {
+    "Station name":"Blakedown",
+    "Code":"BKD"
+  },
+  {
+    "Station name":"Blantyre",
+    "Code":"BLT"
+  },
+  {
+    "Station name":"Blaydon",
+    "Code":"BLO"
+  },
+  {
+    "Station name":"Bleasby",
+    "Code":"BSB"
+  },
+  {
+    "Station name":"Bletchley",
+    "Code":"BLY"
+  },
+  {
+    "Station name":"Bloxwich",
+    "Code":"BLX"
+  },
+  {
+    "Station name":"Bloxwich North",
+    "Code":"BWN"
+  },
+  {
+    "Station name":"Blundellsands & Crosby",
+    "Code":"BLN"
+  },
+  {
+    "Station name":"Blythe Bridge",
+    "Code":"BYB"
+  },
+  {
+    "Station name":"Bodmin Parkway",
+    "Code":"BOD"
+  },
+  {
+    "Station name":"Bodorgan",
+    "Code":"BOR"
+  },
+  {
+    "Station name":"Bognor Regis",
+    "Code":"BOG"
+  },
+  {
+    "Station name":"Bogston",
+    "Code":"BGS"
+  },
+  {
+    "Station name":"Bolton",
+    "Code":"BON"
+  },
+  {
+    "Station name":"Bolton-on-Dearne",
+    "Code":"BTD"
+  },
+  {
+    "Station name":"Bookham",
+    "Code":"BKA"
+  },
+  {
+    "Station name":"Bootle (Cumbria)",
+    "Code":"BOC"
+  },
+  {
+    "Station name":"Bootle New Strand",
+    "Code":"BNW"
+  },
+  {
+    "Station name":"Bootle Oriel Road",
+    "Code":"BOT"
+  },
+  {
+    "Station name":"Bordesley",
+    "Code":"BBS"
+  },
+  {
+    "Station name":"Borough Green & Wrotham",
+    "Code":"BRG"
+  },
+  {
+    "Station name":"Borth",
+    "Code":"BRH"
+  },
+  {
+    "Station name":"Bosham",
+    "Code":"BOH"
+  },
+  {
+    "Station name":"Boston",
+    "Code":"BSN"
+  },
+  {
+    "Station name":"Botley",
+    "Code":"BOE"
+  },
+  {
+    "Station name":"Bottesford",
+    "Code":"BTF"
+  },
+  {
+    "Station name":"Bourne End",
+    "Code":"BNE"
+  },
+  {
+    "Station name":"Bournemouth",
+    "Code":"BMH"
+  },
+  {
+    "Station name":"Bournville",
+    "Code":"BRV"
+  },
+  {
+    "Station name":"Bow Brickhill",
+    "Code":"BWB"
+  },
+  {
+    "Station name":"Bowes Park",
+    "Code":"BOP"
+  },
+  {
+    "Station name":"Bowling",
+    "Code":"BWG"
+  },
+  {
+    "Station name":"Box Hill & Westhumble",
+    "Code":"BXW"
+  },
+  {
+    "Station name":"Bracknell",
+    "Code":"BCE"
+  },
+  {
+    "Station name":"Bradford Forster Square",
+    "Code":"BDQ"
+  },
+  {
+    "Station name":"Bradford Interchange",
+    "Code":"BDI"
+  },
+  {
+    "Station name":"Bradford-on-Avon",
+    "Code":"BOA"
+  },
+  {
+    "Station name":"Brading",
+    "Code":"BDN"
+  },
+  {
+    "Station name":"Braintree",
+    "Code":"BTR"
+  },
+  {
+    "Station name":"Braintree Freeport",
+    "Code":"BTP"
+  },
+  {
+    "Station name":"Bramhall",
+    "Code":"BML"
+  },
+  {
+    "Station name":"Bramley (Hants)",
+    "Code":"BMY"
+  },
+  {
+    "Station name":"Bramley (W Yorks)",
+    "Code":"BLE"
+  },
+  {
+    "Station name":"Brampton (Cumbria)",
+    "Code":"BMP"
+  },
+  {
+    "Station name":"Brampton (Suffolk)",
+    "Code":"BRP"
+  },
+  {
+    "Station name":"Branchton",
+    "Code":"BCN"
+  },
+  {
+    "Station name":"Brandon",
+    "Code":"BND"
+  },
+  {
+    "Station name":"Branksome",
+    "Code":"BSM"
+  },
+  {
+    "Station name":"Braystones (Cumbria)",
+    "Code":"BYS"
+  },
+  {
+    "Station name":"Bredbury",
+    "Code":"BDY"
+  },
+  {
+    "Station name":"Breich",
+    "Code":"BRC"
+  },
+  {
+    "Station name":"Brentford",
+    "Code":"BFD"
+  },
+  {
+    "Station name":"Brentwood",
+    "Code":"BRE"
+  },
+  {
+    "Station name":"Bricket Wood",
+    "Code":"BWO"
+  },
+  {
+    "Station name":"Bridge of Allan",
+    "Code":"BEA"
+  },
+  {
+    "Station name":"Bridge of Orchy",
+    "Code":"BRO"
+  },
+  {
+    "Station name":"Bridgend",
+    "Code":"BGN"
+  },
+  {
+    "Station name":"Bridgeton",
+    "Code":"BDG"
+  },
+  {
+    "Station name":"Bridgwater",
+    "Code":"BWT"
+  },
+  {
+    "Station name":"Bridlington",
+    "Code":"BDT"
+  },
+  {
+    "Station name":"Brierfield",
+    "Code":"BRF"
+  },
+  {
+    "Station name":"Brigg",
+    "Code":"BGG"
+  },
+  {
+    "Station name":"Brighouse",
+    "Code":"BGH"
+  },
+  {
+    "Station name":"Brighton (East Sussex)",
+    "Code":"BTN"
+  },
+  {
+    "Station name":"Brimsdown",
+    "Code":"BMD"
+  },
+  {
+    "Station name":"Brinnington",
+    "Code":"BNT"
+  },
+  {
+    "Station name":"Bristol Parkway",
+    "Code":"BPW"
+  },
+  {
+    "Station name":"Bristol Temple Meads",
+    "Code":"BRI"
+  },
+  {
+    "Station name":"Brithdir",
+    "Code":"BHD"
+  },
+  {
+    "Station name":"Briton Ferry",
+    "Code":"BNF"
+  },
+  {
+    "Station name":"Brixton",
+    "Code":"BRX"
+  },
+  {
+    "Station name":"Broad Green",
+    "Code":"BGE"
+  },
+  {
+    "Station name":"Broadbottom",
+    "Code":"BDB"
+  },
+  {
+    "Station name":"Broadstairs",
+    "Code":"BSR"
+  },
+  {
+    "Station name":"Brockenhurst",
+    "Code":"BCU"
+  },
+  {
+    "Station name":"Brockholes",
+    "Code":"BHS"
+  },
+  {
+    "Station name":"Brockley",
+    "Code":"BCY"
+  },
+  {
+    "Station name":"Bromborough",
+    "Code":"BOM"
+  },
+  {
+    "Station name":"Bromborough Rake",
+    "Code":"BMR"
+  },
+  {
+    "Station name":"Bromley Cross (Lancs)",
+    "Code":"BMC"
+  },
+  {
+    "Station name":"Bromley North",
+    "Code":"BMN"
+  },
+  {
+    "Station name":"Bromley South",
+    "Code":"BMS"
+  },
+  {
+    "Station name":"Bromsgrove",
+    "Code":"BMV"
+  },
+  {
+    "Station name":"Brondesbury",
+    "Code":"BSY"
+  },
+  {
+    "Station name":"Brondesbury Park",
+    "Code":"BSP"
+  },
+  {
+    "Station name":"Brookmans Park",
+    "Code":"BPK"
+  },
+  {
+    "Station name":"Brookwood",
+    "Code":"BKO"
+  },
+  {
+    "Station name":"Broome",
+    "Code":"BME"
+  },
+  {
+    "Station name":"Broomfleet",
+    "Code":"BMF"
+  },
+  {
+    "Station name":"Brora",
+    "Code":"BRA"
+  },
+  {
+    "Station name":"Brough",
+    "Code":"BUH"
+  },
+  {
+    "Station name":"Broughty Ferry",
+    "Code":"BYF"
+  },
+  {
+    "Station name":"Broxbourne",
+    "Code":"BXB"
+  },
+  {
+    "Station name":"Bruce Grove",
+    "Code":"BCV"
+  },
+  {
+    "Station name":"Brundall",
+    "Code":"BDA"
+  },
+  {
+    "Station name":"Brundall Gardens",
+    "Code":"BGA"
+  },
+  {
+    "Station name":"Brunstane",
+    "Code":"BSU"
+  },
+  {
+    "Station name":"Brunswick",
+    "Code":"BRW"
+  },
+  {
+    "Station name":"Bruton",
+    "Code":"BRU"
+  },
+  {
+    "Station name":"Bryn",
+    "Code":"BYN"
+  },
+  {
+    "Station name":"Buckenham (Norfolk)",
+    "Code":"BUC"
+  },
+  {
+    "Station name":"Buckley",
+    "Code":"BCK"
+  },
+  {
+    "Station name":"Bucknell",
+    "Code":"BUK"
+  },
+  {
+    "Station name":"Buckshaw Parkway",
+    "Code":"BSV"
+  },
+  {
+    "Station name":"Bugle",
+    "Code":"BGL"
+  },
+  {
+    "Station name":"Builth Road",
+    "Code":"BHR"
+  },
+  {
+    "Station name":"Bulwell",
+    "Code":"BLW"
+  },
+  {
+    "Station name":"Bures",
+    "Code":"BUE"
+  },
+  {
+    "Station name":"Burgess Hill",
+    "Code":"BUG"
+  },
+  {
+    "Station name":"Burley Park",
+    "Code":"BUY"
+  },
+  {
+    "Station name":"Burley-in-Wharfedale",
+    "Code":"BUW"
+  },
+  {
+    "Station name":"Burnage",
+    "Code":"BNA"
+  },
+  {
+    "Station name":"Burneside (Cumbria)",
+    "Code":"BUD"
+  },
+  {
+    "Station name":"Burnham (Bucks)",
+    "Code":"BNM"
+  },
+  {
+    "Station name":"Burnham-on-Crouch",
+    "Code":"BUU"
+  },
+  {
+    "Station name":"Burnley Barracks",
+    "Code":"BUB"
+  },
+  {
+    "Station name":"Burnley Central",
+    "Code":"BNC"
+  },
+  {
+    "Station name":"Burnley Manchester Road",
+    "Code":"BYM"
+  },
+  {
+    "Station name":"Burnside (Strathclyde)",
+    "Code":"BUI"
+  },
+  {
+    "Station name":"Burntisland",
+    "Code":"BTS"
+  },
+  {
+    "Station name":"Burscough Bridge",
+    "Code":"BCB"
+  },
+  {
+    "Station name":"Burscough Junction",
+    "Code":"BCJ"
+  },
+  {
+    "Station name":"Bursledon",
+    "Code":"BUO"
+  },
+  {
+    "Station name":"Burton Joyce",
+    "Code":"BUJ"
+  },
+  {
+    "Station name":"Burton-on-Trent",
+    "Code":"BUT"
+  },
+  {
+    "Station name":"Bury St Edmunds",
+    "Code":"BSE"
+  },
+  {
+    "Station name":"Busby",
+    "Code":"BUS"
+  },
+  {
+    "Station name":"Bush Hill Park",
+    "Code":"BHK"
+  },
+  {
+    "Station name":"Bushey",
+    "Code":"BSH"
+  },
+  {
+    "Station name":"Butlers Lane",
+    "Code":"BUL"
+  },
+  {
+    "Station name":"Buxted",
+    "Code":"BXD"
+  },
+  {
+    "Station name":"Buxton",
+    "Code":"BUX"
+  },
+  {
+    "Station name":"Byfleet & New Haw",
+    "Code":"BFN"
+  },
+  {
+    "Station name":"Bynea",
+    "Code":"BYE"
+  },
+  {
+    "Station name":"Cadoxton",
+    "Code":"CAD"
+  },
+  {
+    "Station name":"Caergwrle",
+    "Code":"CGW"
+  },
+  {
+    "Station name":"Caerphilly",
+    "Code":"CPH"
+  },
+  {
+    "Station name":"Caersws",
+    "Code":"CWS"
+  },
+  {
+    "Station name":"Caldercruix",
+    "Code":"CAC"
+  },
+  {
+    "Station name":"Caldicot",
+    "Code":"CDT"
+  },
+  {
+    "Station name":"Caledonian Rd & Barnsbury",
+    "Code":"CIR"
+  },
+  {
+    "Station name":"Calstock",
+    "Code":"CSK"
+  },
+  {
+    "Station name":"Cam & Dursley",
+    "Code":"CDU"
+  },
+  {
+    "Station name":"Camberley",
+    "Code":"CAM"
+  },
+  {
+    "Station name":"Camborne",
+    "Code":"CBN"
+  },
+  {
+    "Station name":"Cambridge",
+    "Code":"CBG"
+  },
+  {
+    "Station name":"Cambridge Heath",
+    "Code":"CBH"
+  },
+  {
+    "Station name":"Cambuslang",
+    "Code":"CBL"
+  },
+  {
+    "Station name":"Camden Road",
+    "Code":"CMD"
+  },
+  {
+    "Station name":"Camelon",
+    "Code":"CMO"
+  },
+  {
+    "Station name":"Canada Water",
+    "Code":"ZCW"
+  },
+  {
+    "Station name":"Canley",
+    "Code":"CNL"
+  },
+  {
+    "Station name":"Cannock",
+    "Code":"CAO"
+  },
+  {
+    "Station name":"Canonbury",
+    "Code":"CNN"
+  },
+  {
+    "Station name":"Canterbury East",
+    "Code":"CBE"
+  },
+  {
+    "Station name":"Canterbury West",
+    "Code":"CBW"
+  },
+  {
+    "Station name":"Cantley",
+    "Code":"CNY"
+  },
+  {
+    "Station name":"Capenhurst",
+    "Code":"CPU"
+  },
+  {
+    "Station name":"Carbis Bay",
+    "Code":"CBB"
+  },
+  {
+    "Station name":"Cardenden",
+    "Code":"CDD"
+  },
+  {
+    "Station name":"Cardiff Bay",
+    "Code":"CDB"
+  },
+  {
+    "Station name":"Cardiff Central",
+    "Code":"CDF"
+  },
+  {
+    "Station name":"Cardiff Queen Street",
+    "Code":"CDQ"
+  },
+  {
+    "Station name":"Cardonald",
+    "Code":"CDO"
+  },
+  {
+    "Station name":"Cardross",
+    "Code":"CDR"
+  },
+  {
+    "Station name":"Carfin",
+    "Code":"CRF"
+  },
+  {
+    "Station name":"Cark & Cartmel",
+    "Code":"CAK"
+  },
+  {
+    "Station name":"Carlisle",
+    "Code":"CAR"
+  },
+  {
+    "Station name":"Carlton",
+    "Code":"CTO"
+  },
+  {
+    "Station name":"Carluke",
+    "Code":"CLU"
+  },
+  {
+    "Station name":"Carmarthen",
+    "Code":"CMN"
+  },
+  {
+    "Station name":"Carmyle",
+    "Code":"CML"
+  },
+  {
+    "Station name":"Carnforth",
+    "Code":"CNF"
+  },
+  {
+    "Station name":"Carnoustie",
+    "Code":"CAN"
+  },
+  {
+    "Station name":"Carntyne",
+    "Code":"CAY"
+  },
+  {
+    "Station name":"Carpenders Park",
+    "Code":"CPK"
+  },
+  {
+    "Station name":"Carrbridge",
+    "Code":"CAG"
+  },
+  {
+    "Station name":"Carshalton",
+    "Code":"CSH"
+  },
+  {
+    "Station name":"Carshalton Beeches",
+    "Code":"CSB"
+  },
+  {
+    "Station name":"Carstairs",
+    "Code":"CRS"
+  },
+  {
+    "Station name":"Cartsdyke",
+    "Code":"CDY"
+  },
+  {
+    "Station name":"Castle Bar Park",
+    "Code":"CBP"
+  },
+  {
+    "Station name":"Castle Cary",
+    "Code":"CLC"
+  },
+  {
+    "Station name":"Castleford",
+    "Code":"CFD"
+  },
+  {
+    "Station name":"Castleton (Manchester)",
+    "Code":"CAS"
+  },
+  {
+    "Station name":"Castleton Moor",
+    "Code":"CSM"
+  },
+  {
+    "Station name":"Caterham",
+    "Code":"CAT"
+  },
+  {
+    "Station name":"Catford",
+    "Code":"CTF"
+  },
+  {
+    "Station name":"Catford Bridge",
+    "Code":"CFB"
+  },
+  {
+    "Station name":"Cathays",
+    "Code":"CYS"
+  },
+  {
+    "Station name":"Cathcart",
+    "Code":"CCT"
+  },
+  {
+    "Station name":"Cattal",
+    "Code":"CTL"
+  },
+  {
+    "Station name":"Causeland",
+    "Code":"CAU"
+  },
+  {
+    "Station name":"Cefn-y-Bedd",
+    "Code":"CYB"
+  },
+  {
+    "Station name":"Chadwell Heath",
+    "Code":"CTH"
+  },
+  {
+    "Station name":"Chafford Hundred Lakeside",
+    "Code":"CFH"
+  },
+  {
+    "Station name":"Chalfont & Latimer",
+    "Code":"CFO"
+  },
+  {
+    "Station name":"Chalkwell",
+    "Code":"CHW"
+  },
+  {
+    "Station name":"Chandlers Ford",
+    "Code":"CFR"
+  },
+  {
+    "Station name":"Chapel-en-le-Frith",
+    "Code":"CEF"
+  },
+  {
+    "Station name":"Chapelton (Devon)",
+    "Code":"CPN"
+  },
+  {
+    "Station name":"Chapeltown (South Yorks)",
+    "Code":"CLN"
+  },
+  {
+    "Station name":"Chappel & Wakes Colne",
+    "Code":"CWC"
+  },
+  {
+    "Station name":"Charing Cross (Glasgow)",
+    "Code":"CHC"
+  },
+  {
+    "Station name":"Charing (Kent)",
+    "Code":"CHG"
+  },
+  {
+    "Station name":"Charlbury",
+    "Code":"CBY"
+  },
+  {
+    "Station name":"Charlton",
+    "Code":"CTN"
+  },
+  {
+    "Station name":"Chartham",
+    "Code":"CRT"
+  },
+  {
+    "Station name":"Chassen Road",
+    "Code":"CSR"
+  },
+  {
+    "Station name":"Chatelherault",
+    "Code":"CTE"
+  },
+  {
+    "Station name":"Chatham",
+    "Code":"CTM"
+  },
+  {
+    "Station name":"Chathill",
+    "Code":"CHT"
+  },
+  {
+    "Station name":"Cheadle Hulme",
+    "Code":"CHU"
+  },
+  {
+    "Station name":"Cheam",
+    "Code":"CHE"
+  },
+  {
+    "Station name":"Cheddington",
+    "Code":"CED"
+  },
+  {
+    "Station name":"Chelford (Cheshire)",
+    "Code":"CEL"
+  },
+  {
+    "Station name":"Chelmsford",
+    "Code":"CHM"
+  },
+  {
+    "Station name":"Chelsfield",
+    "Code":"CLD"
+  },
+  {
+    "Station name":"Cheltenham Spa",
+    "Code":"CNM"
+  },
+  {
+    "Station name":"Chepstow",
+    "Code":"CPW"
+  },
+  {
+    "Station name":"Cherry Tree",
+    "Code":"CYT"
+  },
+  {
+    "Station name":"Chertsey",
+    "Code":"CHY"
+  },
+  {
+    "Station name":"Cheshunt",
+    "Code":"CHN"
+  },
+  {
+    "Station name":"Chessington North",
+    "Code":"CSN"
+  },
+  {
+    "Station name":"Chessington South",
+    "Code":"CSS"
+  },
+  {
+    "Station name":"Chester",
+    "Code":"CTR"
+  },
+  {
+    "Station name":"Chester Road",
+    "Code":"CRD"
+  },
+  {
+    "Station name":"Chesterfield",
+    "Code":"CHD"
+  },
+  {
+    "Station name":"Chester-le-Street",
+    "Code":"CLS"
+  },
+  {
+    "Station name":"Chestfield & Swalecliffe",
+    "Code":"CSW"
+  },
+  {
+    "Station name":"Chetnole",
+    "Code":"CNO"
+  },
+  {
+    "Station name":"Chichester",
+    "Code":"CCH"
+  },
+  {
+    "Station name":"Chilham",
+    "Code":"CIL"
+  },
+  {
+    "Station name":"Chilworth",
+    "Code":"CHL"
+  },
+  {
+    "Station name":"Chingford",
+    "Code":"CHI"
+  },
+  {
+    "Station name":"Chinley",
+    "Code":"CLY"
+  },
+  {
+    "Station name":"Chippenham",
+    "Code":"CPM"
+  },
+  {
+    "Station name":"Chipstead",
+    "Code":"CHP"
+  },
+  {
+    "Station name":"Chirk",
+    "Code":"CRK"
+  },
+  {
+    "Station name":"Chislehurst",
+    "Code":"CIT"
+  },
+  {
+    "Station name":"Chiswick",
+    "Code":"CHK"
+  },
+  {
+    "Station name":"Cholsey",
+    "Code":"CHO"
+  },
+  {
+    "Station name":"Chorley",
+    "Code":"CRL"
+  },
+  {
+    "Station name":"Chorleywood",
+    "Code":"CLW"
+  },
+  {
+    "Station name":"Christchurch",
+    "Code":"CHR"
+  },
+  {
+    "Station name":"Christ's Hospital",
+    "Code":"CHH"
+  },
+  {
+    "Station name":"Church & Oswaldtwistle",
+    "Code":"CTW"
+  },
+  {
+    "Station name":"Church Fenton",
+    "Code":"CHF"
+  },
+  {
+    "Station name":"Church Stretton",
+    "Code":"CTT"
+  },
+  {
+    "Station name":"Cilmeri",
+    "Code":"CIM"
+  },
+  {
+    "Station name":"City Thameslink",
+    "Code":"CTK"
+  },
+  {
+    "Station name":"Clacton-on-Sea",
+    "Code":"CLT"
+  },
+  {
+    "Station name":"Clandon",
+    "Code":"CLA"
+  },
+  {
+    "Station name":"Clapham High Street",
+    "Code":"CLP"
+  },
+  {
+    "Station name":"Clapham Junction",
+    "Code":"CLJ"
+  },
+  {
+    "Station name":"Clapham (North Yorkshire)",
+    "Code":"CPY"
+  },
+  {
+    "Station name":"Clapton",
+    "Code":"CPT"
+  },
+  {
+    "Station name":"Clarbeston Road",
+    "Code":"CLR"
+  },
+  {
+    "Station name":"Clarkston",
+    "Code":"CKS"
+  },
+  {
+    "Station name":"Claverdon",
+    "Code":"CLV"
+  },
+  {
+    "Station name":"Claygate",
+    "Code":"CLG"
+  },
+  {
+    "Station name":"Cleethorpes",
+    "Code":"CLE"
+  },
+  {
+    "Station name":"Cleland",
+    "Code":"CEA"
+  },
+  {
+    "Station name":"Clifton Down",
+    "Code":"CFN"
+  },
+  {
+    "Station name":"Clifton (Manchester)",
+    "Code":"CLI"
+  },
+  {
+    "Station name":"Clitheroe",
+    "Code":"CLH"
+  },
+  {
+    "Station name":"Clock House",
+    "Code":"CLK"
+  },
+  {
+    "Station name":"Clunderwen",
+    "Code":"CUW"
+  },
+  {
+    "Station name":"Clydebank",
+    "Code":"CYK"
+  },
+  {
+    "Station name":"Coatbridge Central",
+    "Code":"CBC"
+  },
+  {
+    "Station name":"Coatbridge Sunnyside",
+    "Code":"CBS"
+  },
+  {
+    "Station name":"Coatdyke",
+    "Code":"COA"
+  },
+  {
+    "Station name":"Cobham & Stoke d'Abernon",
+    "Code":"CSD"
+  },
+  {
+    "Station name":"Codsall",
+    "Code":"CSL"
+  },
+  {
+    "Station name":"Cogan",
+    "Code":"CGN"
+  },
+  {
+    "Station name":"Colchester",
+    "Code":"COL"
+  },
+  {
+    "Station name":"Colchester Town",
+    "Code":"CET"
+  },
+  {
+    "Station name":"Coleshill Parkway",
+    "Code":"CEH"
+  },
+  {
+    "Station name":"Collingham",
+    "Code":"CLM"
+  },
+  {
+    "Station name":"Collington",
+    "Code":"CLL"
+  },
+  {
+    "Station name":"Colne",
+    "Code":"CNE"
+  },
+  {
+    "Station name":"Colwall",
+    "Code":"CWL"
+  },
+  {
+    "Station name":"Colwyn Bay",
+    "Code":"CWB"
+  },
+  {
+    "Station name":"Combe (Oxon)",
+    "Code":"CME"
+  },
+  {
+    "Station name":"Commondale",
+    "Code":"COM"
+  },
+  {
+    "Station name":"Congleton",
+    "Code":"CNG"
+  },
+  {
+    "Station name":"Conisbrough",
+    "Code":"CNS"
+  },
+  {
+    "Station name":"Connel Ferry",
+    "Code":"CON"
+  },
+  {
+    "Station name":"Conon Bridge",
+    "Code":"CBD"
+  },
+  {
+    "Station name":"Cononley",
+    "Code":"CEY"
+  },
+  {
+    "Station name":"Conway Park",
+    "Code":"CNP"
+  },
+  {
+    "Station name":"Conwy",
+    "Code":"CNW"
+  },
+  {
+    "Station name":"Cooden Beach",
+    "Code":"COB"
+  },
+  {
+    "Station name":"Cookham",
+    "Code":"COO"
+  },
+  {
+    "Station name":"Cooksbridge",
+    "Code":"CBR"
+  },
+  {
+    "Station name":"Coombe Junction Halt",
+    "Code":"COE"
+  },
+  {
+    "Station name":"Copplestone",
+    "Code":"COP"
+  },
+  {
+    "Station name":"Corbridge",
+    "Code":"CRB"
+  },
+  {
+    "Station name":"Corby",
+    "Code":"COR"
+  },
+  {
+    "Station name":"Corkerhill",
+    "Code":"CKH"
+  },
+  {
+    "Station name":"Corkickle",
+    "Code":"CKL"
+  },
+  {
+    "Station name":"Corpach",
+    "Code":"CPA"
+  },
+  {
+    "Station name":"Corrour",
+    "Code":"CRR"
+  },
+  {
+    "Station name":"Coryton",
+    "Code":"COY"
+  },
+  {
+    "Station name":"Coseley",
+    "Code":"CSY"
+  },
+  {
+    "Station name":"Cosford",
+    "Code":"COS"
+  },
+  {
+    "Station name":"Cosham",
+    "Code":"CSA"
+  },
+  {
+    "Station name":"Cottingham",
+    "Code":"CGM"
+  },
+  {
+    "Station name":"Cottingley",
+    "Code":"COT"
+  },
+  {
+    "Station name":"Coulsdon South",
+    "Code":"CDS"
+  },
+  {
+    "Station name":"Coulsdon Town",
+    "Code":"CDN"
+  },
+  {
+    "Station name":"Coventry",
+    "Code":"COV"
+  },
+  {
+    "Station name":"Cowden (Kent)",
+    "Code":"CWN"
+  },
+  {
+    "Station name":"Cowdenbeath",
+    "Code":"COW"
+  },
+  {
+    "Station name":"Cradley Heath",
+    "Code":"CRA"
+  },
+  {
+    "Station name":"Craigendoran",
+    "Code":"CGD"
+  },
+  {
+    "Station name":"Cramlington",
+    "Code":"CRM"
+  },
+  {
+    "Station name":"Cranbrook",
+    "Code":"CBK"
+  },
+  {
+    "Station name":"Craven Arms",
+    "Code":"CRV"
+  },
+  {
+    "Station name":"Crawley",
+    "Code":"CRW"
+  },
+  {
+    "Station name":"Crayford",
+    "Code":"CRY"
+  },
+  {
+    "Station name":"Crediton",
+    "Code":"CDI"
+  },
+  {
+    "Station name":"Cressing (Essex)",
+    "Code":"CES"
+  },
+  {
+    "Station name":"Cressington",
+    "Code":"CSG"
+  },
+  {
+    "Station name":"Creswell",
+    "Code":"CWD"
+  },
+  {
+    "Station name":"Crewe",
+    "Code":"CRE"
+  },
+  {
+    "Station name":"Crewkerne",
+    "Code":"CKN"
+  },
+  {
+    "Station name":"Crews Hill",
+    "Code":"CWH"
+  },
+  {
+    "Station name":"Crianlarich",
+    "Code":"CNR"
+  },
+  {
+    "Station name":"Criccieth",
+    "Code":"CCC"
+  },
+  {
+    "Station name":"Cricklewood",
+    "Code":"CRI"
+  },
+  {
+    "Station name":"Croftfoot",
+    "Code":"CFF"
+  },
+  {
+    "Station name":"Crofton Park",
+    "Code":"CFT"
+  },
+  {
+    "Station name":"Cromer",
+    "Code":"CMR"
+  },
+  {
+    "Station name":"Cromford",
+    "Code":"CMF"
+  },
+  {
+    "Station name":"Crookston",
+    "Code":"CKT"
+  },
+  {
+    "Station name":"Cross Gates",
+    "Code":"CRG"
+  },
+  {
+    "Station name":"Crossflatts",
+    "Code":"CFL"
+  },
+  {
+    "Station name":"Crosshill",
+    "Code":"COI"
+  },
+  {
+    "Station name":"Crosskeys",
+    "Code":"CKY"
+  },
+  {
+    "Station name":"Crossmyloof",
+    "Code":"CMY"
+  },
+  {
+    "Station name":"Croston",
+    "Code":"CSO"
+  },
+  {
+    "Station name":"Crouch Hill",
+    "Code":"CRH"
+  },
+  {
+    "Station name":"Crowborough",
+    "Code":"COH"
+  },
+  {
+    "Station name":"Crowhurst",
+    "Code":"CWU"
+  },
+  {
+    "Station name":"Crowle",
+    "Code":"CWE"
+  },
+  {
+    "Station name":"Crowthorne",
+    "Code":"CRN"
+  },
+  {
+    "Station name":"Croy",
+    "Code":"CRO"
+  },
+  {
+    "Station name":"Crystal Palace",
+    "Code":"CYP"
+  },
+  {
+    "Station name":"Cuddington",
+    "Code":"CUD"
+  },
+  {
+    "Station name":"Cuffley",
+    "Code":"CUF"
+  },
+  {
+    "Station name":"Culham",
+    "Code":"CUM"
+  },
+  {
+    "Station name":"Culrain",
+    "Code":"CUA"
+  },
+  {
+    "Station name":"Cumbernauld",
+    "Code":"CUB"
+  },
+  {
+    "Station name":"Cupar",
+    "Code":"CUP"
+  },
+  {
+    "Station name":"Curriehill",
+    "Code":"CUH"
+  },
+  {
+    "Station name":"Cuxton",
+    "Code":"CUX"
+  },
+  {
+    "Station name":"Cwmbach",
+    "Code":"CMH"
+  },
+  {
+    "Station name":"Cwmbran",
+    "Code":"CWM"
+  },
+  {
+    "Station name":"Cynghordy",
+    "Code":"CYN"
+  },
+  {
+    "Station name":"Dagenham Dock",
+    "Code":"DDK"
+  },
+  {
+    "Station name":"Daisy Hill",
+    "Code":"DSY"
+  },
+  {
+    "Station name":"Dalgety Bay",
+    "Code":"DAG"
+  },
+  {
+    "Station name":"Dalmally",
+    "Code":"DAL"
+  },
+  {
+    "Station name":"Dalmarnock",
+    "Code":"DAK"
+  },
+  {
+    "Station name":"Dalmeny",
+    "Code":"DAM"
+  },
+  {
+    "Station name":"Dalmuir",
+    "Code":"DMR"
+  },
+  {
+    "Station name":"Dalreoch",
+    "Code":"DLR"
+  },
+  {
+    "Station name":"Dalry",
+    "Code":"DLY"
+  },
+  {
+    "Station name":"Dalston (Cumbria)",
+    "Code":"DLS"
+  },
+  {
+    "Station name":"Dalston Junction",
+    "Code":"DLJ"
+  },
+  {
+    "Station name":"Dalston Kingsland",
+    "Code":"DLK"
+  },
+  {
+    "Station name":"Dalton (Cumbria)",
+    "Code":"DLT"
+  },
+  {
+    "Station name":"Dalwhinnie",
+    "Code":"DLW"
+  },
+  {
+    "Station name":"Danby",
+    "Code":"DNY"
+  },
+  {
+    "Station name":"Danescourt",
+    "Code":"DCT"
+  },
+  {
+    "Station name":"Danzey",
+    "Code":"DZY"
+  },
+  {
+    "Station name":"Darlington",
+    "Code":"DAR"
+  },
+  {
+    "Station name":"Darnall",
+    "Code":"DAN"
+  },
+  {
+    "Station name":"Darsham",
+    "Code":"DSM"
+  },
+  {
+    "Station name":"Dartford",
+    "Code":"DFD"
+  },
+  {
+    "Station name":"Darton",
+    "Code":"DRT"
+  },
+  {
+    "Station name":"Darwen",
+    "Code":"DWN"
+  },
+  {
+    "Station name":"Datchet",
+    "Code":"DAT"
+  },
+  {
+    "Station name":"Davenport",
+    "Code":"DVN"
+  },
+  {
+    "Station name":"Dawlish",
+    "Code":"DWL"
+  },
+  {
+    "Station name":"Dawlish Warren",
+    "Code":"DWW"
+  },
+  {
+    "Station name":"Deal",
+    "Code":"DEA"
+  },
+  {
+    "Station name":"Dean (Wilts)",
+    "Code":"DEN"
+  },
+  {
+    "Station name":"Deansgate",
+    "Code":"DGT"
+  },
+  {
+    "Station name":"Deganwy",
+    "Code":"DGY"
+  },
+  {
+    "Station name":"Deighton",
+    "Code":"DHN"
+  },
+  {
+    "Station name":"Delamere",
+    "Code":"DLM"
+  },
+  {
+    "Station name":"Denby Dale",
+    "Code":"DBD"
+  },
+  {
+    "Station name":"Denham",
+    "Code":"DNM"
+  },
+  {
+    "Station name":"Denham Golf Club",
+    "Code":"DGC"
+  },
+  {
+    "Station name":"Denmark Hill",
+    "Code":"DMK"
+  },
+  {
+    "Station name":"Dent",
+    "Code":"DNT"
+  },
+  {
+    "Station name":"Denton",
+    "Code":"DTN"
+  },
+  {
+    "Station name":"Deptford",
+    "Code":"DEP"
+  },
+  {
+    "Station name":"Derby",
+    "Code":"DBY"
+  },
+  {
+    "Station name":"Derby Road (Ipswich)",
+    "Code":"DBR"
+  },
+  {
+    "Station name":"Devonport (Devon)",
+    "Code":"DPT"
+  },
+  {
+    "Station name":"Devonport Dockyard",
+    "Code":"DOC"
+  },
+  {
+    "Station name":"Dewsbury",
+    "Code":"DEW"
+  },
+  {
+    "Station name":"Didcot Parkway",
+    "Code":"DID"
+  },
+  {
+    "Station name":"Digby & Sowton",
+    "Code":"DIG"
+  },
+  {
+    "Station name":"Dilton Marsh",
+    "Code":"DMH"
+  },
+  {
+    "Station name":"Dinas Powys",
+    "Code":"DNS"
+  },
+  {
+    "Station name":"Dinas (Rhondda)",
+    "Code":"DMG"
+  },
+  {
+    "Station name":"Dingle Road",
+    "Code":"DGL"
+  },
+  {
+    "Station name":"Dingwall",
+    "Code":"DIN"
+  },
+  {
+    "Station name":"Dinsdale",
+    "Code":"DND"
+  },
+  {
+    "Station name":"Dinting",
+    "Code":"DTG"
+  },
+  {
+    "Station name":"Disley",
+    "Code":"DSL"
+  },
+  {
+    "Station name":"Diss",
+    "Code":"DIS"
+  },
+  {
+    "Station name":"Dodworth",
+    "Code":"DOD"
+  },
+  {
+    "Station name":"Dolau",
+    "Code":"DOL"
+  },
+  {
+    "Station name":"Doleham",
+    "Code":"DLH"
+  },
+  {
+    "Station name":"Dolgarrog",
+    "Code":"DLG"
+  },
+  {
+    "Station name":"Dolwyddelan",
+    "Code":"DWD"
+  },
+  {
+    "Station name":"Doncaster",
+    "Code":"DON"
+  },
+  {
+    "Station name":"Dorchester South",
+    "Code":"DCH"
+  },
+  {
+    "Station name":"Dorchester West",
+    "Code":"DCW"
+  },
+  {
+    "Station name":"Dore & Totley",
+    "Code":"DOR"
+  },
+  {
+    "Station name":"Dorking Deepdene",
+    "Code":"DPD"
+  },
+  {
+    "Station name":"Dorking (Main)",
+    "Code":"DKG"
+  },
+  {
+    "Station name":"Dorking West",
+    "Code":"DKT"
+  },
+  {
+    "Station name":"Dormans",
+    "Code":"DMS"
+  },
+  {
+    "Station name":"Dorridge",
+    "Code":"DDG"
+  },
+  {
+    "Station name":"Dove Holes",
+    "Code":"DVH"
+  },
+  {
+    "Station name":"Dover Priory",
+    "Code":"DVP"
+  },
+  {
+    "Station name":"Dovercourt",
+    "Code":"DVC"
+  },
+  {
+    "Station name":"Dovey Junction",
+    "Code":"DVY"
+  },
+  {
+    "Station name":"Downham Market",
+    "Code":"DOW"
+  },
+  {
+    "Station name":"Drayton Green",
+    "Code":"DRG"
+  },
+  {
+    "Station name":"Drayton Park",
+    "Code":"DYP"
+  },
+  {
+    "Station name":"Drem",
+    "Code":"DRM"
+  },
+  {
+    "Station name":"Driffield",
+    "Code":"DRF"
+  },
+  {
+    "Station name":"Drigg",
+    "Code":"DRI"
+  },
+  {
+    "Station name":"Droitwich Spa",
+    "Code":"DTW"
+  },
+  {
+    "Station name":"Dronfield",
+    "Code":"DRO"
+  },
+  {
+    "Station name":"Drumchapel",
+    "Code":"DMC"
+  },
+  {
+    "Station name":"Drumfrochar",
+    "Code":"DFR"
+  },
+  {
+    "Station name":"Drumgelloch",
+    "Code":"DRU"
+  },
+  {
+    "Station name":"Drumry",
+    "Code":"DMY"
+  },
+  {
+    "Station name":"Dublin Ferryport",
+    "Code":"DFP"
+  },
+  {
+    "Station name":"Dublin Port - Stena",
+    "Code":"DPS"
+  },
+  {
+    "Station name":"Duddeston",
+    "Code":"DUD"
+  },
+  {
+    "Station name":"Dudley Port",
+    "Code":"DDP"
+  },
+  {
+    "Station name":"Duffield",
+    "Code":"DFI"
+  },
+  {
+    "Station name":"Duirinish",
+    "Code":"DRN"
+  },
+  {
+    "Station name":"Duke Street",
+    "Code":"DST"
+  },
+  {
+    "Station name":"Dullingham",
+    "Code":"DUL"
+  },
+  {
+    "Station name":"Dumbarton Central",
+    "Code":"DBC"
+  },
+  {
+    "Station name":"Dumbarton East",
+    "Code":"DBE"
+  },
+  {
+    "Station name":"Dumbreck",
+    "Code":"DUM"
+  },
+  {
+    "Station name":"Dumfries",
+    "Code":"DMF"
+  },
+  {
+    "Station name":"Dumpton Park",
+    "Code":"DMP"
+  },
+  {
+    "Station name":"Dunbar",
+    "Code":"DUN"
+  },
+  {
+    "Station name":"Dunblane",
+    "Code":"DBL"
+  },
+  {
+    "Station name":"Duncraig",
+    "Code":"DCG"
+  },
+  {
+    "Station name":"Dundee",
+    "Code":"DEE"
+  },
+  {
+    "Station name":"Dunfermline Queen Margaret",
+    "Code":"DFL"
+  },
+  {
+    "Station name":"Dunfermline Town",
+    "Code":"DFE"
+  },
+  {
+    "Station name":"Dunkeld & Birnam",
+    "Code":"DKD"
+  },
+  {
+    "Station name":"Dunlop",
+    "Code":"DNL"
+  },
+  {
+    "Station name":"Dunrobin Castle",
+    "Code":"DNO"
+  },
+  {
+    "Station name":"Dunston",
+    "Code":"DOT"
+  },
+  {
+    "Station name":"Dunton Green",
+    "Code":"DNG"
+  },
+  {
+    "Station name":"Durham",
+    "Code":"DHM"
+  },
+  {
+    "Station name":"Durrington-on-Sea",
+    "Code":"DUR"
+  },
+  {
+    "Station name":"Dyce",
+    "Code":"DYC"
+  },
+  {
+    "Station name":"Dyffryn Ardudwy",
+    "Code":"DYF"
+  },
+  {
+    "Station name":"Eaglescliffe",
+    "Code":"EAG"
+  },
+  {
+    "Station name":"Ealing Broadway",
+    "Code":"EAL"
+  },
+  {
+    "Station name":"Earlestown",
+    "Code":"ERL"
+  },
+  {
+    "Station name":"Earley",
+    "Code":"EAR"
+  },
+  {
+    "Station name":"Earlsfield",
+    "Code":"EAD"
+  },
+  {
+    "Station name":"Earlswood (Surrey)",
+    "Code":"ELD"
+  },
+  {
+    "Station name":"Earlswood (West Midlands)",
+    "Code":"EWD"
+  },
+  {
+    "Station name":"East Croydon",
+    "Code":"ECR"
+  },
+  {
+    "Station name":"East Didsbury",
+    "Code":"EDY"
+  },
+  {
+    "Station name":"East Dulwich",
+    "Code":"EDW"
+  },
+  {
+    "Station name":"East Farleigh",
+    "Code":"EFL"
+  },
+  {
+    "Station name":"East Garforth",
+    "Code":"EGF"
+  },
+  {
+    "Station name":"East Grinstead",
+    "Code":"EGR"
+  },
+  {
+    "Station name":"East Kilbride",
+    "Code":"EKL"
+  },
+  {
+    "Station name":"East Malling",
+    "Code":"EML"
+  },
+  {
+    "Station name":"East Midlands Parkway",
+    "Code":"EMD"
+  },
+  {
+    "Station name":"East Tilbury",
+    "Code":"ETL"
+  },
+  {
+    "Station name":"East Worthing",
+    "Code":"EWR"
+  },
+  {
+    "Station name":"Eastbourne",
+    "Code":"EBN"
+  },
+  {
+    "Station name":"Eastbrook",
+    "Code":"EBK"
+  },
+  {
+    "Station name":"Easterhouse",
+    "Code":"EST"
+  },
+  {
+    "Station name":"Eastham Rake",
+    "Code":"ERA"
+  },
+  {
+    "Station name":"Eastleigh",
+    "Code":"ESL"
+  },
+  {
+    "Station name":"Eastrington",
+    "Code":"EGN"
+  },
+  {
+    "Station name":"Ebbsfleet International",
+    "Code":"EBD"
+  },
+  {
+    "Station name":"Ebbw Vale Parkway",
+    "Code":"EBV"
+  },
+  {
+    "Station name":"Eccles (Manchester)",
+    "Code":"ECC"
+  },
+  {
+    "Station name":"Eccles Road",
+    "Code":"ECS"
+  },
+  {
+    "Station name":"Eccleston Park",
+    "Code":"ECL"
+  },
+  {
+    "Station name":"Edale",
+    "Code":"EDL"
+  },
+  {
+    "Station name":"Eden Park",
+    "Code":"EDN"
+  },
+  {
+    "Station name":"Edenbridge (Kent)",
+    "Code":"EBR"
+  },
+  {
+    "Station name":"Edenbridge Town",
+    "Code":"EBT"
+  },
+  {
+    "Station name":"Edge Hill",
+    "Code":"EDG"
+  },
+  {
+    "Station name":"Edinburgh",
+    "Code":"EDB"
+  },
+  {
+    "Station name":"Edinburgh Park",
+    "Code":"EDP"
+  },
+  {
+    "Station name":"Edmonton Green",
+    "Code":"EDR"
+  },
+  {
+    "Station name":"Effingham Junction",
+    "Code":"EFF"
+  },
+  {
+    "Station name":"Eggesford",
+    "Code":"EGG"
+  },
+  {
+    "Station name":"Egham",
+    "Code":"EGH"
+  },
+  {
+    "Station name":"Egton",
+    "Code":"EGT"
+  },
+  {
+    "Station name":"Elephant & Castle",
+    "Code":"EPH"
+  },
+  {
+    "Station name":"Elephant & Castle (Underground)",
+    "Code":"ZEL"
+  },
+  {
+    "Station name":"Elgin",
+    "Code":"ELG"
+  },
+  {
+    "Station name":"Ellesmere Port",
+    "Code":"ELP"
+  },
+  {
+    "Station name":"Elmers End",
+    "Code":"ELE"
+  },
+  {
+    "Station name":"Elmstead Woods",
+    "Code":"ESD"
+  },
+  {
+    "Station name":"Elmswell",
+    "Code":"ESW"
+  },
+  {
+    "Station name":"Elsecar",
+    "Code":"ELR"
+  },
+  {
+    "Station name":"Elsenham (Essex)",
+    "Code":"ESM"
+  },
+  {
+    "Station name":"Elstree & Borehamwood",
+    "Code":"ELS"
+  },
+  {
+    "Station name":"Eltham",
+    "Code":"ELW"
+  },
+  {
+    "Station name":"Elton & Orston",
+    "Code":"ELO"
+  },
+  {
+    "Station name":"Ely",
+    "Code":"ELY"
+  },
+  {
+    "Station name":"Emerson Park",
+    "Code":"EMP"
+  },
+  {
+    "Station name":"Emsworth",
+    "Code":"EMS"
+  },
+  {
+    "Station name":"Enfield Chase",
+    "Code":"ENC"
+  },
+  {
+    "Station name":"Enfield Lock",
+    "Code":"ENL"
+  },
+  {
+    "Station name":"Enfield Town",
+    "Code":"ENF"
+  },
+  {
+    "Station name":"Entwistle",
+    "Code":"ENT"
+  },
+  {
+    "Station name":"Epsom Downs",
+    "Code":"EPD"
+  },
+  {
+    "Station name":"Epsom (Surrey)",
+    "Code":"EPS"
+  },
+  {
+    "Station name":"Erdington",
+    "Code":"ERD"
+  },
+  {
+    "Station name":"Eridge",
+    "Code":"ERI"
+  },
+  {
+    "Station name":"Erith",
+    "Code":"ERH"
+  },
+  {
+    "Station name":"Esher",
+    "Code":"ESH"
+  },
+  {
+    "Station name":"Essex Road",
+    "Code":"EXR"
+  },
+  {
+    "Station name":"Etchingham",
+    "Code":"ETC"
+  },
+  {
+    "Station name":"Euxton Balshaw Lane",
+    "Code":"EBA"
+  },
+  {
+    "Station name":"Evesham",
+    "Code":"EVE"
+  },
+  {
+    "Station name":"Ewell East",
+    "Code":"EWE"
+  },
+  {
+    "Station name":"Ewell West",
+    "Code":"EWW"
+  },
+  {
+    "Station name":"Exeter Central",
+    "Code":"EXC"
+  },
+  {
+    "Station name":"Exeter St David's",
+    "Code":"EXD"
+  },
+  {
+    "Station name":"Exeter St Thomas",
+    "Code":"EXT"
+  },
+  {
+    "Station name":"Exhibition Centre (Glasgow)",
+    "Code":"EXG"
+  },
+  {
+    "Station name":"Exmouth",
+    "Code":"EXM"
+  },
+  {
+    "Station name":"Exton",
+    "Code":"EXN"
+  },
+  {
+    "Station name":"Eynsford",
+    "Code":"EYN"
+  },
+  {
+    "Station name":"Fairbourne",
+    "Code":"FRB"
+  },
+  {
+    "Station name":"Fairfield",
+    "Code":"FRF"
+  },
+  {
+    "Station name":"Fairlie",
+    "Code":"FRL"
+  },
+  {
+    "Station name":"Fairwater",
+    "Code":"FRW"
+  },
+  {
+    "Station name":"Falconwood",
+    "Code":"FCN"
+  },
+  {
+    "Station name":"Falkirk Grahamston",
+    "Code":"FKG"
+  },
+  {
+    "Station name":"Falkirk High",
+    "Code":"FKK"
+  },
+  {
+    "Station name":"Falls of Cruachan",
+    "Code":"FOC"
+  },
+  {
+    "Station name":"Falmer",
+    "Code":"FMR"
+  },
+  {
+    "Station name":"Falmouth Docks",
+    "Code":"FAL"
+  },
+  {
+    "Station name":"Falmouth Town",
+    "Code":"FMT"
+  },
+  {
+    "Station name":"Fareham",
+    "Code":"FRM"
+  },
+  {
+    "Station name":"Farnborough (Main)",
+    "Code":"FNB"
+  },
+  {
+    "Station name":"Farnborough North",
+    "Code":"FNN"
+  },
+  {
+    "Station name":"Farncombe",
+    "Code":"FNC"
+  },
+  {
+    "Station name":"Farnham",
+    "Code":"FNH"
+  },
+  {
+    "Station name":"Farningham Road",
+    "Code":"FNR"
+  },
+  {
+    "Station name":"Farnworth",
+    "Code":"FNW"
+  },
+  {
+    "Station name":"Farringdon",
+    "Code":"ZFD"
+  },
+  {
+    "Station name":"Fauldhouse",
+    "Code":"FLD"
+  },
+  {
+    "Station name":"Faversham",
+    "Code":"FAV"
+  },
+  {
+    "Station name":"Faygate",
+    "Code":"FGT"
+  },
+  {
+    "Station name":"Fazakerley",
+    "Code":"FAZ"
+  },
+  {
+    "Station name":"Fearn",
+    "Code":"FRN"
+  },
+  {
+    "Station name":"Featherstone",
+    "Code":"FEA"
+  },
+  {
+    "Station name":"Felixstowe",
+    "Code":"FLX"
+  },
+  {
+    "Station name":"Feltham",
+    "Code":"FEL"
+  },
+  {
+    "Station name":"Feniton",
+    "Code":"FNT"
+  },
+  {
+    "Station name":"Fenny Stratford",
+    "Code":"FEN"
+  },
+  {
+    "Station name":"Fernhill",
+    "Code":"FER"
+  },
+  {
+    "Station name":"Ferriby",
+    "Code":"FRY"
+  },
+  {
+    "Station name":"Ferryside",
+    "Code":"FYS"
+  },
+  {
+    "Station name":"Ffairfach",
+    "Code":"FFA"
+  },
+  {
+    "Station name":"Filey",
+    "Code":"FIL"
+  },
+  {
+    "Station name":"Filton Abbey Wood",
+    "Code":"FIT"
+  },
+  {
+    "Station name":"Finchley Road & Frognal",
+    "Code":"FNY"
+  },
+  {
+    "Station name":"Finsbury Park",
+    "Code":"FPK"
+  },
+  {
+    "Station name":"Finstock",
+    "Code":"FIN"
+  },
+  {
+    "Station name":"Fishbourne (Sussex)",
+    "Code":"FSB"
+  },
+  {
+    "Station name":"Fishersgate",
+    "Code":"FSG"
+  },
+  {
+    "Station name":"Fishguard & Goodwick",
+    "Code":"FGW"
+  },
+  {
+    "Station name":"Fishguard Harbour",
+    "Code":"FGH"
+  },
+  {
+    "Station name":"Fiskerton",
+    "Code":"FSK"
+  },
+  {
+    "Station name":"Fitzwilliam",
+    "Code":"FZW"
+  },
+  {
+    "Station name":"Five Ways",
+    "Code":"FWY"
+  },
+  {
+    "Station name":"Fleet",
+    "Code":"FLE"
+  },
+  {
+    "Station name":"Flimby",
+    "Code":"FLM"
+  },
+  {
+    "Station name":"Flint",
+    "Code":"FLN"
+  },
+  {
+    "Station name":"Flitwick",
+    "Code":"FLT"
+  },
+  {
+    "Station name":"Flixton",
+    "Code":"FLI"
+  },
+  {
+    "Station name":"Flowery Field",
+    "Code":"FLF"
+  },
+  {
+    "Station name":"Folkestone Central",
+    "Code":"FKC"
+  },
+  {
+    "Station name":"Folkestone West",
+    "Code":"FKW"
+  },
+  {
+    "Station name":"Ford",
+    "Code":"FOD"
+  },
+  {
+    "Station name":"Forest Gate",
+    "Code":"FOG"
+  },
+  {
+    "Station name":"Forest Hill",
+    "Code":"FOH"
+  },
+  {
+    "Station name":"Formby",
+    "Code":"FBY"
+  },
+  {
+    "Station name":"Forres",
+    "Code":"FOR"
+  },
+  {
+    "Station name":"Forsinard",
+    "Code":"FRS"
+  },
+  {
+    "Station name":"Fort Matilda",
+    "Code":"FTM"
+  },
+  {
+    "Station name":"Fort William",
+    "Code":"FTW"
+  },
+  {
+    "Station name":"Four Oaks",
+    "Code":"FOK"
+  },
+  {
+    "Station name":"Foxfield",
+    "Code":"FOX"
+  },
+  {
+    "Station name":"Foxton",
+    "Code":"FXN"
+  },
+  {
+    "Station name":"Frant",
+    "Code":"FRT"
+  },
+  {
+    "Station name":"Fratton",
+    "Code":"FTN"
+  },
+  {
+    "Station name":"Freshfield",
+    "Code":"FRE"
+  },
+  {
+    "Station name":"Freshford",
+    "Code":"FFD"
+  },
+  {
+    "Station name":"Frimley",
+    "Code":"FML"
+  },
+  {
+    "Station name":"Frinton-on-Sea",
+    "Code":"FRI"
+  },
+  {
+    "Station name":"Frizinghall",
+    "Code":"FZH"
+  },
+  {
+    "Station name":"Frodsham",
+    "Code":"FRD"
+  },
+  {
+    "Station name":"Frome",
+    "Code":"FRO"
+  },
+  {
+    "Station name":"Fulwell",
+    "Code":"FLW"
+  },
+  {
+    "Station name":"Furness Vale",
+    "Code":"FNV"
+  },
+  {
+    "Station name":"Furze Platt",
+    "Code":"FZP"
+  },
+  {
+    "Station name":"Gainsborough Central",
+    "Code":"GNB"
+  },
+  {
+    "Station name":"Gainsborough Lea Road",
+    "Code":"GBL"
+  },
+  {
+    "Station name":"Garelochhead",
+    "Code":"GCH"
+  },
+  {
+    "Station name":"Garforth",
+    "Code":"GRF"
+  },
+  {
+    "Station name":"Gargrave",
+    "Code":"GGV"
+  },
+  {
+    "Station name":"Garrowhill",
+    "Code":"GAR"
+  },
+  {
+    "Station name":"Garscadden",
+    "Code":"GRS"
+  },
+  {
+    "Station name":"Garsdale",
+    "Code":"GSD"
+  },
+  {
+    "Station name":"Garston (Hertfordshire)",
+    "Code":"GSN"
+  },
+  {
+    "Station name":"Garswood",
+    "Code":"GSW"
+  },
+  {
+    "Station name":"Gartcosh",
+    "Code":"GRH"
+  },
+  {
+    "Station name":"Garth (Bridgend)",
+    "Code":"GMG"
+  },
+  {
+    "Station name":"Garth (Powys)",
+    "Code":"GTH"
+  },
+  {
+    "Station name":"Garve",
+    "Code":"GVE"
+  },
+  {
+    "Station name":"Gathurst",
+    "Code":"GST"
+  },
+  {
+    "Station name":"Gatley",
+    "Code":"GTY"
+  },
+  {
+    "Station name":"Gatwick Airport",
+    "Code":"GTW"
+  },
+  {
+    "Station name":"Georgemas Junction",
+    "Code":"GGJ"
+  },
+  {
+    "Station name":"Gerrards Cross",
+    "Code":"GER"
+  },
+  {
+    "Station name":"Gidea Park",
+    "Code":"GDP"
+  },
+  {
+    "Station name":"Giffnock",
+    "Code":"GFN"
+  },
+  {
+    "Station name":"Giggleswick",
+    "Code":"GIG"
+  },
+  {
+    "Station name":"Gilberdyke",
+    "Code":"GBD"
+  },
+  {
+    "Station name":"Gilfach Fargoed",
+    "Code":"GFF"
+  },
+  {
+    "Station name":"Gillingham (Dorset)",
+    "Code":"GIL"
+  },
+  {
+    "Station name":"Gillingham (Kent)",
+    "Code":"GLM"
+  },
+  {
+    "Station name":"Gilshochill",
+    "Code":"GSC"
+  },
+  {
+    "Station name":"Gipsy Hill",
+    "Code":"GIP"
+  },
+  {
+    "Station name":"Girvan",
+    "Code":"GIR"
+  },
+  {
+    "Station name":"Glaisdale",
+    "Code":"GLS"
+  },
+  {
+    "Station name":"Glan Conwy",
+    "Code":"GCW"
+  },
+  {
+    "Station name":"Glasgow Central",
+    "Code":"GLC"
+  },
+  {
+    "Station name":"Glasgow Queen Street",
+    "Code":"GLQ"
+  },
+  {
+    "Station name":"Glasshoughton",
+    "Code":"GLH"
+  },
+  {
+    "Station name":"Glazebrook",
+    "Code":"GLZ"
+  },
+  {
+    "Station name":"Gleneagles",
+    "Code":"GLE"
+  },
+  {
+    "Station name":"Glenfinnan",
+    "Code":"GLF"
+  },
+  {
+    "Station name":"Glengarnock",
+    "Code":"GLG"
+  },
+  {
+    "Station name":"Glenrothes with Thornton",
+    "Code":"GLT"
+  },
+  {
+    "Station name":"Glossop",
+    "Code":"GLO"
+  },
+  {
+    "Station name":"Gloucester",
+    "Code":"GCR"
+  },
+  {
+    "Station name":"Glynde",
+    "Code":"GLY"
+  },
+  {
+    "Station name":"Gobowen",
+    "Code":"GOB"
+  },
+  {
+    "Station name":"Godalming",
+    "Code":"GOD"
+  },
+  {
+    "Station name":"Godley",
+    "Code":"GDL"
+  },
+  {
+    "Station name":"Godstone",
+    "Code":"GDN"
+  },
+  {
+    "Station name":"Goldthorpe",
+    "Code":"GOE"
+  },
+  {
+    "Station name":"Golf Street",
+    "Code":"GOF"
+  },
+  {
+    "Station name":"Golspie",
+    "Code":"GOL"
+  },
+  {
+    "Station name":"Gomshall",
+    "Code":"GOM"
+  },
+  {
+    "Station name":"Goodmayes",
+    "Code":"GMY"
+  },
+  {
+    "Station name":"Goole",
+    "Code":"GOO"
+  },
+  {
+    "Station name":"Goostrey",
+    "Code":"GTR"
+  },
+  {
+    "Station name":"Gordon Hill",
+    "Code":"GDH"
+  },
+  {
+    "Station name":"Goring & Streatley",
+    "Code":"GOR"
+  },
+  {
+    "Station name":"Goring-by-Sea",
+    "Code":"GBS"
+  },
+  {
+    "Station name":"Gorton",
+    "Code":"GTO"
+  },
+  {
+    "Station name":"Gospel Oak",
+    "Code":"GPO"
+  },
+  {
+    "Station name":"Gourock",
+    "Code":"GRK"
+  },
+  {
+    "Station name":"Gowerton",
+    "Code":"GWN"
+  },
+  {
+    "Station name":"Goxhill",
+    "Code":"GOX"
+  },
+  {
+    "Station name":"Grange Park",
+    "Code":"GPK"
+  },
+  {
+    "Station name":"Grange-Over-Sands",
+    "Code":"GOS"
+  },
+  {
+    "Station name":"Grangetown (Cardiff)",
+    "Code":"GTN"
+  },
+  {
+    "Station name":"Grantham",
+    "Code":"GRA"
+  },
+  {
+    "Station name":"Grateley",
+    "Code":"GRT"
+  },
+  {
+    "Station name":"Gravelly Hill",
+    "Code":"GVH"
+  },
+  {
+    "Station name":"Gravesend",
+    "Code":"GRV"
+  },
+  {
+    "Station name":"Grays",
+    "Code":"GRY"
+  },
+  {
+    "Station name":"Great Ayton",
+    "Code":"GTA"
+  },
+  {
+    "Station name":"Great Bentley",
+    "Code":"GRB"
+  },
+  {
+    "Station name":"Great Chesterford",
+    "Code":"GRC"
+  },
+  {
+    "Station name":"Great Coates",
+    "Code":"GCT"
+  },
+  {
+    "Station name":"Great Malvern",
+    "Code":"GMV"
+  },
+  {
+    "Station name":"Great Missenden",
+    "Code":"GMN"
+  },
+  {
+    "Station name":"Great Yarmouth",
+    "Code":"GYM"
+  },
+  {
+    "Station name":"Green Lane",
+    "Code":"GNL"
+  },
+  {
+    "Station name":"Green Road",
+    "Code":"GNR"
+  },
+  {
+    "Station name":"Greenbank",
+    "Code":"GBK"
+  },
+  {
+    "Station name":"Greenfaulds",
+    "Code":"GRL"
+  },
+  {
+    "Station name":"Greenfield",
+    "Code":"GNF"
+  },
+  {
+    "Station name":"Greenford",
+    "Code":"GFD"
+  },
+  {
+    "Station name":"Greenhithe",
+    "Code":"GNH"
+  },
+  {
+    "Station name":"Greenock Central",
+    "Code":"GKC"
+  },
+  {
+    "Station name":"Greenock West",
+    "Code":"GKW"
+  },
+  {
+    "Station name":"Greenwich",
+    "Code":"GNW"
+  },
+  {
+    "Station name":"Gretna Green",
+    "Code":"GEA"
+  },
+  {
+    "Station name":"Grimsby Docks",
+    "Code":"GMD"
+  },
+  {
+    "Station name":"Grimsby Town",
+    "Code":"GMB"
+  },
+  {
+    "Station name":"Grindleford",
+    "Code":"GRN"
+  },
+  {
+    "Station name":"Grosmont",
+    "Code":"GMT"
+  },
+  {
+    "Station name":"Grove Park",
+    "Code":"GRP"
+  },
+  {
+    "Station name":"Guide Bridge",
+    "Code":"GUI"
+  },
+  {
+    "Station name":"Guildford",
+    "Code":"GLD"
+  },
+  {
+    "Station name":"Guiseley",
+    "Code":"GSY"
+  },
+  {
+    "Station name":"Gunnersbury",
+    "Code":"GUN"
+  },
+  {
+    "Station name":"Gunnislake",
+    "Code":"GSL"
+  },
+  {
+    "Station name":"Gunton",
+    "Code":"GNT"
+  },
+  {
+    "Station name":"Gwersyllt",
+    "Code":"GWE"
+  },
+  {
+    "Station name":"Gypsy Lane",
+    "Code":"GYP"
+  },
+  {
+    "Station name":"Habrough",
+    "Code":"HAB"
+  },
+  {
+    "Station name":"Hackbridge",
+    "Code":"HCB"
+  },
+  {
+    "Station name":"Hackney Central",
+    "Code":"HKC"
+  },
+  {
+    "Station name":"Hackney Downs",
+    "Code":"HAC"
+  },
+  {
+    "Station name":"Hackney Wick",
+    "Code":"HKW"
+  },
+  {
+    "Station name":"Haddenham & Thame Parkway",
+    "Code":"HDM"
+  },
+  {
+    "Station name":"Haddiscoe",
+    "Code":"HAD"
+  },
+  {
+    "Station name":"Hadfield",
+    "Code":"HDF"
+  },
+  {
+    "Station name":"Hadley Wood",
+    "Code":"HDW"
+  },
+  {
+    "Station name":"Hag Fold",
+    "Code":"HGF"
+  },
+  {
+    "Station name":"Haggerston",
+    "Code":"HGG"
+  },
+  {
+    "Station name":"Hagley",
+    "Code":"HAG"
+  },
+  {
+    "Station name":"Hairmyres",
+    "Code":"HMY"
+  },
+  {
+    "Station name":"Hale (Manchester)",
+    "Code":"HAL"
+  },
+  {
+    "Station name":"Halesworth",
+    "Code":"HAS"
+  },
+  {
+    "Station name":"Halewood",
+    "Code":"HED"
+  },
+  {
+    "Station name":"Halifax",
+    "Code":"HFX"
+  },
+  {
+    "Station name":"Hall Green",
+    "Code":"HLG"
+  },
+  {
+    "Station name":"Hall Road",
+    "Code":"HLR"
+  },
+  {
+    "Station name":"Halling",
+    "Code":"HAI"
+  },
+  {
+    "Station name":"Hall-i'-th'-Wood",
+    "Code":"HID"
+  },
+  {
+    "Station name":"Haltwhistle",
+    "Code":"HWH"
+  },
+  {
+    "Station name":"Ham Street",
+    "Code":"HMT"
+  },
+  {
+    "Station name":"Hamble",
+    "Code":"HME"
+  },
+  {
+    "Station name":"Hamilton Central",
+    "Code":"HNC"
+  },
+  {
+    "Station name":"Hamilton West",
+    "Code":"HNW"
+  },
+  {
+    "Station name":"Hammerton",
+    "Code":"HMM"
+  },
+  {
+    "Station name":"Hampden Park (Sussex)",
+    "Code":"HMD"
+  },
+  {
+    "Station name":"Hampstead Heath",
+    "Code":"HDH"
+  },
+  {
+    "Station name":"Hampton Court",
+    "Code":"HMC"
+  },
+  {
+    "Station name":"Hampton (London)",
+    "Code":"HMP"
+  },
+  {
+    "Station name":"Hampton Wick",
+    "Code":"HMW"
+  },
+  {
+    "Station name":"Hampton-in-Arden",
+    "Code":"HIA"
+  },
+  {
+    "Station name":"Hamstead (Birmingham)",
+    "Code":"HSD"
+  },
+  {
+    "Station name":"Hamworthy",
+    "Code":"HAM"
+  },
+  {
+    "Station name":"Hanborough",
+    "Code":"HND"
+  },
+  {
+    "Station name":"Handforth",
+    "Code":"HTH"
+  },
+  {
+    "Station name":"Hanwell",
+    "Code":"HAN"
+  },
+  {
+    "Station name":"Hapton",
+    "Code":"HPN"
+  },
+  {
+    "Station name":"Harlech",
+    "Code":"HRL"
+  },
+  {
+    "Station name":"Harlesden",
+    "Code":"HDN"
+  },
+  {
+    "Station name":"Harling Road",
+    "Code":"HRD"
+  },
+  {
+    "Station name":"Harlington (Beds)",
+    "Code":"HLN"
+  },
+  {
+    "Station name":"Harlow Mill",
+    "Code":"HWM"
+  },
+  {
+    "Station name":"Harlow Town",
+    "Code":"HWN"
+  },
+  {
+    "Station name":"Harold Wood",
+    "Code":"HRO"
+  },
+  {
+    "Station name":"Harpenden",
+    "Code":"HPD"
+  },
+  {
+    "Station name":"Harrietsham",
+    "Code":"HRM"
+  },
+  {
+    "Station name":"Harringay",
+    "Code":"HGY"
+  },
+  {
+    "Station name":"Harringay Green Lanes",
+    "Code":"HRY"
+  },
+  {
+    "Station name":"Harrington",
+    "Code":"HRR"
+  },
+  {
+    "Station name":"Harrogate",
+    "Code":"HGT"
+  },
+  {
+    "Station name":"Harrow & Wealdstone",
+    "Code":"HRW"
+  },
+  {
+    "Station name":"Harrow-on-the-Hill",
+    "Code":"HOH"
+  },
+  {
+    "Station name":"Hartford (Cheshire)",
+    "Code":"HTF"
+  },
+  {
+    "Station name":"Hartlebury",
+    "Code":"HBY"
+  },
+  {
+    "Station name":"Hartlepool",
+    "Code":"HPL"
+  },
+  {
+    "Station name":"Hartwood",
+    "Code":"HTW"
+  },
+  {
+    "Station name":"Harwich International",
+    "Code":"HPQ"
+  },
+  {
+    "Station name":"Harwich Town",
+    "Code":"HWC"
+  },
+  {
+    "Station name":"Haslemere",
+    "Code":"HSL"
+  },
+  {
+    "Station name":"Hassocks",
+    "Code":"HSK"
+  },
+  {
+    "Station name":"Hastings",
+    "Code":"HGS"
+  },
+  {
+    "Station name":"Hatch End",
+    "Code":"HTE"
+  },
+  {
+    "Station name":"Hatfield & Stainforth",
+    "Code":"HFS"
+  },
+  {
+    "Station name":"Hatfield (Herts)",
+    "Code":"HAT"
+  },
+  {
+    "Station name":"Hatfield Peverel",
+    "Code":"HAP"
+  },
+  {
+    "Station name":"Hathersage",
+    "Code":"HSG"
+  },
+  {
+    "Station name":"Hattersley",
+    "Code":"HTY"
+  },
+  {
+    "Station name":"Hatton",
+    "Code":"HTN"
+  },
+  {
+    "Station name":"Havant",
+    "Code":"HAV"
+  },
+  {
+    "Station name":"Havenhouse",
+    "Code":"HVN"
+  },
+  {
+    "Station name":"Haverfordwest",
+    "Code":"HVF"
+  },
+  {
+    "Station name":"Hawarden",
+    "Code":"HWD"
+  },
+  {
+    "Station name":"Hawarden Bridge",
+    "Code":"HWB"
+  },
+  {
+    "Station name":"Hawkhead",
+    "Code":"HKH"
+  },
+  {
+    "Station name":"Haydon Bridge",
+    "Code":"HDB"
+  },
+  {
+    "Station name":"Haydons Road",
+    "Code":"HYR"
+  },
+  {
+    "Station name":"Hayes & Harlington",
+    "Code":"HAY"
+  },
+  {
+    "Station name":"Hayes (Kent)",
+    "Code":"HYS"
+  },
+  {
+    "Station name":"Hayle",
+    "Code":"HYL"
+  },
+  {
+    "Station name":"Haymarket",
+    "Code":"HYM"
+  },
+  {
+    "Station name":"Haywards Heath",
+    "Code":"HHE"
+  },
+  {
+    "Station name":"Hazel Grove",
+    "Code":"HAZ"
+  },
+  {
+    "Station name":"Headcorn",
+    "Code":"HCN"
+  },
+  {
+    "Station name":"Headingley",
+    "Code":"HDY"
+  },
+  {
+    "Station name":"Headstone Lane",
+    "Code":"HDL"
+  },
+  {
+    "Station name":"Heald Green",
+    "Code":"HDG"
+  },
+  {
+    "Station name":"Healing",
+    "Code":"HLI"
+  },
+  {
+    "Station name":"Heath High Level",
+    "Code":"HHL"
+  },
+  {
+    "Station name":"Heath Low Level",
+    "Code":"HLL"
+  },
+  {
+    "Station name":"Heathrow Airport Terminal 4",
+    "Code":"HAF"
+  },
+  {
+    "Station name":"Heathrow Airport Terminal 5",
+    "Code":"HWV"
+  },
+  {
+    "Station name":"Heathrow Airport Terminals 1, 2 and 3",
+    "Code":"HXX"
+  },
+  {
+    "Station name":"Heaton Chapel",
+    "Code":"HTC"
+  },
+  {
+    "Station name":"Hebden Bridge",
+    "Code":"HBD"
+  },
+  {
+    "Station name":"Heckington",
+    "Code":"HEC"
+  },
+  {
+    "Station name":"Hedge End",
+    "Code":"HDE"
+  },
+  {
+    "Station name":"Hednesford",
+    "Code":"HNF"
+  },
+  {
+    "Station name":"Heighington",
+    "Code":"HEI"
+  },
+  {
+    "Station name":"Helensburgh Central",
+    "Code":"HLC"
+  },
+  {
+    "Station name":"Helensburgh Upper",
+    "Code":"HLU"
+  },
+  {
+    "Station name":"Hellifield",
+    "Code":"HLD"
+  },
+  {
+    "Station name":"Helmsdale",
+    "Code":"HMS"
+  },
+  {
+    "Station name":"Helsby",
+    "Code":"HSB"
+  },
+  {
+    "Station name":"Hemel Hempstead",
+    "Code":"HML"
+  },
+  {
+    "Station name":"Hendon",
+    "Code":"HEN"
+  },
+  {
+    "Station name":"Hengoed",
+    "Code":"HNG"
+  },
+  {
+    "Station name":"Henley-in-Arden",
+    "Code":"HNL"
+  },
+  {
+    "Station name":"Henley-on-Thames",
+    "Code":"HOT"
+  },
+  {
+    "Station name":"Hensall",
+    "Code":"HEL"
+  },
+  {
+    "Station name":"Hereford",
+    "Code":"HFD"
+  },
+  {
+    "Station name":"Herne Bay",
+    "Code":"HNB"
+  },
+  {
+    "Station name":"Herne Hill",
+    "Code":"HNH"
+  },
+  {
+    "Station name":"Hersham",
+    "Code":"HER"
+  },
+  {
+    "Station name":"Hertford East",
+    "Code":"HFE"
+  },
+  {
+    "Station name":"Hertford North",
+    "Code":"HFN"
+  },
+  {
+    "Station name":"Hessle",
+    "Code":"HES"
+  },
+  {
+    "Station name":"Heswall",
+    "Code":"HSW"
+  },
+  {
+    "Station name":"Hever",
+    "Code":"HEV"
+  },
+  {
+    "Station name":"Heworth",
+    "Code":"HEW"
+  },
+  {
+    "Station name":"Hexham",
+    "Code":"HEX"
+  },
+  {
+    "Station name":"Heyford",
+    "Code":"HYD"
+  },
+  {
+    "Station name":"Heysham Port",
+    "Code":"HHB"
+  },
+  {
+    "Station name":"High Brooms",
+    "Code":"HIB"
+  },
+  {
+    "Station name":"High Street (Glasgow)",
+    "Code":"HST"
+  },
+  {
+    "Station name":"High Street Kensington Underground",
+    "Code":"ZHS"
+  },
+  {
+    "Station name":"High Wycombe",
+    "Code":"HWY"
+  },
+  {
+    "Station name":"Higham (Kent)",
+    "Code":"HGM"
+  },
+  {
+    "Station name":"Highams Park",
+    "Code":"HIP"
+  },
+  {
+    "Station name":"Highbridge & Burnham",
+    "Code":"HIG"
+  },
+  {
+    "Station name":"Highbury & Islington",
+    "Code":"HHY"
+  },
+  {
+    "Station name":"Hightown",
+    "Code":"HTO"
+  },
+  {
+    "Station name":"Hildenborough",
+    "Code":"HLB"
+  },
+  {
+    "Station name":"Hillfoot",
+    "Code":"HLF"
+  },
+  {
+    "Station name":"Hillington East",
+    "Code":"HLE"
+  },
+  {
+    "Station name":"Hillington West",
+    "Code":"HLW"
+  },
+  {
+    "Station name":"Hillside",
+    "Code":"HIL"
+  },
+  {
+    "Station name":"Hilsea",
+    "Code":"HLS"
+  },
+  {
+    "Station name":"Hinchley Wood",
+    "Code":"HYW"
+  },
+  {
+    "Station name":"Hinckley (Leics)",
+    "Code":"HNK"
+  },
+  {
+    "Station name":"Hindley",
+    "Code":"HIN"
+  },
+  {
+    "Station name":"Hinton Admiral",
+    "Code":"HNA"
+  },
+  {
+    "Station name":"Hitchin",
+    "Code":"HIT"
+  },
+  {
+    "Station name":"Hither Green",
+    "Code":"HGR"
+  },
+  {
+    "Station name":"Hockley",
+    "Code":"HOC"
+  },
+  {
+    "Station name":"Hollingbourne",
+    "Code":"HBN"
+  },
+  {
+    "Station name":"Holmes Chapel",
+    "Code":"HCH"
+  },
+  {
+    "Station name":"Holmwood",
+    "Code":"HLM"
+  },
+  {
+    "Station name":"Holton Heath",
+    "Code":"HOL"
+  },
+  {
+    "Station name":"Holyhead",
+    "Code":"HHD"
+  },
+  {
+    "Station name":"Holytown",
+    "Code":"HLY"
+  },
+  {
+    "Station name":"Homerton",
+    "Code":"HMN"
+  },
+  {
+    "Station name":"Honeybourne",
+    "Code":"HYB"
+  },
+  {
+    "Station name":"Honiton",
+    "Code":"HON"
+  },
+  {
+    "Station name":"Honley",
+    "Code":"HOY"
+  },
+  {
+    "Station name":"Honor Oak Park",
+    "Code":"HPA"
+  },
+  {
+    "Station name":"Hook",
+    "Code":"HOK"
+  },
+  {
+    "Station name":"Hooton",
+    "Code":"HOO"
+  },
+  {
+    "Station name":"Hope (Derbyshire)",
+    "Code":"HOP"
+  },
+  {
+    "Station name":"Hope (Flintshire)",
+    "Code":"HPE"
+  },
+  {
+    "Station name":"Hopton Heath",
+    "Code":"HPT"
+  },
+  {
+    "Station name":"Horley",
+    "Code":"HOR"
+  },
+  {
+    "Station name":"Hornbeam Park",
+    "Code":"HBP"
+  },
+  {
+    "Station name":"Hornsey",
+    "Code":"HRN"
+  },
+  {
+    "Station name":"Horsforth",
+    "Code":"HRS"
+  },
+  {
+    "Station name":"Horsham",
+    "Code":"HRH"
+  },
+  {
+    "Station name":"Horsley",
+    "Code":"HSY"
+  },
+  {
+    "Station name":"Horton-in-Ribblesdale",
+    "Code":"HIR"
+  },
+  {
+    "Station name":"Horwich Parkway",
+    "Code":"HWI"
+  },
+  {
+    "Station name":"Hoscar",
+    "Code":"HSC"
+  },
+  {
+    "Station name":"Hough Green",
+    "Code":"HGN"
+  },
+  {
+    "Station name":"Hounslow",
+    "Code":"HOU"
+  },
+  {
+    "Station name":"Hove",
+    "Code":"HOV"
+  },
+  {
+    "Station name":"Hoveton & Wroxham",
+    "Code":"HXM"
+  },
+  {
+    "Station name":"How Wood (Herts)",
+    "Code":"HWW"
+  },
+  {
+    "Station name":"Howden",
+    "Code":"HOW"
+  },
+  {
+    "Station name":"Howwood (Renfrewshire)",
+    "Code":"HOZ"
+  },
+  {
+    "Station name":"Hoxton",
+    "Code":"HOX"
+  },
+  {
+    "Station name":"Hoylake",
+    "Code":"HYK"
+  },
+  {
+    "Station name":"Hubberts Bridge",
+    "Code":"HBB"
+  },
+  {
+    "Station name":"Hucknall",
+    "Code":"HKN"
+  },
+  {
+    "Station name":"Huddersfield",
+    "Code":"HUD"
+  },
+  {
+    "Station name":"Hull",
+    "Code":"HUL"
+  },
+  {
+    "Station name":"Humphrey Park",
+    "Code":"HUP"
+  },
+  {
+    "Station name":"Huncoat",
+    "Code":"HCT"
+  },
+  {
+    "Station name":"Hungerford",
+    "Code":"HGD"
+  },
+  {
+    "Station name":"Hunmanby",
+    "Code":"HUB"
+  },
+  {
+    "Station name":"Huntingdon",
+    "Code":"HUN"
+  },
+  {
+    "Station name":"Huntly",
+    "Code":"HNT"
+  },
+  {
+    "Station name":"Hunts Cross",
+    "Code":"HNX"
+  },
+  {
+    "Station name":"Hurst Green",
+    "Code":"HUR"
+  },
+  {
+    "Station name":"Hutton Cranswick",
+    "Code":"HUT"
+  },
+  {
+    "Station name":"Huyton",
+    "Code":"HUY"
+  },
+  {
+    "Station name":"Hyde Central",
+    "Code":"HYC"
+  },
+  {
+    "Station name":"Hyde North",
+    "Code":"HYT"
+  },
+  {
+    "Station name":"Hykeham",
+    "Code":"HKM"
+  },
+  {
+    "Station name":"Hyndland",
+    "Code":"HYN"
+  },
+  {
+    "Station name":"Hythe (Essex)",
+    "Code":"HYH"
+  },
+  {
+    "Station name":"IBM Halt",
+    "Code":"IBM"
+  },
+  {
+    "Station name":"Ifield",
+    "Code":"IFI"
+  },
+  {
+    "Station name":"Ilford",
+    "Code":"IFD"
+  },
+  {
+    "Station name":"Ilkley",
+    "Code":"ILK"
+  },
+  {
+    "Station name":"Imperial Wharf",
+    "Code":"IMW"
+  },
+  {
+    "Station name":"Ince & Elton",
+    "Code":"INE"
+  },
+  {
+    "Station name":"Ince (Manchester)",
+    "Code":"INC"
+  },
+  {
+    "Station name":"Ingatestone",
+    "Code":"INT"
+  },
+  {
+    "Station name":"Insch",
+    "Code":"INS"
+  },
+  {
+    "Station name":"Invergordon",
+    "Code":"IGD"
+  },
+  {
+    "Station name":"Invergowrie",
+    "Code":"ING"
+  },
+  {
+    "Station name":"Inverkeithing",
+    "Code":"INK"
+  },
+  {
+    "Station name":"Inverkip",
+    "Code":"INP"
+  },
+  {
+    "Station name":"Inverness",
+    "Code":"INV"
+  },
+  {
+    "Station name":"Invershin",
+    "Code":"INH"
+  },
+  {
+    "Station name":"Inverurie",
+    "Code":"INR"
+  },
+  {
+    "Station name":"Ipswich",
+    "Code":"IPS"
+  },
+  {
+    "Station name":"Irlam",
+    "Code":"IRL"
+  },
+  {
+    "Station name":"Irvine",
+    "Code":"IRV"
+  },
+  {
+    "Station name":"Isleworth",
+    "Code":"ISL"
+  },
+  {
+    "Station name":"Islip",
+    "Code":"ISP"
+  },
+  {
+    "Station name":"Iver",
+    "Code":"IVR"
+  },
+  {
+    "Station name":"Ivybridge",
+    "Code":"IVY"
+  },
+  {
+    "Station name":"Jewellery Quarter",
+    "Code":"JEQ"
+  },
+  {
+    "Station name":"Johnston (Pembs)",
+    "Code":"JOH"
+  },
+  {
+    "Station name":"Johnstone (Strathclyde)",
+    "Code":"JHN"
+  },
+  {
+    "Station name":"Jordanhill",
+    "Code":"JOR"
+  },
+  {
+    "Station name":"Kearsley (Manchester)",
+    "Code":"KSL"
+  },
+  {
+    "Station name":"Kearsney (Kent)",
+    "Code":"KSN"
+  },
+  {
+    "Station name":"Keighley",
+    "Code":"KEI"
+  },
+  {
+    "Station name":"Keith",
+    "Code":"KEH"
+  },
+  {
+    "Station name":"Kelvedon",
+    "Code":"KEL"
+  },
+  {
+    "Station name":"Kelvindale",
+    "Code":"KVD"
+  },
+  {
+    "Station name":"Kemble",
+    "Code":"KEM"
+  },
+  {
+    "Station name":"Kempston Hardwick",
+    "Code":"KMH"
+  },
+  {
+    "Station name":"Kempton Park Racecourse",
+    "Code":"KMP"
+  },
+  {
+    "Station name":"Kemsing",
+    "Code":"KMS"
+  },
+  {
+    "Station name":"Kemsley",
+    "Code":"KML"
+  },
+  {
+    "Station name":"Kendal",
+    "Code":"KEN"
+  },
+  {
+    "Station name":"Kenley",
+    "Code":"KLY"
+  },
+  {
+    "Station name":"Kennett",
+    "Code":"KNE"
+  },
+  {
+    "Station name":"Kennishead",
+    "Code":"KNS"
+  },
+  {
+    "Station name":"Kensal Green",
+    "Code":"KNL"
+  },
+  {
+    "Station name":"Kensal Rise",
+    "Code":"KNR"
+  },
+  {
+    "Station name":"Kensington Olympia",
+    "Code":"KPA"
+  },
+  {
+    "Station name":"Kent House",
+    "Code":"KTH"
+  },
+  {
+    "Station name":"Kentish Town",
+    "Code":"KTN"
+  },
+  {
+    "Station name":"Kentish Town West",
+    "Code":"KTW"
+  },
+  {
+    "Station name":"Kenton",
+    "Code":"KNT"
+  },
+  {
+    "Station name":"Kents Bank",
+    "Code":"KBK"
+  },
+  {
+    "Station name":"Kettering",
+    "Code":"KET"
+  },
+  {
+    "Station name":"Kew Bridge",
+    "Code":"KWB"
+  },
+  {
+    "Station name":"Kew Gardens",
+    "Code":"KWG"
+  },
+  {
+    "Station name":"Keyham",
+    "Code":"KEY"
+  },
+  {
+    "Station name":"Keynsham",
+    "Code":"KYN"
+  },
+  {
+    "Station name":"Kidbrooke",
+    "Code":"KDB"
+  },
+  {
+    "Station name":"Kidderminster",
+    "Code":"KID"
+  },
+  {
+    "Station name":"Kidsgrove",
+    "Code":"KDG"
+  },
+  {
+    "Station name":"Kidwelly",
+    "Code":"KWL"
+  },
+  {
+    "Station name":"Kilburn High Road",
+    "Code":"KBN"
+  },
+  {
+    "Station name":"Kildale",
+    "Code":"KLD"
+  },
+  {
+    "Station name":"Kildonan",
+    "Code":"KIL"
+  },
+  {
+    "Station name":"Kilgetty",
+    "Code":"KGT"
+  },
+  {
+    "Station name":"Kilmarnock",
+    "Code":"KMK"
+  },
+  {
+    "Station name":"Kilmaurs",
+    "Code":"KLM"
+  },
+  {
+    "Station name":"Kilpatrick",
+    "Code":"KPT"
+  },
+  {
+    "Station name":"Kilwinning",
+    "Code":"KWN"
+  },
+  {
+    "Station name":"Kinbrace",
+    "Code":"KBC"
+  },
+  {
+    "Station name":"Kingham",
+    "Code":"KGM"
+  },
+  {
+    "Station name":"Kinghorn",
+    "Code":"KGH"
+  },
+  {
+    "Station name":"Kings Langley",
+    "Code":"KGL"
+  },
+  {
+    "Station name":"Kings Lynn",
+    "Code":"KLN"
+  },
+  {
+    "Station name":"Kings Norton",
+    "Code":"KNN"
+  },
+  {
+    "Station name":"Kings Nympton",
+    "Code":"KGN"
+  },
+  {
+    "Station name":"Kings Park",
+    "Code":"KGP"
+  },
+  {
+    "Station name":"Kings Sutton",
+    "Code":"KGS"
+  },
+  {
+    "Station name":"Kingsknowe",
+    "Code":"KGE"
+  },
+  {
+    "Station name":"Kingston",
+    "Code":"KNG"
+  },
+  {
+    "Station name":"Kingswood",
+    "Code":"KND"
+  },
+  {
+    "Station name":"Kingussie",
+    "Code":"KIN"
+  },
+  {
+    "Station name":"Kintbury",
+    "Code":"KIT"
+  },
+  {
+    "Station name":"Kirby Cross",
+    "Code":"KBX"
+  },
+  {
+    "Station name":"Kirk Sandall",
+    "Code":"KKS"
+  },
+  {
+    "Station name":"Kirkby (Merseyside)",
+    "Code":"KIR"
+  },
+  {
+    "Station name":"Kirkby Stephen",
+    "Code":"KSW"
+  },
+  {
+    "Station name":"Kirkby-in-Ashfield",
+    "Code":"KKB"
+  },
+  {
+    "Station name":"Kirkby-in-Furness",
+    "Code":"KBF"
+  },
+  {
+    "Station name":"Kirkcaldy",
+    "Code":"KDY"
+  },
+  {
+    "Station name":"Kirkconnel",
+    "Code":"KRK"
+  },
+  {
+    "Station name":"Kirkdale",
+    "Code":"KKD"
+  },
+  {
+    "Station name":"Kirkham & Wesham",
+    "Code":"KKM"
+  },
+  {
+    "Station name":"Kirkhill",
+    "Code":"KKH"
+  },
+  {
+    "Station name":"Kirknewton",
+    "Code":"KKN"
+  },
+  {
+    "Station name":"Kirkwood",
+    "Code":"KWD"
+  },
+  {
+    "Station name":"Kirton Lindsey",
+    "Code":"KTL"
+  },
+  {
+    "Station name":"Kiveton Bridge",
+    "Code":"KIV"
+  },
+  {
+    "Station name":"Kiveton Park",
+    "Code":"KVP"
+  },
+  {
+    "Station name":"Knaresborough",
+    "Code":"KNA"
+  },
+  {
+    "Station name":"Knebworth",
+    "Code":"KBW"
+  },
+  {
+    "Station name":"Knighton",
+    "Code":"KNI"
+  },
+  {
+    "Station name":"Knockholt",
+    "Code":"KCK"
+  },
+  {
+    "Station name":"Knottingley",
+    "Code":"KNO"
+  },
+  {
+    "Station name":"Knucklas",
+    "Code":"KNU"
+  },
+  {
+    "Station name":"Knutsford",
+    "Code":"KNF"
+  },
+  {
+    "Station name":"Kyle of Lochalsh",
+    "Code":"KYL"
+  },
+  {
+    "Station name":"Ladybank",
+    "Code":"LDY"
+  },
+  {
+    "Station name":"Ladywell",
+    "Code":"LAD"
+  },
+  {
+    "Station name":"Laindon",
+    "Code":"LAI"
+  },
+  {
+    "Station name":"Lairg",
+    "Code":"LRG"
+  },
+  {
+    "Station name":"Lake",
+    "Code":"LKE"
+  },
+  {
+    "Station name":"Lakenheath",
+    "Code":"LAK"
+  },
+  {
+    "Station name":"Lamphey",
+    "Code":"LAM"
+  },
+  {
+    "Station name":"Lanark",
+    "Code":"LNK"
+  },
+  {
+    "Station name":"Lancaster",
+    "Code":"LAN"
+  },
+  {
+    "Station name":"Lancing",
+    "Code":"LAC"
+  },
+  {
+    "Station name":"Landywood",
+    "Code":"LAW"
+  },
+  {
+    "Station name":"Langbank",
+    "Code":"LGB"
+  },
+  {
+    "Station name":"Langho",
+    "Code":"LHO"
+  },
+  {
+    "Station name":"Langley (Berks)",
+    "Code":"LNY"
+  },
+  {
+    "Station name":"Langley Green",
+    "Code":"LGG"
+  },
+  {
+    "Station name":"Langley Mill",
+    "Code":"LGM"
+  },
+  {
+    "Station name":"Langside",
+    "Code":"LGS"
+  },
+  {
+    "Station name":"Langwathby",
+    "Code":"LGW"
+  },
+  {
+    "Station name":"Langwith-Whaley Thorns",
+    "Code":"LAG"
+  },
+  {
+    "Station name":"Lapford",
+    "Code":"LAP"
+  },
+  {
+    "Station name":"Lapworth",
+    "Code":"LPW"
+  },
+  {
+    "Station name":"Larbert",
+    "Code":"LBT"
+  },
+  {
+    "Station name":"Largs",
+    "Code":"LAR"
+  },
+  {
+    "Station name":"Larkhall",
+    "Code":"LRH"
+  },
+  {
+    "Station name":"Laurencekirk",
+    "Code":"LAU"
+  },
+  {
+    "Station name":"Lawrence Hill",
+    "Code":"LWH"
+  },
+  {
+    "Station name":"Layton (Lancs)",
+    "Code":"LAY"
+  },
+  {
+    "Station name":"Lazonby & Kirkoswald",
+    "Code":"LZB"
+  },
+  {
+    "Station name":"Lea Green",
+    "Code":"LEG"
+  },
+  {
+    "Station name":"Lea Hall",
+    "Code":"LEH"
+  },
+  {
+    "Station name":"Leagrave",
+    "Code":"LEA"
+  },
+  {
+    "Station name":"Lealholm",
+    "Code":"LHM"
+  },
+  {
+    "Station name":"Leamington Spa",
+    "Code":"LMS"
+  },
+  {
+    "Station name":"Leasowe",
+    "Code":"LSW"
+  },
+  {
+    "Station name":"Leatherhead",
+    "Code":"LHD"
+  },
+  {
+    "Station name":"Ledbury",
+    "Code":"LED"
+  },
+  {
+    "Station name":"Lee (London)",
+    "Code":"LEE"
+  },
+  {
+    "Station name":"Leeds",
+    "Code":"LDS"
+  },
+  {
+    "Station name":"Leicester",
+    "Code":"LEI"
+  },
+  {
+    "Station name":"Leigh (Kent)",
+    "Code":"LIH"
+  },
+  {
+    "Station name":"Leigh-on-Sea",
+    "Code":"LES"
+  },
+  {
+    "Station name":"Leighton Buzzard",
+    "Code":"LBZ"
+  },
+  {
+    "Station name":"Lelant",
+    "Code":"LEL"
+  },
+  {
+    "Station name":"Lelant Saltings",
+    "Code":"LTS"
+  },
+  {
+    "Station name":"Lenham",
+    "Code":"LEN"
+  },
+  {
+    "Station name":"Lenzie",
+    "Code":"LNZ"
+  },
+  {
+    "Station name":"Leominster",
+    "Code":"LEO"
+  },
+  {
+    "Station name":"Letchworth Garden City",
+    "Code":"LET"
+  },
+  {
+    "Station name":"Leuchars (for St. Andrews)",
+    "Code":"LEU"
+  },
+  {
+    "Station name":"Levenshulme",
+    "Code":"LVM"
+  },
+  {
+    "Station name":"Lewes",
+    "Code":"LWS"
+  },
+  {
+    "Station name":"Lewisham",
+    "Code":"LEW"
+  },
+  {
+    "Station name":"Leyland",
+    "Code":"LEY"
+  },
+  {
+    "Station name":"Leyton Midland Road",
+    "Code":"LEM"
+  },
+  {
+    "Station name":"Leytonstone High Road",
+    "Code":"LER"
+  },
+  {
+    "Station name":"Lichfield City",
+    "Code":"LIC"
+  },
+  {
+    "Station name":"Lichfield Trent Valley",
+    "Code":"LTV"
+  },
+  {
+    "Station name":"Lidlington",
+    "Code":"LID"
+  },
+  {
+    "Station name":"Limehouse",
+    "Code":"LHS"
+  },
+  {
+    "Station name":"Lincoln Central",
+    "Code":"LCN"
+  },
+  {
+    "Station name":"Lingfield",
+    "Code":"LFD"
+  },
+  {
+    "Station name":"Lingwood",
+    "Code":"LGD"
+  },
+  {
+    "Station name":"Linlithgow",
+    "Code":"LIN"
+  },
+  {
+    "Station name":"Liphook",
+    "Code":"LIP"
+  },
+  {
+    "Station name":"Liskeard",
+    "Code":"LSK"
+  },
+  {
+    "Station name":"Liss",
+    "Code":"LIS"
+  },
+  {
+    "Station name":"Lisvane & Thornhill",
+    "Code":"LVT"
+  },
+  {
+    "Station name":"Little Kimble",
+    "Code":"LTK"
+  },
+  {
+    "Station name":"Little Sutton",
+    "Code":"LTT"
+  },
+  {
+    "Station name":"Littleborough",
+    "Code":"LTL"
+  },
+  {
+    "Station name":"Littlehampton",
+    "Code":"LIT"
+  },
+  {
+    "Station name":"Littlehaven",
+    "Code":"LVN"
+  },
+  {
+    "Station name":"Littleport",
+    "Code":"LTP"
+  },
+  {
+    "Station name":"Liverpool Central",
+    "Code":"LVC"
+  },
+  {
+    "Station name":"Liverpool James Street",
+    "Code":"LVJ"
+  },
+  {
+    "Station name":"Liverpool Lime Street",
+    "Code":"LIV"
+  },
+  {
+    "Station name":"Liverpool South Parkway",
+    "Code":"LPY"
+  },
+  {
+    "Station name":"Livingston North",
+    "Code":"LSN"
+  },
+  {
+    "Station name":"Livingston South",
+    "Code":"LVG"
+  },
+  {
+    "Station name":"Llanaber",
+    "Code":"LLA"
+  },
+  {
+    "Station name":"Llanbedr",
+    "Code":"LBR"
+  },
+  {
+    "Station name":"Llanbister Road",
+    "Code":"LLT"
+  },
+  {
+    "Station name":"Llanbradach",
+    "Code":"LNB"
+  },
+  {
+    "Station name":"Llandaf",
+    "Code":"LLN"
+  },
+  {
+    "Station name":"Llandanwg",
+    "Code":"LDN"
+  },
+  {
+    "Station name":"Llandecwyn",
+    "Code":"LLC"
+  },
+  {
+    "Station name":"Llandeilo",
+    "Code":"LLL"
+  },
+  {
+    "Station name":"Llandovery",
+    "Code":"LLV"
+  },
+  {
+    "Station name":"Llandrindod",
+    "Code":"LLO"
+  },
+  {
+    "Station name":"Llandudno",
+    "Code":"LLD"
+  },
+  {
+    "Station name":"Llandudno Junction",
+    "Code":"LLJ"
+  },
+  {
+    "Station name":"Llandybie",
+    "Code":"LLI"
+  },
+  {
+    "Station name":"Llanelli",
+    "Code":"LLE"
+  },
+  {
+    "Station name":"Llanfairfechan",
+    "Code":"LLF"
+  },
+  {
+    "Station name":"Llanfairpwll",
+    "Code":"LPG"
+  },
+  {
+    "Station name":"Llangadog",
+    "Code":"LLG"
+  },
+  {
+    "Station name":"Llangammarch",
+    "Code":"LLM"
+  },
+  {
+    "Station name":"Llangennech",
+    "Code":"LLH"
+  },
+  {
+    "Station name":"Llangynllo",
+    "Code":"LGO"
+  },
+  {
+    "Station name":"Llanharan",
+    "Code":"LLR"
+  },
+  {
+    "Station name":"Llanhilleth",
+    "Code":"LTH"
+  },
+  {
+    "Station name":"Llanishen",
+    "Code":"LLS"
+  },
+  {
+    "Station name":"Llanrwst",
+    "Code":"LWR"
+  },
+  {
+    "Station name":"Llansamlet",
+    "Code":"LAS"
+  },
+  {
+    "Station name":"Llantwit Major",
+    "Code":"LWM"
+  },
+  {
+    "Station name":"Llanwrda",
+    "Code":"LNR"
+  },
+  {
+    "Station name":"Llanwrtyd",
+    "Code":"LNW"
+  },
+  {
+    "Station name":"Llwyngwril",
+    "Code":"LLW"
+  },
+  {
+    "Station name":"Llwynypia",
+    "Code":"LLY"
+  },
+  {
+    "Station name":"Loch Awe",
+    "Code":"LHA"
+  },
+  {
+    "Station name":"Loch Eil Outward Bound",
+    "Code":"LHE"
+  },
+  {
+    "Station name":"Lochailort",
+    "Code":"LCL"
+  },
+  {
+    "Station name":"Locheilside",
+    "Code":"LCS"
+  },
+  {
+    "Station name":"Lochgelly",
+    "Code":"LCG"
+  },
+  {
+    "Station name":"Lochluichart",
+    "Code":"LCC"
+  },
+  {
+    "Station name":"Lochwinnoch",
+    "Code":"LHW"
+  },
+  {
+    "Station name":"Lockerbie",
+    "Code":"LOC"
+  },
+  {
+    "Station name":"Lockwood",
+    "Code":"LCK"
+  },
+  {
+    "Station name":"London Blackfriars",
+    "Code":"BFR"
+  },
+  {
+    "Station name":"London Bridge",
+    "Code":"LBG"
+  },
+  {
+    "Station name":"London Cannon Street",
+    "Code":"CST"
+  },
+  {
+    "Station name":"London Charing Cross",
+    "Code":"CHX"
+  },
+  {
+    "Station name":"London Euston",
+    "Code":"EUS"
+  },
+  {
+    "Station name":"London Fenchurch Street",
+    "Code":"FST"
+  },
+  {
+    "Station name":"London Fields",
+    "Code":"LOF"
+  },
+  {
+    "Station name":"London Kings Cross",
+    "Code":"KGX"
+  },
+  {
+    "Station name":"London Liverpool Street",
+    "Code":"LST"
+  },
+  {
+    "Station name":"London Marylebone",
+    "Code":"MYB"
+  },
+  {
+    "Station name":"London Paddington",
+    "Code":"PAD"
+  },
+  {
+    "Station name":"London Road (Brighton)",
+    "Code":"LRB"
+  },
+  {
+    "Station name":"London Road (Guildford)",
+    "Code":"LRD"
+  },
+  {
+    "Station name":"London St Pancras International",
+    "Code":"STP"
+  },
+  {
+    "Station name":"London St Pancras (Intl)",
+    "Code":"SPX"
+  },
+  {
+    "Station name":"London Victoria",
+    "Code":"VIC"
+  },
+  {
+    "Station name":"London Waterloo",
+    "Code":"WAT"
+  },
+  {
+    "Station name":"London Waterloo East",
+    "Code":"WAE"
+  },
+  {
+    "Station name":"Long Buckby",
+    "Code":"LBK"
+  },
+  {
+    "Station name":"Long Eaton",
+    "Code":"LGE"
+  },
+  {
+    "Station name":"Long Preston",
+    "Code":"LPR"
+  },
+  {
+    "Station name":"Longbeck",
+    "Code":"LGK"
+  },
+  {
+    "Station name":"Longbridge",
+    "Code":"LOB"
+  },
+  {
+    "Station name":"Longcross",
+    "Code":"LNG"
+  },
+  {
+    "Station name":"Longfield",
+    "Code":"LGF"
+  },
+  {
+    "Station name":"Longniddry",
+    "Code":"LND"
+  },
+  {
+    "Station name":"Longport",
+    "Code":"LPT"
+  },
+  {
+    "Station name":"Longton",
+    "Code":"LGN"
+  },
+  {
+    "Station name":"Looe",
+    "Code":"LOO"
+  },
+  {
+    "Station name":"Lostock",
+    "Code":"LOT"
+  },
+  {
+    "Station name":"Lostock Gralam",
+    "Code":"LTG"
+  },
+  {
+    "Station name":"Lostock Hall",
+    "Code":"LOH"
+  },
+  {
+    "Station name":"Lostwithiel",
+    "Code":"LOS"
+  },
+  {
+    "Station name":"Loughborough",
+    "Code":"LBO"
+  },
+  {
+    "Station name":"Loughborough Junction",
+    "Code":"LGJ"
+  },
+  {
+    "Station name":"Lowdham",
+    "Code":"LOW"
+  },
+  {
+    "Station name":"Lower Sydenham",
+    "Code":"LSY"
+  },
+  {
+    "Station name":"Lowestoft",
+    "Code":"LWT"
+  },
+  {
+    "Station name":"Ludlow",
+    "Code":"LUD"
+  },
+  {
+    "Station name":"Luton",
+    "Code":"LUT"
+  },
+  {
+    "Station name":"Luton Airport Parkway",
+    "Code":"LTN"
+  },
+  {
+    "Station name":"Luxulyan",
+    "Code":"LUX"
+  },
+  {
+    "Station name":"Lydney",
+    "Code":"LYD"
+  },
+  {
+    "Station name":"Lye (West Midlands)",
+    "Code":"LYE"
+  },
+  {
+    "Station name":"Lymington Pier",
+    "Code":"LYP"
+  },
+  {
+    "Station name":"Lymington Town",
+    "Code":"LYT"
+  },
+  {
+    "Station name":"Lympstone Commando",
+    "Code":"LYC"
+  },
+  {
+    "Station name":"Lympstone Village",
+    "Code":"LYM"
+  },
+  {
+    "Station name":"Lytham",
+    "Code":"LTM"
+  },
+  {
+    "Station name":"Macclesfield",
+    "Code":"MAC"
+  },
+  {
+    "Station name":"Machynlleth",
+    "Code":"MCN"
+  },
+  {
+    "Station name":"Maesteg",
+    "Code":"MST"
+  },
+  {
+    "Station name":"Maesteg (Ewenny Road)",
+    "Code":"MEW"
+  },
+  {
+    "Station name":"Maghull",
+    "Code":"MAG"
+  },
+  {
+    "Station name":"Maiden Newton",
+    "Code":"MDN"
+  },
+  {
+    "Station name":"Maidenhead",
+    "Code":"MAI"
+  },
+  {
+    "Station name":"Maidstone Barracks",
+    "Code":"MDB"
+  },
+  {
+    "Station name":"Maidstone East",
+    "Code":"MDE"
+  },
+  {
+    "Station name":"Maidstone West",
+    "Code":"MDW"
+  },
+  {
+    "Station name":"Malden Manor",
+    "Code":"MAL"
+  },
+  {
+    "Station name":"Mallaig",
+    "Code":"MLG"
+  },
+  {
+    "Station name":"Malton",
+    "Code":"MLT"
+  },
+  {
+    "Station name":"Malvern Link",
+    "Code":"MVL"
+  },
+  {
+    "Station name":"Manchester Airport",
+    "Code":"MIA"
+  },
+  {
+    "Station name":"Manchester Oxford Road",
+    "Code":"MCO"
+  },
+  {
+    "Station name":"Manchester Piccadilly",
+    "Code":"MAN"
+  },
+  {
+    "Station name":"Manchester United Football Ground",
+    "Code":"MUF"
+  },
+  {
+    "Station name":"Manchester Victoria",
+    "Code":"MCV"
+  },
+  {
+    "Station name":"Manea",
+    "Code":"MNE"
+  },
+  {
+    "Station name":"Manningtree",
+    "Code":"MNG"
+  },
+  {
+    "Station name":"Manor Park",
+    "Code":"MNP"
+  },
+  {
+    "Station name":"Manor Road",
+    "Code":"MNR"
+  },
+  {
+    "Station name":"Manorbier",
+    "Code":"MRB"
+  },
+  {
+    "Station name":"Manors",
+    "Code":"MAS"
+  },
+  {
+    "Station name":"Mansfield",
+    "Code":"MFT"
+  },
+  {
+    "Station name":"Mansfield Woodhouse",
+    "Code":"MSW"
+  },
+  {
+    "Station name":"March",
+    "Code":"MCH"
+  },
+  {
+    "Station name":"Marden (Kent)",
+    "Code":"MRN"
+  },
+  {
+    "Station name":"Margate",
+    "Code":"MAR"
+  },
+  {
+    "Station name":"Market Harborough",
+    "Code":"MHR"
+  },
+  {
+    "Station name":"Market Rasen",
+    "Code":"MKR"
+  },
+  {
+    "Station name":"Markinch",
+    "Code":"MNC"
+  },
+  {
+    "Station name":"Marks Tey",
+    "Code":"MKT"
+  },
+  {
+    "Station name":"Marlow",
+    "Code":"MLW"
+  },
+  {
+    "Station name":"Marple",
+    "Code":"MPL"
+  },
+  {
+    "Station name":"Marsden (Yorks)",
+    "Code":"MSN"
+  },
+  {
+    "Station name":"Marske",
+    "Code":"MSK"
+  },
+  {
+    "Station name":"Marston Green",
+    "Code":"MGN"
+  },
+  {
+    "Station name":"Martin Mill",
+    "Code":"MTM"
+  },
+  {
+    "Station name":"Martins Heron",
+    "Code":"MAO"
+  },
+  {
+    "Station name":"Marton",
+    "Code":"MTO"
+  },
+  {
+    "Station name":"Maryhill",
+    "Code":"MYH"
+  },
+  {
+    "Station name":"Maryland",
+    "Code":"MYL"
+  },
+  {
+    "Station name":"Maryport",
+    "Code":"MRY"
+  },
+  {
+    "Station name":"Matlock",
+    "Code":"MAT"
+  },
+  {
+    "Station name":"Matlock Bath",
+    "Code":"MTB"
+  },
+  {
+    "Station name":"Mauldeth Road",
+    "Code":"MAU"
+  },
+  {
+    "Station name":"Maxwell Park",
+    "Code":"MAX"
+  },
+  {
+    "Station name":"Maybole",
+    "Code":"MAY"
+  },
+  {
+    "Station name":"Maze Hill",
+    "Code":"MZH"
+  },
+  {
+    "Station name":"Meadowhall",
+    "Code":"MHS"
+  },
+  {
+    "Station name":"Meldreth",
+    "Code":"MEL"
+  },
+  {
+    "Station name":"Melksham",
+    "Code":"MKM"
+  },
+  {
+    "Station name":"Melton Mowbray",
+    "Code":"MMO"
+  },
+  {
+    "Station name":"Melton (Suffolk)",
+    "Code":"MES"
+  },
+  {
+    "Station name":"Menheniot",
+    "Code":"MEN"
+  },
+  {
+    "Station name":"Menston",
+    "Code":"MNN"
+  },
+  {
+    "Station name":"Meols",
+    "Code":"MEO"
+  },
+  {
+    "Station name":"Meols Cop",
+    "Code":"MEC"
+  },
+  {
+    "Station name":"Meopham",
+    "Code":"MEP"
+  },
+  {
+    "Station name":"Merryton",
+    "Code":"MEY"
+  },
+  {
+    "Station name":"Merstham",
+    "Code":"MHM"
+  },
+  {
+    "Station name":"Merthyr Tydfil",
+    "Code":"MER"
+  },
+  {
+    "Station name":"Merthyr Vale",
+    "Code":"MEV"
+  },
+  {
+    "Station name":"Metheringham",
+    "Code":"MGM"
+  },
+  {
+    "Station name":"MetroCentre",
+    "Code":"MCE"
+  },
+  {
+    "Station name":"Mexborough",
+    "Code":"MEX"
+  },
+  {
+    "Station name":"Micheldever",
+    "Code":"MIC"
+  },
+  {
+    "Station name":"Micklefield",
+    "Code":"MIK"
+  },
+  {
+    "Station name":"Middlesbrough",
+    "Code":"MBR"
+  },
+  {
+    "Station name":"Middlewood",
+    "Code":"MDL"
+  },
+  {
+    "Station name":"Midgham",
+    "Code":"MDG"
+  },
+  {
+    "Station name":"Milford Haven",
+    "Code":"MFH"
+  },
+  {
+    "Station name":"Milford (Surrey)",
+    "Code":"MLF"
+  },
+  {
+    "Station name":"Mill Hill Broadway",
+    "Code":"MIL"
+  },
+  {
+    "Station name":"Mill Hill (Lancs)",
+    "Code":"MLH"
+  },
+  {
+    "Station name":"Millbrook (Beds)",
+    "Code":"MLB"
+  },
+  {
+    "Station name":"Millbrook (Hants)",
+    "Code":"MBK"
+  },
+  {
+    "Station name":"Milliken Park",
+    "Code":"MIN"
+  },
+  {
+    "Station name":"Millom",
+    "Code":"MLM"
+  },
+  {
+    "Station name":"Mills Hill (Manchester)",
+    "Code":"MIH"
+  },
+  {
+    "Station name":"Milngavie",
+    "Code":"MLN"
+  },
+  {
+    "Station name":"Milton Keynes Central",
+    "Code":"MKC"
+  },
+  {
+    "Station name":"Minffordd",
+    "Code":"MFF"
+  },
+  {
+    "Station name":"Minster",
+    "Code":"MSR"
+  },
+  {
+    "Station name":"Mirfield",
+    "Code":"MIR"
+  },
+  {
+    "Station name":"Mistley",
+    "Code":"MIS"
+  },
+  {
+    "Station name":"Mitcham Eastfields",
+    "Code":"MTC"
+  },
+  {
+    "Station name":"Mitcham Junction",
+    "Code":"MIJ"
+  },
+  {
+    "Station name":"Mobberley",
+    "Code":"MOB"
+  },
+  {
+    "Station name":"Monifieth",
+    "Code":"MON"
+  },
+  {
+    "Station name":"Monks Risborough",
+    "Code":"MRS"
+  },
+  {
+    "Station name":"Montpelier",
+    "Code":"MTP"
+  },
+  {
+    "Station name":"Montrose",
+    "Code":"MTS"
+  },
+  {
+    "Station name":"Moorfields",
+    "Code":"MRF"
+  },
+  {
+    "Station name":"Moorgate",
+    "Code":"MOG"
+  },
+  {
+    "Station name":"Moorside",
+    "Code":"MSD"
+  },
+  {
+    "Station name":"Moorthorpe",
+    "Code":"MRP"
+  },
+  {
+    "Station name":"Morar",
+    "Code":"MRR"
+  },
+  {
+    "Station name":"Morchard Road",
+    "Code":"MRD"
+  },
+  {
+    "Station name":"Morden South",
+    "Code":"MDS"
+  },
+  {
+    "Station name":"Morecambe",
+    "Code":"MCM"
+  },
+  {
+    "Station name":"Moreton (Dorset)",
+    "Code":"MTN"
+  },
+  {
+    "Station name":"Moreton (Merseyside)",
+    "Code":"MRT"
+  },
+  {
+    "Station name":"Moreton-in-Marsh",
+    "Code":"MIM"
+  },
+  {
+    "Station name":"Morfa Mawddach",
+    "Code":"MFA"
+  },
+  {
+    "Station name":"Morley",
+    "Code":"MLY"
+  },
+  {
+    "Station name":"Morpeth",
+    "Code":"MPT"
+  },
+  {
+    "Station name":"Mortimer",
+    "Code":"MOR"
+  },
+  {
+    "Station name":"Mortlake",
+    "Code":"MTL"
+  },
+  {
+    "Station name":"Moses Gate",
+    "Code":"MSS"
+  },
+  {
+    "Station name":"Moss Side",
+    "Code":"MOS"
+  },
+  {
+    "Station name":"Mossley Hill",
+    "Code":"MSH"
+  },
+  {
+    "Station name":"Mossley (Manchester)",
+    "Code":"MSL"
+  },
+  {
+    "Station name":"Mosspark",
+    "Code":"MPK"
+  },
+  {
+    "Station name":"Moston",
+    "Code":"MSO"
+  },
+  {
+    "Station name":"Motherwell",
+    "Code":"MTH"
+  },
+  {
+    "Station name":"Motspur Park",
+    "Code":"MOT"
+  },
+  {
+    "Station name":"Mottingham",
+    "Code":"MTG"
+  },
+  {
+    "Station name":"Mottisfont & Dunbridge",
+    "Code":"DBG"
+  },
+  {
+    "Station name":"Mouldsworth",
+    "Code":"MLD"
+  },
+  {
+    "Station name":"Moulsecoomb",
+    "Code":"MCB"
+  },
+  {
+    "Station name":"Mount Florida",
+    "Code":"MFL"
+  },
+  {
+    "Station name":"Mount Vernon",
+    "Code":"MTV"
+  },
+  {
+    "Station name":"Mountain Ash",
+    "Code":"MTA"
+  },
+  {
+    "Station name":"Muir of Ord",
+    "Code":"MOO"
+  },
+  {
+    "Station name":"Muirend",
+    "Code":"MUI"
+  },
+  {
+    "Station name":"Musselburgh",
+    "Code":"MUB"
+  },
+  {
+    "Station name":"Mytholmroyd",
+    "Code":"MYT"
+  },
+  {
+    "Station name":"Nafferton",
+    "Code":"NFN"
+  },
+  {
+    "Station name":"Nailsea & Backwell",
+    "Code":"NLS"
+  },
+  {
+    "Station name":"Nairn",
+    "Code":"NRN"
+  },
+  {
+    "Station name":"Nantwich",
+    "Code":"NAN"
+  },
+  {
+    "Station name":"Narberth",
+    "Code":"NAR"
+  },
+  {
+    "Station name":"Narborough",
+    "Code":"NBR"
+  },
+  {
+    "Station name":"Navigation Road",
+    "Code":"NVR"
+  },
+  {
+    "Station name":"Neath",
+    "Code":"NTH"
+  },
+  {
+    "Station name":"Needham Market",
+    "Code":"NMT"
+  },
+  {
+    "Station name":"Neilston",
+    "Code":"NEI"
+  },
+  {
+    "Station name":"Nelson",
+    "Code":"NEL"
+  },
+  {
+    "Station name":"Neston",
+    "Code":"NES"
+  },
+  {
+    "Station name":"Netherfield",
+    "Code":"NET"
+  },
+  {
+    "Station name":"Nethertown",
+    "Code":"NRT"
+  },
+  {
+    "Station name":"Netley",
+    "Code":"NTL"
+  },
+  {
+    "Station name":"New Barnet",
+    "Code":"NBA"
+  },
+  {
+    "Station name":"New Beckenham",
+    "Code":"NBC"
+  },
+  {
+    "Station name":"New Brighton",
+    "Code":"NBN"
+  },
+  {
+    "Station name":"New Clee",
+    "Code":"NCE"
+  },
+  {
+    "Station name":"New Cross",
+    "Code":"NWX"
+  },
+  {
+    "Station name":"New Cross Gate",
+    "Code":"NXG"
+  },
+  {
+    "Station name":"New Cumnock",
+    "Code":"NCK"
+  },
+  {
+    "Station name":"New Eltham",
+    "Code":"NEH"
+  },
+  {
+    "Station name":"New Holland",
+    "Code":"NHL"
+  },
+  {
+    "Station name":"New Hythe",
+    "Code":"NHE"
+  },
+  {
+    "Station name":"New Lane",
+    "Code":"NLN"
+  },
+  {
+    "Station name":"New Malden",
+    "Code":"NEM"
+  },
+  {
+    "Station name":"New Mills Central",
+    "Code":"NMC"
+  },
+  {
+    "Station name":"New Mills Newtown",
+    "Code":"NMN"
+  },
+  {
+    "Station name":"New Milton",
+    "Code":"NWM"
+  },
+  {
+    "Station name":"New Pudsey",
+    "Code":"NPD"
+  },
+  {
+    "Station name":"New Southgate",
+    "Code":"NSG"
+  },
+  {
+    "Station name":"Newark Castle",
+    "Code":"NCT"
+  },
+  {
+    "Station name":"Newark North Gate",
+    "Code":"NNG"
+  },
+  {
+    "Station name":"Newbridge",
+    "Code":"NBE"
+  },
+  {
+    "Station name":"Newbury",
+    "Code":"NBY"
+  },
+  {
+    "Station name":"Newbury Racecourse",
+    "Code":"NRC"
+  },
+  {
+    "Station name":"Newcastle",
+    "Code":"NCL"
+  },
+  {
+    "Station name":"Newcraighall",
+    "Code":"NEW"
+  },
+  {
+    "Station name":"Newhaven Harbour",
+    "Code":"NVH"
+  },
+  {
+    "Station name":"Newhaven Town",
+    "Code":"NVN"
+  },
+  {
+    "Station name":"Newington",
+    "Code":"NGT"
+  },
+  {
+    "Station name":"Newmarket",
+    "Code":"NMK"
+  },
+  {
+    "Station name":"Newport (Essex)",
+    "Code":"NWE"
+  },
+  {
+    "Station name":"Newport (South Wales)",
+    "Code":"NWP"
+  },
+  {
+    "Station name":"Newquay",
+    "Code":"NQY"
+  },
+  {
+    "Station name":"Newstead",
+    "Code":"NSD"
+  },
+  {
+    "Station name":"Newton Abbot",
+    "Code":"NTA"
+  },
+  {
+    "Station name":"Newton Aycliffe",
+    "Code":"NAY"
+  },
+  {
+    "Station name":"Newton for Hyde",
+    "Code":"NWN"
+  },
+  {
+    "Station name":"Newton (Lanark)",
+    "Code":"NTN"
+  },
+  {
+    "Station name":"Newton St Cyres",
+    "Code":"NTC"
+  },
+  {
+    "Station name":"Newton-le-Willows",
+    "Code":"NLW"
+  },
+  {
+    "Station name":"Newtonmore",
+    "Code":"NWR"
+  },
+  {
+    "Station name":"Newton-on-Ayr",
+    "Code":"NOA"
+  },
+  {
+    "Station name":"Newtown (Powys)",
+    "Code":"NWT"
+  },
+  {
+    "Station name":"Ninian Park",
+    "Code":"NNP"
+  },
+  {
+    "Station name":"Nitshill",
+    "Code":"NIT"
+  },
+  {
+    "Station name":"Norbiton",
+    "Code":"NBT"
+  },
+  {
+    "Station name":"Norbury",
+    "Code":"NRB"
+  },
+  {
+    "Station name":"Normans Bay",
+    "Code":"NSB"
+  },
+  {
+    "Station name":"Normanton",
+    "Code":"NOR"
+  },
+  {
+    "Station name":"North Berwick",
+    "Code":"NBW"
+  },
+  {
+    "Station name":"North Camp",
+    "Code":"NCM"
+  },
+  {
+    "Station name":"North Dulwich",
+    "Code":"NDL"
+  },
+  {
+    "Station name":"North Fambridge",
+    "Code":"NFA"
+  },
+  {
+    "Station name":"North Llanrwst",
+    "Code":"NLR"
+  },
+  {
+    "Station name":"North Queensferry",
+    "Code":"NQU"
+  },
+  {
+    "Station name":"North Road (Darlington)",
+    "Code":"NRD"
+  },
+  {
+    "Station name":"North Sheen",
+    "Code":"NSH"
+  },
+  {
+    "Station name":"North Walsham",
+    "Code":"NWA"
+  },
+  {
+    "Station name":"North Wembley",
+    "Code":"NWB"
+  },
+  {
+    "Station name":"Northallerton",
+    "Code":"NTR"
+  },
+  {
+    "Station name":"Northampton",
+    "Code":"NMP"
+  },
+  {
+    "Station name":"Northfield",
+    "Code":"NFD"
+  },
+  {
+    "Station name":"Northfleet",
+    "Code":"NFL"
+  },
+  {
+    "Station name":"Northolt Park",
+    "Code":"NLT"
+  },
+  {
+    "Station name":"Northumberland Park",
+    "Code":"NUM"
+  },
+  {
+    "Station name":"Northwich",
+    "Code":"NWI"
+  },
+  {
+    "Station name":"Norton Bridge",
+    "Code":"NTB"
+  },
+  {
+    "Station name":"Norwich",
+    "Code":"NRW"
+  },
+  {
+    "Station name":"Norwood Junction",
+    "Code":"NWD"
+  },
+  {
+    "Station name":"Nottingham",
+    "Code":"NOT"
+  },
+  {
+    "Station name":"Nuneaton",
+    "Code":"NUN"
+  },
+  {
+    "Station name":"Nunhead",
+    "Code":"NHD"
+  },
+  {
+    "Station name":"Nunthorpe",
+    "Code":"NNT"
+  },
+  {
+    "Station name":"Nutbourne",
+    "Code":"NUT"
+  },
+  {
+    "Station name":"Nutfield",
+    "Code":"NUF"
+  },
+  {
+    "Station name":"Oakengates",
+    "Code":"OKN"
+  },
+  {
+    "Station name":"Oakham",
+    "Code":"OKM"
+  },
+  {
+    "Station name":"Oakleigh Park",
+    "Code":"OKL"
+  },
+  {
+    "Station name":"Oban",
+    "Code":"OBN"
+  },
+  {
+    "Station name":"Ockendon",
+    "Code":"OCK"
+  },
+  {
+    "Station name":"Ockley",
+    "Code":"OLY"
+  },
+  {
+    "Station name":"Okehampton",
+    "Code":"OKE"
+  },
+  {
+    "Station name":"Old Hill",
+    "Code":"OHL"
+  },
+  {
+    "Station name":"Old Roan",
+    "Code":"ORN"
+  },
+  {
+    "Station name":"Old Street",
+    "Code":"OLD"
+  },
+  {
+    "Station name":"Oldfield Park",
+    "Code":"OLF"
+  },
+  {
+    "Station name":"Olton",
+    "Code":"OLT"
+  },
+  {
+    "Station name":"Ore",
+    "Code":"ORE"
+  },
+  {
+    "Station name":"Ormskirk",
+    "Code":"OMS"
+  },
+  {
+    "Station name":"Orpington",
+    "Code":"ORP"
+  },
+  {
+    "Station name":"Orrell",
+    "Code":"ORR"
+  },
+  {
+    "Station name":"Orrell Park",
+    "Code":"OPK"
+  },
+  {
+    "Station name":"Otford",
+    "Code":"OTF"
+  },
+  {
+    "Station name":"Oulton Broad North",
+    "Code":"OUN"
+  },
+  {
+    "Station name":"Oulton Broad South",
+    "Code":"OUS"
+  },
+  {
+    "Station name":"Outwood",
+    "Code":"OUT"
+  },
+  {
+    "Station name":"Overpool",
+    "Code":"OVE"
+  },
+  {
+    "Station name":"Overton",
+    "Code":"OVR"
+  },
+  {
+    "Station name":"Oxenholme Lake District",
+    "Code":"OXN"
+  },
+  {
+    "Station name":"Oxford",
+    "Code":"OXF"
+  },
+  {
+    "Station name":"Oxshott",
+    "Code":"OXS"
+  },
+  {
+    "Station name":"Oxted",
+    "Code":"OXT"
+  },
+  {
+    "Station name":"Paddock Wood",
+    "Code":"PDW"
+  },
+  {
+    "Station name":"Padgate",
+    "Code":"PDG"
+  },
+  {
+    "Station name":"Paignton",
+    "Code":"PGN"
+  },
+  {
+    "Station name":"Paisley Canal",
+    "Code":"PCN"
+  },
+  {
+    "Station name":"Paisley Gilmour Street",
+    "Code":"PYG"
+  },
+  {
+    "Station name":"Paisley St James",
+    "Code":"PYJ"
+  },
+  {
+    "Station name":"Palmers Green",
+    "Code":"PAL"
+  },
+  {
+    "Station name":"Pangbourne",
+    "Code":"PAN"
+  },
+  {
+    "Station name":"Pannal",
+    "Code":"PNL"
+  },
+  {
+    "Station name":"Pantyffynnon",
+    "Code":"PTF"
+  },
+  {
+    "Station name":"Par",
+    "Code":"PAR"
+  },
+  {
+    "Station name":"Parbold",
+    "Code":"PBL"
+  },
+  {
+    "Station name":"Park Street",
+    "Code":"PKT"
+  },
+  {
+    "Station name":"Parkstone (Dorset)",
+    "Code":"PKS"
+  },
+  {
+    "Station name":"Parson Street",
+    "Code":"PSN"
+  },
+  {
+    "Station name":"Partick",
+    "Code":"PTK"
+  },
+  {
+    "Station name":"Parton",
+    "Code":"PRN"
+  },
+  {
+    "Station name":"Patchway",
+    "Code":"PWY"
+  },
+  {
+    "Station name":"Patricroft",
+    "Code":"PAT"
+  },
+  {
+    "Station name":"Patterton",
+    "Code":"PTT"
+  },
+  {
+    "Station name":"Peartree",
+    "Code":"PEA"
+  },
+  {
+    "Station name":"Peckham Rye",
+    "Code":"PMR"
+  },
+  {
+    "Station name":"Pegswood",
+    "Code":"PEG"
+  },
+  {
+    "Station name":"Pemberton",
+    "Code":"PEM"
+  },
+  {
+    "Station name":"Pembrey & Burry Port",
+    "Code":"PBY"
+  },
+  {
+    "Station name":"Pembroke",
+    "Code":"PMB"
+  },
+  {
+    "Station name":"Pembroke Dock",
+    "Code":"PMD"
+  },
+  {
+    "Station name":"Penally",
+    "Code":"PNA"
+  },
+  {
+    "Station name":"Penarth",
+    "Code":"PEN"
+  },
+  {
+    "Station name":"Pencoed",
+    "Code":"PCD"
+  },
+  {
+    "Station name":"Pengam",
+    "Code":"PGM"
+  },
+  {
+    "Station name":"Penge East",
+    "Code":"PNE"
+  },
+  {
+    "Station name":"Penge West",
+    "Code":"PNW"
+  },
+  {
+    "Station name":"Penhelig",
+    "Code":"PHG"
+  },
+  {
+    "Station name":"Penistone",
+    "Code":"PNS"
+  },
+  {
+    "Station name":"Penkridge",
+    "Code":"PKG"
+  },
+  {
+    "Station name":"Penmaenmawr",
+    "Code":"PMW"
+  },
+  {
+    "Station name":"Penmere",
+    "Code":"PNM"
+  },
+  {
+    "Station name":"Penrhiwceiber",
+    "Code":"PER"
+  },
+  {
+    "Station name":"Penrhyndeudraeth",
+    "Code":"PRH"
+  },
+  {
+    "Station name":"Penrith (North Lakes)",
+    "Code":"PNR"
+  },
+  {
+    "Station name":"Penryn (Cornwall)",
+    "Code":"PYN"
+  },
+  {
+    "Station name":"Pensarn (Gwynedd)",
+    "Code":"PES"
+  },
+  {
+    "Station name":"Penshurst",
+    "Code":"PHR"
+  },
+  {
+    "Station name":"Pentre-Bach",
+    "Code":"PTB"
+  },
+  {
+    "Station name":"Pen-y-Bont",
+    "Code":"PNY"
+  },
+  {
+    "Station name":"Penychain",
+    "Code":"PNC"
+  },
+  {
+    "Station name":"Penyffordd",
+    "Code":"PNF"
+  },
+  {
+    "Station name":"Penzance",
+    "Code":"PNZ"
+  },
+  {
+    "Station name":"Perranwell",
+    "Code":"PRW"
+  },
+  {
+    "Station name":"Perry Barr",
+    "Code":"PRY"
+  },
+  {
+    "Station name":"Pershore",
+    "Code":"PSH"
+  },
+  {
+    "Station name":"Perth",
+    "Code":"PTH"
+  },
+  {
+    "Station name":"Peterborough",
+    "Code":"PBO"
+  },
+  {
+    "Station name":"Petersfield",
+    "Code":"PTR"
+  },
+  {
+    "Station name":"Petts Wood",
+    "Code":"PET"
+  },
+  {
+    "Station name":"Pevensey & Westham",
+    "Code":"PEV"
+  },
+  {
+    "Station name":"Pevensey Bay",
+    "Code":"PEB"
+  },
+  {
+    "Station name":"Pewsey",
+    "Code":"PEW"
+  },
+  {
+    "Station name":"Pilning",
+    "Code":"PIL"
+  },
+  {
+    "Station name":"Pinhoe",
+    "Code":"PIN"
+  },
+  {
+    "Station name":"Pitlochry",
+    "Code":"PIT"
+  },
+  {
+    "Station name":"Pitsea",
+    "Code":"PSE"
+  },
+  {
+    "Station name":"Pleasington",
+    "Code":"PLS"
+  },
+  {
+    "Station name":"Plockton",
+    "Code":"PLK"
+  },
+  {
+    "Station name":"Pluckley",
+    "Code":"PLC"
+  },
+  {
+    "Station name":"Plumley",
+    "Code":"PLM"
+  },
+  {
+    "Station name":"Plumpton",
+    "Code":"PMP"
+  },
+  {
+    "Station name":"Plumstead",
+    "Code":"PLU"
+  },
+  {
+    "Station name":"Plymouth",
+    "Code":"PLY"
+  },
+  {
+    "Station name":"Pokesdown",
+    "Code":"POK"
+  },
+  {
+    "Station name":"Polegate",
+    "Code":"PLG"
+  },
+  {
+    "Station name":"Polesworth",
+    "Code":"PSW"
+  },
+  {
+    "Station name":"Pollokshaws East",
+    "Code":"PWE"
+  },
+  {
+    "Station name":"Pollokshaws West",
+    "Code":"PWW"
+  },
+  {
+    "Station name":"Pollokshields East",
+    "Code":"PLE"
+  },
+  {
+    "Station name":"Pollokshields West",
+    "Code":"PLW"
+  },
+  {
+    "Station name":"Polmont",
+    "Code":"PMT"
+  },
+  {
+    "Station name":"Polsloe Bridge",
+    "Code":"POL"
+  },
+  {
+    "Station name":"Ponders End",
+    "Code":"PON"
+  },
+  {
+    "Station name":"Pontarddulais",
+    "Code":"PTD"
+  },
+  {
+    "Station name":"Pontefract Baghill",
+    "Code":"PFR"
+  },
+  {
+    "Station name":"Pontefract Monkhill",
+    "Code":"PFM"
+  },
+  {
+    "Station name":"Pontefract Tanshelf",
+    "Code":"POT"
+  },
+  {
+    "Station name":"Pontlottyn",
+    "Code":"PLT"
+  },
+  {
+    "Station name":"Pontyclun",
+    "Code":"PYC"
+  },
+  {
+    "Station name":"Pont-y-Pant",
+    "Code":"PYP"
+  },
+  {
+    "Station name":"Pontypool & New Inn",
+    "Code":"PPL"
+  },
+  {
+    "Station name":"Pontypridd",
+    "Code":"PPD"
+  },
+  {
+    "Station name":"Poole",
+    "Code":"POO"
+  },
+  {
+    "Station name":"Poppleton",
+    "Code":"POP"
+  },
+  {
+    "Station name":"Port Glasgow",
+    "Code":"PTG"
+  },
+  {
+    "Station name":"Port Sunlight",
+    "Code":"PSL"
+  },
+  {
+    "Station name":"Port Talbot Parkway",
+    "Code":"PTA"
+  },
+  {
+    "Station name":"Portchester",
+    "Code":"PTC"
+  },
+  {
+    "Station name":"Porth",
+    "Code":"POR"
+  },
+  {
+    "Station name":"Porthmadog",
+    "Code":"PTM"
+  },
+  {
+    "Station name":"Portlethen",
+    "Code":"PLN"
+  },
+  {
+    "Station name":"Portslade",
+    "Code":"PLD"
+  },
+  {
+    "Station name":"Portsmouth & Southsea",
+    "Code":"PMS"
+  },
+  {
+    "Station name":"Portsmouth Arms",
+    "Code":"PMA"
+  },
+  {
+    "Station name":"Portsmouth Harbour",
+    "Code":"PMH"
+  },
+  {
+    "Station name":"Possilpark & Parkhouse",
+    "Code":"PPK"
+  },
+  {
+    "Station name":"Potters Bar",
+    "Code":"PBR"
+  },
+  {
+    "Station name":"Poulton-le-Fylde",
+    "Code":"PFY"
+  },
+  {
+    "Station name":"Poynton",
+    "Code":"PYT"
+  },
+  {
+    "Station name":"Prees",
+    "Code":"PRS"
+  },
+  {
+    "Station name":"Prescot",
+    "Code":"PSC"
+  },
+  {
+    "Station name":"Prestatyn",
+    "Code":"PRT"
+  },
+  {
+    "Station name":"Prestbury",
+    "Code":"PRB"
+  },
+  {
+    "Station name":"Preston (Lancs)",
+    "Code":"PRE"
+  },
+  {
+    "Station name":"Preston Park",
+    "Code":"PRP"
+  },
+  {
+    "Station name":"Prestonpans",
+    "Code":"PST"
+  },
+  {
+    "Station name":"Prestwick International Airport",
+    "Code":"PRA"
+  },
+  {
+    "Station name":"Prestwick Town",
+    "Code":"PTW"
+  },
+  {
+    "Station name":"Priesthill & Darnley",
+    "Code":"PTL"
+  },
+  {
+    "Station name":"Princes Risborough",
+    "Code":"PRR"
+  },
+  {
+    "Station name":"Prittlewell",
+    "Code":"PRL"
+  },
+  {
+    "Station name":"Prudhoe",
+    "Code":"PRU"
+  },
+  {
+    "Station name":"Pulborough",
+    "Code":"PUL"
+  },
+  {
+    "Station name":"Purfleet",
+    "Code":"PFL"
+  },
+  {
+    "Station name":"Purley",
+    "Code":"PUR"
+  },
+  {
+    "Station name":"Purley Oaks",
+    "Code":"PUO"
+  },
+  {
+    "Station name":"Putney",
+    "Code":"PUT"
+  },
+  {
+    "Station name":"Pwllheli",
+    "Code":"PWL"
+  },
+  {
+    "Station name":"Pyle",
+    "Code":"PYL"
+  },
+  {
+    "Station name":"Quakers Yard",
+    "Code":"QYD"
+  },
+  {
+    "Station name":"Queenborough",
+    "Code":"QBR"
+  },
+  {
+    "Station name":"Queens Park (Glasgow)",
+    "Code":"QPK"
+  },
+  {
+    "Station name":"Queens Park (London)",
+    "Code":"QPW"
+  },
+  {
+    "Station name":"Queens Road (Peckham)",
+    "Code":"QRP"
+  },
+  {
+    "Station name":"Queenstown Road (Battersea)",
+    "Code":"QRB"
+  },
+  {
+    "Station name":"Quintrell Downs",
+    "Code":"QUI"
+  },
+  {
+    "Station name":"Radcliffe-on-Trent",
+    "Code":"RDF"
+  },
+  {
+    "Station name":"Radlett",
+    "Code":"RDT"
+  },
+  {
+    "Station name":"Radley",
+    "Code":"RAD"
+  },
+  {
+    "Station name":"Radyr",
+    "Code":"RDR"
+  },
+  {
+    "Station name":"Rainford",
+    "Code":"RNF"
+  },
+  {
+    "Station name":"Rainham (Essex)",
+    "Code":"RNM"
+  },
+  {
+    "Station name":"Rainham (Kent)",
+    "Code":"RAI"
+  },
+  {
+    "Station name":"Rainhill",
+    "Code":"RNH"
+  },
+  {
+    "Station name":"Ramsgate",
+    "Code":"RAM"
+  },
+  {
+    "Station name":"Ramsgreave & Wilpshire",
+    "Code":"RGW"
+  },
+  {
+    "Station name":"Rannoch",
+    "Code":"RAN"
+  },
+  {
+    "Station name":"Rauceby",
+    "Code":"RAU"
+  },
+  {
+    "Station name":"Ravenglass for Eskdale",
+    "Code":"RAV"
+  },
+  {
+    "Station name":"Ravensbourne",
+    "Code":"RVB"
+  },
+  {
+    "Station name":"Ravensthorpe",
+    "Code":"RVN"
+  },
+  {
+    "Station name":"Rawcliffe",
+    "Code":"RWC"
+  },
+  {
+    "Station name":"Rayleigh",
+    "Code":"RLG"
+  },
+  {
+    "Station name":"Raynes Park",
+    "Code":"RAY"
+  },
+  {
+    "Station name":"Reading",
+    "Code":"RDG"
+  },
+  {
+    "Station name":"Reading West",
+    "Code":"RDW"
+  },
+  {
+    "Station name":"Rectory Road",
+    "Code":"REC"
+  },
+  {
+    "Station name":"Redbridge",
+    "Code":"RDB"
+  },
+  {
+    "Station name":"Redcar British Steel",
+    "Code":"RBS"
+  },
+  {
+    "Station name":"Redcar Central",
+    "Code":"RCC"
+  },
+  {
+    "Station name":"Redcar East",
+    "Code":"RCE"
+  },
+  {
+    "Station name":"Reddish North",
+    "Code":"RDN"
+  },
+  {
+    "Station name":"Reddish South",
+    "Code":"RDS"
+  },
+  {
+    "Station name":"Redditch",
+    "Code":"RDC"
+  },
+  {
+    "Station name":"Redhill",
+    "Code":"RDH"
+  },
+  {
+    "Station name":"Redland",
+    "Code":"RDA"
+  },
+  {
+    "Station name":"Redruth",
+    "Code":"RED"
+  },
+  {
+    "Station name":"Reedham (Norfolk)",
+    "Code":"REE"
+  },
+  {
+    "Station name":"Reedham (Surrey)",
+    "Code":"RHM"
+  },
+  {
+    "Station name":"Reigate",
+    "Code":"REI"
+  },
+  {
+    "Station name":"Renton",
+    "Code":"RTN"
+  },
+  {
+    "Station name":"Retford",
+    "Code":"RET"
+  },
+  {
+    "Station name":"Rhiwbina",
+    "Code":"RHI"
+  },
+  {
+    "Station name":"Rhoose Cardiff International Airport",
+    "Code":"RIA"
+  },
+  {
+    "Station name":"Rhosneigr",
+    "Code":"RHO"
+  },
+  {
+    "Station name":"Rhyl",
+    "Code":"RHL"
+  },
+  {
+    "Station name":"Rhymney",
+    "Code":"RHY"
+  },
+  {
+    "Station name":"Ribblehead",
+    "Code":"RHD"
+  },
+  {
+    "Station name":"Rice Lane",
+    "Code":"RIL"
+  },
+  {
+    "Station name":"Richmond (London)",
+    "Code":"RMD"
+  },
+  {
+    "Station name":"Rickmansworth",
+    "Code":"RIC"
+  },
+  {
+    "Station name":"Riddlesdown",
+    "Code":"RDD"
+  },
+  {
+    "Station name":"Ridgmont",
+    "Code":"RID"
+  },
+  {
+    "Station name":"Riding Mill",
+    "Code":"RDM"
+  },
+  {
+    "Station name":"Risca & Pontymister",
+    "Code":"RCA"
+  },
+  {
+    "Station name":"Rishton",
+    "Code":"RIS"
+  },
+  {
+    "Station name":"Robertsbridge",
+    "Code":"RBR"
+  },
+  {
+    "Station name":"Roby",
+    "Code":"ROB"
+  },
+  {
+    "Station name":"Rochdale",
+    "Code":"RCD"
+  },
+  {
+    "Station name":"Roche",
+    "Code":"ROC"
+  },
+  {
+    "Station name":"Rochester",
+    "Code":"RTR"
+  },
+  {
+    "Station name":"Rochford",
+    "Code":"RFD"
+  },
+  {
+    "Station name":"Rock Ferry",
+    "Code":"RFY"
+  },
+  {
+    "Station name":"Rogart",
+    "Code":"ROG"
+  },
+  {
+    "Station name":"Rogerstone",
+    "Code":"ROR"
+  },
+  {
+    "Station name":"Rolleston",
+    "Code":"ROL"
+  },
+  {
+    "Station name":"Roman Bridge",
+    "Code":"RMB"
+  },
+  {
+    "Station name":"Romford",
+    "Code":"RMF"
+  },
+  {
+    "Station name":"Romiley",
+    "Code":"RML"
+  },
+  {
+    "Station name":"Romsey",
+    "Code":"ROM"
+  },
+  {
+    "Station name":"Roose",
+    "Code":"ROO"
+  },
+  {
+    "Station name":"Rose Grove",
+    "Code":"RSG"
+  },
+  {
+    "Station name":"Rose Hill Marple",
+    "Code":"RSH"
+  },
+  {
+    "Station name":"Rosyth",
+    "Code":"ROS"
+  },
+  {
+    "Station name":"Rotherham Central",
+    "Code":"RMC"
+  },
+  {
+    "Station name":"Rotherhithe",
+    "Code":"ROE"
+  },
+  {
+    "Station name":"Roughton Road",
+    "Code":"RNR"
+  },
+  {
+    "Station name":"Rowlands Castle",
+    "Code":"RLN"
+  },
+  {
+    "Station name":"Rowley Regis",
+    "Code":"ROW"
+  },
+  {
+    "Station name":"Roy Bridge",
+    "Code":"RYB"
+  },
+  {
+    "Station name":"Roydon",
+    "Code":"RYN"
+  },
+  {
+    "Station name":"Royston",
+    "Code":"RYS"
+  },
+  {
+    "Station name":"Ruabon",
+    "Code":"RUA"
+  },
+  {
+    "Station name":"Rufford",
+    "Code":"RUF"
+  },
+  {
+    "Station name":"Rugby",
+    "Code":"RUG"
+  },
+  {
+    "Station name":"Rugeley Town",
+    "Code":"RGT"
+  },
+  {
+    "Station name":"Rugeley Trent Valley",
+    "Code":"RGL"
+  },
+  {
+    "Station name":"Runcorn",
+    "Code":"RUN"
+  },
+  {
+    "Station name":"Runcorn East",
+    "Code":"RUE"
+  },
+  {
+    "Station name":"Ruskington",
+    "Code":"RKT"
+  },
+  {
+    "Station name":"Ruswarp",
+    "Code":"RUS"
+  },
+  {
+    "Station name":"Rutherglen",
+    "Code":"RUT"
+  },
+  {
+    "Station name":"Ryde St Johns Road",
+    "Code":"RYR"
+  },
+  {
+    "Station name":"Ryde Esplanade",
+    "Code":"RYD"
+  },
+  {
+    "Station name":"Ryde Pier Head",
+    "Code":"RYP"
+  },
+  {
+    "Station name":"Ryder Brow",
+    "Code":"RRB"
+  },
+  {
+    "Station name":"Rye House",
+    "Code":"RYH"
+  },
+  {
+    "Station name":"Rye (Sussex)",
+    "Code":"RYE"
+  },
+  {
+    "Station name":"Salford Central",
+    "Code":"SFD"
+  },
+  {
+    "Station name":"Salford Crescent",
+    "Code":"SLD"
+  },
+  {
+    "Station name":"Salfords (Surrey)",
+    "Code":"SAF"
+  },
+  {
+    "Station name":"Salhouse",
+    "Code":"SAH"
+  },
+  {
+    "Station name":"Salisbury",
+    "Code":"SAL"
+  },
+  {
+    "Station name":"Saltaire",
+    "Code":"SAE"
+  },
+  {
+    "Station name":"Saltash",
+    "Code":"STS"
+  },
+  {
+    "Station name":"Saltburn",
+    "Code":"SLB"
+  },
+  {
+    "Station name":"Saltcoats",
+    "Code":"SLT"
+  },
+  {
+    "Station name":"Saltmarshe",
+    "Code":"SAM"
+  },
+  {
+    "Station name":"Salwick",
+    "Code":"SLW"
+  },
+  {
+    "Station name":"Sampford Courtenay",
+    "Code":"SMC"
+  },
+  {
+    "Station name":"Sandal & Agbrigg",
+    "Code":"SNA"
+  },
+  {
+    "Station name":"Sandbach",
+    "Code":"SDB"
+  },
+  {
+    "Station name":"Sanderstead",
+    "Code":"SNR"
+  },
+  {
+    "Station name":"Sandhills",
+    "Code":"SDL"
+  },
+  {
+    "Station name":"Sandhurst (Berks)",
+    "Code":"SND"
+  },
+  {
+    "Station name":"Sandling",
+    "Code":"SDG"
+  },
+  {
+    "Station name":"Sandown",
+    "Code":"SAN"
+  },
+  {
+    "Station name":"Sandplace",
+    "Code":"SDP"
+  },
+  {
+    "Station name":"Sandwell & Dudley",
+    "Code":"SAD"
+  },
+  {
+    "Station name":"Sandwich",
+    "Code":"SDW"
+  },
+  {
+    "Station name":"Sandy",
+    "Code":"SDY"
+  },
+  {
+    "Station name":"Sankey for Penketh",
+    "Code":"SNK"
+  },
+  {
+    "Station name":"Sanquhar",
+    "Code":"SQH"
+  },
+  {
+    "Station name":"Sarn",
+    "Code":"SRR"
+  },
+  {
+    "Station name":"Saundersfoot",
+    "Code":"SDF"
+  },
+  {
+    "Station name":"Saunderton",
+    "Code":"SDR"
+  },
+  {
+    "Station name":"Sawbridgeworth",
+    "Code":"SAW"
+  },
+  {
+    "Station name":"Saxilby",
+    "Code":"SXY"
+  },
+  {
+    "Station name":"Saxmundham",
+    "Code":"SAX"
+  },
+  {
+    "Station name":"Scarborough",
+    "Code":"SCA"
+  },
+  {
+    "Station name":"Scotscalder",
+    "Code":"SCT"
+  },
+  {
+    "Station name":"Scotstounhill",
+    "Code":"SCH"
+  },
+  {
+    "Station name":"Scunthorpe",
+    "Code":"SCU"
+  },
+  {
+    "Station name":"Sea Mills",
+    "Code":"SML"
+  },
+  {
+    "Station name":"Seaford (Sussex)",
+    "Code":"SEF"
+  },
+  {
+    "Station name":"Seaforth & Litherland",
+    "Code":"SFL"
+  },
+  {
+    "Station name":"Seaham",
+    "Code":"SEA"
+  },
+  {
+    "Station name":"Seamer",
+    "Code":"SEM"
+  },
+  {
+    "Station name":"Seascale",
+    "Code":"SSC"
+  },
+  {
+    "Station name":"Seaton Carew",
+    "Code":"SEC"
+  },
+  {
+    "Station name":"Seer Green & Jordans",
+    "Code":"SRG"
+  },
+  {
+    "Station name":"Selby",
+    "Code":"SBY"
+  },
+  {
+    "Station name":"Selhurst",
+    "Code":"SRS"
+  },
+  {
+    "Station name":"Sellafield",
+    "Code":"SEL"
+  },
+  {
+    "Station name":"Selling",
+    "Code":"SEG"
+  },
+  {
+    "Station name":"Selly Oak",
+    "Code":"SLY"
+  },
+  {
+    "Station name":"Settle",
+    "Code":"SET"
+  },
+  {
+    "Station name":"Seven Kings",
+    "Code":"SVK"
+  },
+  {
+    "Station name":"Seven Sisters",
+    "Code":"SVS"
+  },
+  {
+    "Station name":"Sevenoaks",
+    "Code":"SEV"
+  },
+  {
+    "Station name":"Severn Beach",
+    "Code":"SVB"
+  },
+  {
+    "Station name":"Severn Tunnel Junction",
+    "Code":"STJ"
+  },
+  {
+    "Station name":"Shadwell",
+    "Code":"SDE"
+  },
+  {
+    "Station name":"Shalford (Surrey)",
+    "Code":"SFR"
+  },
+  {
+    "Station name":"Shanklin",
+    "Code":"SHN"
+  },
+  {
+    "Station name":"Shawford",
+    "Code":"SHW"
+  },
+  {
+    "Station name":"Shawlands",
+    "Code":"SHL"
+  },
+  {
+    "Station name":"Sheerness-on-Sea",
+    "Code":"SSS"
+  },
+  {
+    "Station name":"Sheffield",
+    "Code":"SHF"
+  },
+  {
+    "Station name":"Shelford (Cambs)",
+    "Code":"SED"
+  },
+  {
+    "Station name":"Shenfield",
+    "Code":"SNF"
+  },
+  {
+    "Station name":"Shenstone",
+    "Code":"SEN"
+  },
+  {
+    "Station name":"Shepherd's Bush",
+    "Code":"SPB"
+  },
+  {
+    "Station name":"Shepherds Well",
+    "Code":"SPH"
+  },
+  {
+    "Station name":"Shepley",
+    "Code":"SPY"
+  },
+  {
+    "Station name":"Shepperton",
+    "Code":"SHP"
+  },
+  {
+    "Station name":"Shepreth",
+    "Code":"STH"
+  },
+  {
+    "Station name":"Sherborne",
+    "Code":"SHE"
+  },
+  {
+    "Station name":"Sherburn-in-Elmet",
+    "Code":"SIE"
+  },
+  {
+    "Station name":"Sheringham",
+    "Code":"SHM"
+  },
+  {
+    "Station name":"Shettleston",
+    "Code":"SLS"
+  },
+  {
+    "Station name":"Shieldmuir",
+    "Code":"SDM"
+  },
+  {
+    "Station name":"Shifnal",
+    "Code":"SFN"
+  },
+  {
+    "Station name":"Shildon",
+    "Code":"SHD"
+  },
+  {
+    "Station name":"Shiplake",
+    "Code":"SHI"
+  },
+  {
+    "Station name":"Shipley (Yorks)",
+    "Code":"SHY"
+  },
+  {
+    "Station name":"Shippea Hill",
+    "Code":"SPP"
+  },
+  {
+    "Station name":"Shipton",
+    "Code":"SIP"
+  },
+  {
+    "Station name":"Shirebrook",
+    "Code":"SHB"
+  },
+  {
+    "Station name":"Shirehampton",
+    "Code":"SHH"
+  },
+  {
+    "Station name":"Shireoaks",
+    "Code":"SRO"
+  },
+  {
+    "Station name":"Shirley",
+    "Code":"SRL"
+  },
+  {
+    "Station name":"Shoeburyness",
+    "Code":"SRY"
+  },
+  {
+    "Station name":"Sholing",
+    "Code":"SHO"
+  },
+  {
+    "Station name":"Shoreditch High Street",
+    "Code":"SDC"
+  },
+  {
+    "Station name":"Shoreham (Kent)",
+    "Code":"SEH"
+  },
+  {
+    "Station name":"Shoreham-by-Sea",
+    "Code":"SSE"
+  },
+  {
+    "Station name":"Shortlands",
+    "Code":"SRT"
+  },
+  {
+    "Station name":"Shotton",
+    "Code":"SHT"
+  },
+  {
+    "Station name":"Shotts",
+    "Code":"SHS"
+  },
+  {
+    "Station name":"Shrewsbury",
+    "Code":"SHR"
+  },
+  {
+    "Station name":"Sidcup",
+    "Code":"SID"
+  },
+  {
+    "Station name":"Sileby",
+    "Code":"SIL"
+  },
+  {
+    "Station name":"Silecroft",
+    "Code":"SIC"
+  },
+  {
+    "Station name":"Silkstone Common",
+    "Code":"SLK"
+  },
+  {
+    "Station name":"Silver Street",
+    "Code":"SLV"
+  },
+  {
+    "Station name":"Silverdale",
+    "Code":"SVR"
+  },
+  {
+    "Station name":"Singer",
+    "Code":"SIN"
+  },
+  {
+    "Station name":"Sittingbourne",
+    "Code":"SIT"
+  },
+  {
+    "Station name":"Skegness",
+    "Code":"SKG"
+  },
+  {
+    "Station name":"Skewen",
+    "Code":"SKE"
+  },
+  {
+    "Station name":"Skipton",
+    "Code":"SKI"
+  },
+  {
+    "Station name":"Slade Green",
+    "Code":"SGR"
+  },
+  {
+    "Station name":"Slaithwaite",
+    "Code":"SWT"
+  },
+  {
+    "Station name":"Slateford",
+    "Code":"SLA"
+  },
+  {
+    "Station name":"Sleaford",
+    "Code":"SLR"
+  },
+  {
+    "Station name":"Sleights",
+    "Code":"SLH"
+  },
+  {
+    "Station name":"Slough",
+    "Code":"SLO"
+  },
+  {
+    "Station name":"Small Heath",
+    "Code":"SMA"
+  },
+  {
+    "Station name":"Smallbrook Junction",
+    "Code":"SAB"
+  },
+  {
+    "Station name":"Smethwick Galton Bridge",
+    "Code":"SGB"
+  },
+  {
+    "Station name":"Smethwick Rolfe Street",
+    "Code":"SMR"
+  },
+  {
+    "Station name":"Smithy Bridge",
+    "Code":"SMB"
+  },
+  {
+    "Station name":"Snaith",
+    "Code":"SNI"
+  },
+  {
+    "Station name":"Snodland",
+    "Code":"SDA"
+  },
+  {
+    "Station name":"Snowdown",
+    "Code":"SWO"
+  },
+  {
+    "Station name":"Sole Street",
+    "Code":"SOR"
+  },
+  {
+    "Station name":"Solihull",
+    "Code":"SOL"
+  },
+  {
+    "Station name":"Somerleyton",
+    "Code":"SYT"
+  },
+  {
+    "Station name":"South Acton",
+    "Code":"SAT"
+  },
+  {
+    "Station name":"South Bank",
+    "Code":"SBK"
+  },
+  {
+    "Station name":"South Bermondsey",
+    "Code":"SBM"
+  },
+  {
+    "Station name":"South Croydon",
+    "Code":"SCY"
+  },
+  {
+    "Station name":"South Elmsall",
+    "Code":"SES"
+  },
+  {
+    "Station name":"South Greenford",
+    "Code":"SGN"
+  },
+  {
+    "Station name":"South Gyle",
+    "Code":"SGL"
+  },
+  {
+    "Station name":"South Hampstead",
+    "Code":"SOH"
+  },
+  {
+    "Station name":"South Kenton",
+    "Code":"SOK"
+  },
+  {
+    "Station name":"South Merton",
+    "Code":"SMO"
+  },
+  {
+    "Station name":"South Milford",
+    "Code":"SOM"
+  },
+  {
+    "Station name":"South Ruislip",
+    "Code":"SRU"
+  },
+  {
+    "Station name":"South Tottenham",
+    "Code":"STO"
+  },
+  {
+    "Station name":"South Wigston",
+    "Code":"SWS"
+  },
+  {
+    "Station name":"South Woodham Ferrers",
+    "Code":"SOF"
+  },
+  {
+    "Station name":"Southall",
+    "Code":"STL"
+  },
+  {
+    "Station name":"Southampton Airport Parkway",
+    "Code":"SOA"
+  },
+  {
+    "Station name":"Southampton Central",
+    "Code":"SOU"
+  },
+  {
+    "Station name":"Southbourne",
+    "Code":"SOB"
+  },
+  {
+    "Station name":"Southbury",
+    "Code":"SBU"
+  },
+  {
+    "Station name":"Southease",
+    "Code":"SEE"
+  },
+  {
+    "Station name":"Southend Airport",
+    "Code":"SIA"
+  },
+  {
+    "Station name":"Southend Central",
+    "Code":"SOC"
+  },
+  {
+    "Station name":"Southend East",
+    "Code":"SOE"
+  },
+  {
+    "Station name":"Southend Victoria",
+    "Code":"SOV"
+  },
+  {
+    "Station name":"Southminster",
+    "Code":"SMN"
+  },
+  {
+    "Station name":"Southport",
+    "Code":"SOP"
+  },
+  {
+    "Station name":"Southwick",
+    "Code":"SWK"
+  },
+  {
+    "Station name":"Sowerby Bridge",
+    "Code":"SOW"
+  },
+  {
+    "Station name":"Spalding",
+    "Code":"SPA"
+  },
+  {
+    "Station name":"Spean Bridge",
+    "Code":"SBR"
+  },
+  {
+    "Station name":"Spital",
+    "Code":"SPI"
+  },
+  {
+    "Station name":"Spondon",
+    "Code":"SPO"
+  },
+  {
+    "Station name":"Spooner Row",
+    "Code":"SPN"
+  },
+  {
+    "Station name":"Spring Road",
+    "Code":"SRI"
+  },
+  {
+    "Station name":"Springburn",
+    "Code":"SPR"
+  },
+  {
+    "Station name":"Springfield",
+    "Code":"SPF"
+  },
+  {
+    "Station name":"Squires Gate",
+    "Code":"SQU"
+  },
+  {
+    "Station name":"St Albans",
+    "Code":"SAC"
+  },
+  {
+    "Station name":"St Albans Abbey",
+    "Code":"SAA"
+  },
+  {
+    "Station name":"St Andrews Road",
+    "Code":"SAR"
+  },
+  {
+    "Station name":"St Annes-on-Sea",
+    "Code":"SAS"
+  },
+  {
+    "Station name":"St Austell",
+    "Code":"SAU"
+  },
+  {
+    "Station name":"St Bees",
+    "Code":"SBS"
+  },
+  {
+    "Station name":"St Budeaux Ferry Road",
+    "Code":"SBF"
+  },
+  {
+    "Station name":"St Budeaux Victoria Road",
+    "Code":"SBV"
+  },
+  {
+    "Station name":"St Columb Road",
+    "Code":"SCR"
+  },
+  {
+    "Station name":"St Denys",
+    "Code":"SDN"
+  },
+  {
+    "Station name":"St Erth",
+    "Code":"SER"
+  },
+  {
+    "Station name":"St Germans",
+    "Code":"SGM"
+  },
+  {
+    "Station name":"St Helens Central",
+    "Code":"SNH"
+  },
+  {
+    "Station name":"St Helens Junction",
+    "Code":"SHJ"
+  },
+  {
+    "Station name":"St Helier (Surrey)",
+    "Code":"SIH"
+  },
+  {
+    "Station name":"St Ives (Cornwall)",
+    "Code":"SIV"
+  },
+  {
+    "Station name":"St James Park (Exeter)",
+    "Code":"SJP"
+  },
+  {
+    "Station name":"St James Street (Walthamstow)",
+    "Code":"SJS"
+  },
+  {
+    "Station name":"St Johns (London)",
+    "Code":"SAJ"
+  },
+  {
+    "Station name":"St Keyne Wishing Well Halt",
+    "Code":"SKN"
+  },
+  {
+    "Station name":"St Leonards Warrior Square",
+    "Code":"SLQ"
+  },
+  {
+    "Station name":"St Margarets (Herts)",
+    "Code":"SMT"
+  },
+  {
+    "Station name":"St Margarets (London)",
+    "Code":"SMG"
+  },
+  {
+    "Station name":"St Mary Cray",
+    "Code":"SMY"
+  },
+  {
+    "Station name":"St Michaels",
+    "Code":"STM"
+  },
+  {
+    "Station name":"St Neots",
+    "Code":"SNO"
+  },
+  {
+    "Station name":"Stafford",
+    "Code":"STA"
+  },
+  {
+    "Station name":"Staines",
+    "Code":"SNS"
+  },
+  {
+    "Station name":"Stallingborough",
+    "Code":"SLL"
+  },
+  {
+    "Station name":"Stalybridge",
+    "Code":"SYB"
+  },
+  {
+    "Station name":"Stamford Hill",
+    "Code":"SMH"
+  },
+  {
+    "Station name":"Stamford (Lincs)",
+    "Code":"SMD"
+  },
+  {
+    "Station name":"Stanford-le-Hope",
+    "Code":"SFO"
+  },
+  {
+    "Station name":"Stanlow & Thornton",
+    "Code":"SNT"
+  },
+  {
+    "Station name":"Stansted Airport",
+    "Code":"SSD"
+  },
+  {
+    "Station name":"Stansted Mountfitchet",
+    "Code":"SST"
+  },
+  {
+    "Station name":"Staplehurst",
+    "Code":"SPU"
+  },
+  {
+    "Station name":"Stapleton Road",
+    "Code":"SRD"
+  },
+  {
+    "Station name":"Starbeck",
+    "Code":"SBE"
+  },
+  {
+    "Station name":"Starcross",
+    "Code":"SCS"
+  },
+  {
+    "Station name":"Staveley (Cumbria)",
+    "Code":"SVL"
+  },
+  {
+    "Station name":"Stechford",
+    "Code":"SCF"
+  },
+  {
+    "Station name":"Steeton & Silsden",
+    "Code":"SON"
+  },
+  {
+    "Station name":"Stepps",
+    "Code":"SPS"
+  },
+  {
+    "Station name":"Stevenage",
+    "Code":"SVG"
+  },
+  {
+    "Station name":"Stevenston",
+    "Code":"STV"
+  },
+  {
+    "Station name":"Stewartby",
+    "Code":"SWR"
+  },
+  {
+    "Station name":"Stewarton",
+    "Code":"STT"
+  },
+  {
+    "Station name":"Stirling",
+    "Code":"STG"
+  },
+  {
+    "Station name":"Stockport",
+    "Code":"SPT"
+  },
+  {
+    "Station name":"Stocksfield",
+    "Code":"SKS"
+  },
+  {
+    "Station name":"Stocksmoor",
+    "Code":"SSM"
+  },
+  {
+    "Station name":"Stockton",
+    "Code":"STK"
+  },
+  {
+    "Station name":"Stoke Mandeville",
+    "Code":"SKM"
+  },
+  {
+    "Station name":"Stoke Newington",
+    "Code":"SKW"
+  },
+  {
+    "Station name":"Stoke-on-Trent",
+    "Code":"SOT"
+  },
+  {
+    "Station name":"Stone Crossing",
+    "Code":"SCG"
+  },
+  {
+    "Station name":"Stone (Staffs)",
+    "Code":"SNE"
+  },
+  {
+    "Station name":"Stonebridge Park",
+    "Code":"SBP"
+  },
+  {
+    "Station name":"Stonegate",
+    "Code":"SOG"
+  },
+  {
+    "Station name":"Stonehaven",
+    "Code":"STN"
+  },
+  {
+    "Station name":"Stonehouse",
+    "Code":"SHU"
+  },
+  {
+    "Station name":"Stoneleigh",
+    "Code":"SNL"
+  },
+  {
+    "Station name":"Stourbridge Junction",
+    "Code":"SBJ"
+  },
+  {
+    "Station name":"Stourbridge Town",
+    "Code":"SBT"
+  },
+  {
+    "Station name":"Stowmarket",
+    "Code":"SMK"
+  },
+  {
+    "Station name":"Stranraer",
+    "Code":"STR"
+  },
+  {
+    "Station name":"Stratford International",
+    "Code":"SFA"
+  },
+  {
+    "Station name":"Stratford (London)",
+    "Code":"SRA"
+  },
+  {
+    "Station name":"Stratford-upon-Avon",
+    "Code":"SAV"
+  },
+  {
+    "Station name":"Stratford-upon-Avon Parkway",
+    "Code":"STY"
+  },
+  {
+    "Station name":"Strathcarron",
+    "Code":"STC"
+  },
+  {
+    "Station name":"Strawberry Hill",
+    "Code":"STW"
+  },
+  {
+    "Station name":"Streatham Common",
+    "Code":"SRC"
+  },
+  {
+    "Station name":"Streatham Hill",
+    "Code":"SRH"
+  },
+  {
+    "Station name":"Streatham(Greater London)",
+    "Code":"STE"
+  },
+  {
+    "Station name":"Streethouse",
+    "Code":"SHC"
+  },
+  {
+    "Station name":"Strines",
+    "Code":"SRN"
+  },
+  {
+    "Station name":"Stromeferry",
+    "Code":"STF"
+  },
+  {
+    "Station name":"Strood (Kent)",
+    "Code":"SOO"
+  },
+  {
+    "Station name":"Stroud (Gloucs)",
+    "Code":"STD"
+  },
+  {
+    "Station name":"Sturry",
+    "Code":"STU"
+  },
+  {
+    "Station name":"Styal",
+    "Code":"SYA"
+  },
+  {
+    "Station name":"Sudbury & Harrow Road",
+    "Code":"SUD"
+  },
+  {
+    "Station name":"Sudbury Hill Harrow",
+    "Code":"SDH"
+  },
+  {
+    "Station name":"Sudbury (Suffolk)",
+    "Code":"SUY"
+  },
+  {
+    "Station name":"Sugar Loaf",
+    "Code":"SUG"
+  },
+  {
+    "Station name":"Summerston",
+    "Code":"SUM"
+  },
+  {
+    "Station name":"Sunbury",
+    "Code":"SUU"
+  },
+  {
+    "Station name":"Sunderland",
+    "Code":"SUN"
+  },
+  {
+    "Station name":"Sundridge Park",
+    "Code":"SUP"
+  },
+  {
+    "Station name":"Sunningdale",
+    "Code":"SNG"
+  },
+  {
+    "Station name":"Sunnymeads",
+    "Code":"SNY"
+  },
+  {
+    "Station name":"Surbiton",
+    "Code":"SUR"
+  },
+  {
+    "Station name":"Surrey Quays",
+    "Code":"SQE"
+  },
+  {
+    "Station name":"Sutton Coldfield",
+    "Code":"SUT"
+  },
+  {
+    "Station name":"Sutton Common",
+    "Code":"SUC"
+  },
+  {
+    "Station name":"Sutton Parkway",
+    "Code":"SPK"
+  },
+  {
+    "Station name":"Sutton (Surrey)",
+    "Code":"SUO"
+  },
+  {
+    "Station name":"Swale",
+    "Code":"SWL"
+  },
+  {
+    "Station name":"Swanley",
+    "Code":"SAY"
+  },
+  {
+    "Station name":"Swanscombe",
+    "Code":"SWM"
+  },
+  {
+    "Station name":"Swansea",
+    "Code":"SWA"
+  },
+  {
+    "Station name":"Swanwick",
+    "Code":"SNW"
+  },
+  {
+    "Station name":"Sway",
+    "Code":"SWY"
+  },
+  {
+    "Station name":"Swaythling",
+    "Code":"SWG"
+  },
+  {
+    "Station name":"Swinderby",
+    "Code":"SWD"
+  },
+  {
+    "Station name":"Swindon (Wilts)",
+    "Code":"SWI"
+  },
+  {
+    "Station name":"Swineshead",
+    "Code":"SWE"
+  },
+  {
+    "Station name":"Swinton (Manchester)",
+    "Code":"SNN"
+  },
+  {
+    "Station name":"Swinton (South Yorks)",
+    "Code":"SWN"
+  },
+  {
+    "Station name":"Sydenham Hill",
+    "Code":"SYH"
+  },
+  {
+    "Station name":"Sydenham (London)",
+    "Code":"SYD"
+  },
+  {
+    "Station name":"Syon Lane",
+    "Code":"SYL"
+  },
+  {
+    "Station name":"Syston",
+    "Code":"SYS"
+  },
+  {
+    "Station name":"Tackley",
+    "Code":"TAC"
+  },
+  {
+    "Station name":"Tadworth",
+    "Code":"TAD"
+  },
+  {
+    "Station name":"Taffs Well",
+    "Code":"TAF"
+  },
+  {
+    "Station name":"Tain",
+    "Code":"TAI"
+  },
+  {
+    "Station name":"Talsarnau",
+    "Code":"TAL"
+  },
+  {
+    "Station name":"Talybont",
+    "Code":"TLB"
+  },
+  {
+    "Station name":"Tal-y-Cafn",
+    "Code":"TLC"
+  },
+  {
+    "Station name":"Tame Bridge Parkway",
+    "Code":"TAB"
+  },
+  {
+    "Station name":"Tamworth",
+    "Code":"TAM"
+  },
+  {
+    "Station name":"Taplow",
+    "Code":"TAP"
+  },
+  {
+    "Station name":"Tattenham Corner",
+    "Code":"TAT"
+  },
+  {
+    "Station name":"Taunton",
+    "Code":"TAU"
+  },
+  {
+    "Station name":"Taynuilt",
+    "Code":"TAY"
+  },
+  {
+    "Station name":"Teddington",
+    "Code":"TED"
+  },
+  {
+    "Station name":"Tees-side Airport",
+    "Code":"TEA"
+  },
+  {
+    "Station name":"Teignmouth",
+    "Code":"TGM"
+  },
+  {
+    "Station name":"Telford Central",
+    "Code":"TFC"
+  },
+  {
+    "Station name":"Templecombe",
+    "Code":"TMC"
+  },
+  {
+    "Station name":"Tenby",
+    "Code":"TEN"
+  },
+  {
+    "Station name":"Teynham",
+    "Code":"TEY"
+  },
+  {
+    "Station name":"Thames Ditton",
+    "Code":"THD"
+  },
+  {
+    "Station name":"Thatcham",
+    "Code":"THA"
+  },
+  {
+    "Station name":"Thatto Heath",
+    "Code":"THH"
+  },
+  {
+    "Station name":"The Hawthorns",
+    "Code":"THW"
+  },
+  {
+    "Station name":"The Lakes (Warks)",
+    "Code":"TLK"
+  },
+  {
+    "Station name":"Theale",
+    "Code":"THE"
+  },
+  {
+    "Station name":"Theobalds Grove",
+    "Code":"TEO"
+  },
+  {
+    "Station name":"Thetford",
+    "Code":"TTF"
+  },
+  {
+    "Station name":"Thirsk",
+    "Code":"THI"
+  },
+  {
+    "Station name":"Thornaby",
+    "Code":"TBY"
+  },
+  {
+    "Station name":"Thorne North",
+    "Code":"TNN"
+  },
+  {
+    "Station name":"Thorne South",
+    "Code":"TNS"
+  },
+  {
+    "Station name":"Thornford",
+    "Code":"THO"
+  },
+  {
+    "Station name":"Thornliebank",
+    "Code":"THB"
+  },
+  {
+    "Station name":"Thornton Abbey",
+    "Code":"TNA"
+  },
+  {
+    "Station name":"Thornton Heath",
+    "Code":"TTH"
+  },
+  {
+    "Station name":"Thorntonhall",
+    "Code":"THT"
+  },
+  {
+    "Station name":"Thorpe Bay",
+    "Code":"TPB"
+  },
+  {
+    "Station name":"Thorpe Culvert",
+    "Code":"TPC"
+  },
+  {
+    "Station name":"Thorpe-le-Soken",
+    "Code":"TLS"
+  },
+  {
+    "Station name":"Three Bridges",
+    "Code":"TBD"
+  },
+  {
+    "Station name":"Three Oaks",
+    "Code":"TOK"
+  },
+  {
+    "Station name":"Thurgarton",
+    "Code":"THU"
+  },
+  {
+    "Station name":"Thurnscoe",
+    "Code":"THC"
+  },
+  {
+    "Station name":"Thurso",
+    "Code":"THS"
+  },
+  {
+    "Station name":"Thurston",
+    "Code":"TRS"
+  },
+  {
+    "Station name":"Tilbury Town",
+    "Code":"TIL"
+  },
+  {
+    "Station name":"Tile Hill",
+    "Code":"THL"
+  },
+  {
+    "Station name":"Tilehurst",
+    "Code":"TLH"
+  },
+  {
+    "Station name":"Tipton",
+    "Code":"TIP"
+  },
+  {
+    "Station name":"Tir-Phil",
+    "Code":"TIR"
+  },
+  {
+    "Station name":"Tisbury",
+    "Code":"TIS"
+  },
+  {
+    "Station name":"Tiverton Parkway",
+    "Code":"TVP"
+  },
+  {
+    "Station name":"Todmorden",
+    "Code":"TOD"
+  },
+  {
+    "Station name":"Tolworth",
+    "Code":"TOL"
+  },
+  {
+    "Station name":"Ton Pentre",
+    "Code":"TPN"
+  },
+  {
+    "Station name":"Tonbridge",
+    "Code":"TON"
+  },
+  {
+    "Station name":"Tondu",
+    "Code":"TDU"
+  },
+  {
+    "Station name":"Tonfanau",
+    "Code":"TNF"
+  },
+  {
+    "Station name":"Tonypandy",
+    "Code":"TNP"
+  },
+  {
+    "Station name":"Tooting",
+    "Code":"TOO"
+  },
+  {
+    "Station name":"Topsham",
+    "Code":"TOP"
+  },
+  {
+    "Station name":"Torquay",
+    "Code":"TQY"
+  },
+  {
+    "Station name":"Torre",
+    "Code":"TRR"
+  },
+  {
+    "Station name":"Totnes",
+    "Code":"TOT"
+  },
+  {
+    "Station name":"Tottenham Hale",
+    "Code":"TOM"
+  },
+  {
+    "Station name":"Totton",
+    "Code":"TTN"
+  },
+  {
+    "Station name":"Town Green",
+    "Code":"TWN"
+  },
+  {
+    "Station name":"Trafford Park",
+    "Code":"TRA"
+  },
+  {
+    "Station name":"Trefforest",
+    "Code":"TRF"
+  },
+  {
+    "Station name":"Trefforest Estate",
+    "Code":"TRE"
+  },
+  {
+    "Station name":"Trehafod",
+    "Code":"TRH"
+  },
+  {
+    "Station name":"Treherbert",
+    "Code":"TRB"
+  },
+  {
+    "Station name":"Treorchy",
+    "Code":"TRY"
+  },
+  {
+    "Station name":"Trimley",
+    "Code":"TRM"
+  },
+  {
+    "Station name":"Tring",
+    "Code":"TRI"
+  },
+  {
+    "Station name":"Troed-y-rhiw",
+    "Code":"TRD"
+  },
+  {
+    "Station name":"Troon",
+    "Code":"TRN"
+  },
+  {
+    "Station name":"Trowbridge",
+    "Code":"TRO"
+  },
+  {
+    "Station name":"Truro",
+    "Code":"TRU"
+  },
+  {
+    "Station name":"Tulloch",
+    "Code":"TUL"
+  },
+  {
+    "Station name":"Tulse Hill",
+    "Code":"TUH"
+  },
+  {
+    "Station name":"Tunbridge Wells",
+    "Code":"TBW"
+  },
+  {
+    "Station name":"Turkey Street",
+    "Code":"TUR"
+  },
+  {
+    "Station name":"Tutbury & Hatton",
+    "Code":"TUT"
+  },
+  {
+    "Station name":"Twickenham",
+    "Code":"TWI"
+  },
+  {
+    "Station name":"Twyford",
+    "Code":"TWY"
+  },
+  {
+    "Station name":"Ty Croes",
+    "Code":"TYC"
+  },
+  {
+    "Station name":"Ty Glas",
+    "Code":"TGS"
+  },
+  {
+    "Station name":"Tygwyn",
+    "Code":"TYG"
+  },
+  {
+    "Station name":"Tyndrum Lower",
+    "Code":"TYL"
+  },
+  {
+    "Station name":"Tyseley",
+    "Code":"TYS"
+  },
+  {
+    "Station name":"Tywyn",
+    "Code":"TYW"
+  },
+  {
+    "Station name":"Uckfield",
+    "Code":"UCK"
+  },
+  {
+    "Station name":"Uddingston",
+    "Code":"UDD"
+  },
+  {
+    "Station name":"Ulceby",
+    "Code":"ULC"
+  },
+  {
+    "Station name":"Ulleskelf",
+    "Code":"ULL"
+  },
+  {
+    "Station name":"Ulverston",
+    "Code":"ULV"
+  },
+  {
+    "Station name":"Umberleigh",
+    "Code":"UMB"
+  },
+  {
+    "Station name":"University (Birmingham)",
+    "Code":"UNI"
+  },
+  {
+    "Station name":"Uphall",
+    "Code":"UHA"
+  },
+  {
+    "Station name":"Upholland",
+    "Code":"UPL"
+  },
+  {
+    "Station name":"Upminster",
+    "Code":"UPM"
+  },
+  {
+    "Station name":"Upper Halliford",
+    "Code":"UPH"
+  },
+  {
+    "Station name":"Upper Holloway",
+    "Code":"UHL"
+  },
+  {
+    "Station name":"Upper Tyndrum",
+    "Code":"UTY"
+  },
+  {
+    "Station name":"Upper Warlingham",
+    "Code":"UWL"
+  },
+  {
+    "Station name":"Upton (Merseyside)",
+    "Code":"UPT"
+  },
+  {
+    "Station name":"Upwey",
+    "Code":"UPW"
+  },
+  {
+    "Station name":"Urmston",
+    "Code":"URM"
+  },
+  {
+    "Station name":"Uttoxeter",
+    "Code":"UTT"
+  },
+  {
+    "Station name":"Valley",
+    "Code":"VAL"
+  },
+  {
+    "Station name":"Vauxhall",
+    "Code":"VXH"
+  },
+  {
+    "Station name":"Virginia Water",
+    "Code":"VIR"
+  },
+  {
+    "Station name":"Waddon",
+    "Code":"WDO"
+  },
+  {
+    "Station name":"Wadhurst",
+    "Code":"WAD"
+  },
+  {
+    "Station name":"Wainfleet",
+    "Code":"WFL"
+  },
+  {
+    "Station name":"Wakefield Kirkgate",
+    "Code":"WKK"
+  },
+  {
+    "Station name":"Wakefield Westgate",
+    "Code":"WKF"
+  },
+  {
+    "Station name":"Walkden",
+    "Code":"WKD"
+  },
+  {
+    "Station name":"Wallasey Grove Road",
+    "Code":"WLG"
+  },
+  {
+    "Station name":"Wallasey Village",
+    "Code":"WLV"
+  },
+  {
+    "Station name":"Wallington",
+    "Code":"WLT"
+  },
+  {
+    "Station name":"Wallyford",
+    "Code":"WAF"
+  },
+  {
+    "Station name":"Walmer",
+    "Code":"WAM"
+  },
+  {
+    "Station name":"Walsall",
+    "Code":"WSL"
+  },
+  {
+    "Station name":"Walsden",
+    "Code":"WDN"
+  },
+  {
+    "Station name":"Waltham Cross",
+    "Code":"WLC"
+  },
+  {
+    "Station name":"Walthamstow Central",
+    "Code":"WHC"
+  },
+  {
+    "Station name":"Walthamstow Queen's Road",
+    "Code":"WMW"
+  },
+  {
+    "Station name":"Walton (Merseyside)",
+    "Code":"WAO"
+  },
+  {
+    "Station name":"Walton-on-Thames",
+    "Code":"WAL"
+  },
+  {
+    "Station name":"Walton-on-the-Naze",
+    "Code":"WON"
+  },
+  {
+    "Station name":"Wanborough",
+    "Code":"WAN"
+  },
+  {
+    "Station name":"Wandsworth Common",
+    "Code":"WSW"
+  },
+  {
+    "Station name":"Wandsworth Road",
+    "Code":"WWR"
+  },
+  {
+    "Station name":"Wandsworth Town",
+    "Code":"WNT"
+  },
+  {
+    "Station name":"Wanstead Park",
+    "Code":"WNP"
+  },
+  {
+    "Station name":"Wapping",
+    "Code":"WPE"
+  },
+  {
+    "Station name":"Warblington",
+    "Code":"WBL"
+  },
+  {
+    "Station name":"Ware (Herts)",
+    "Code":"WAR"
+  },
+  {
+    "Station name":"Wareham (Dorset)",
+    "Code":"WRM"
+  },
+  {
+    "Station name":"Wargrave",
+    "Code":"WGV"
+  },
+  {
+    "Station name":"Warminster",
+    "Code":"WMN"
+  },
+  {
+    "Station name":"Warnham",
+    "Code":"WNH"
+  },
+  {
+    "Station name":"Warrington Bank Quay",
+    "Code":"WBQ"
+  },
+  {
+    "Station name":"Warrington Central",
+    "Code":"WAC"
+  },
+  {
+    "Station name":"Warwick",
+    "Code":"WRW"
+  },
+  {
+    "Station name":"Warwick Parkway",
+    "Code":"WRP"
+  },
+  {
+    "Station name":"Water Orton",
+    "Code":"WTO"
+  },
+  {
+    "Station name":"Waterbeach",
+    "Code":"WBC"
+  },
+  {
+    "Station name":"Wateringbury",
+    "Code":"WTR"
+  },
+  {
+    "Station name":"Waterloo (Merseyside)",
+    "Code":"WLO"
+  },
+  {
+    "Station name":"Watford High Street",
+    "Code":"WFH"
+  },
+  {
+    "Station name":"Watford Junction",
+    "Code":"WFJ"
+  },
+  {
+    "Station name":"Watford North",
+    "Code":"WFN"
+  },
+  {
+    "Station name":"Watlington",
+    "Code":"WTG"
+  },
+  {
+    "Station name":"Watton-at-Stone",
+    "Code":"WAS"
+  },
+  {
+    "Station name":"Waun-Gron Park",
+    "Code":"WNG"
+  },
+  {
+    "Station name":"Wavertree Technology Park",
+    "Code":"WAV"
+  },
+  {
+    "Station name":"Wedgwood",
+    "Code":"WED"
+  },
+  {
+    "Station name":"Weeley",
+    "Code":"WEE"
+  },
+  {
+    "Station name":"Weeton",
+    "Code":"WET"
+  },
+  {
+    "Station name":"Welham Green",
+    "Code":"WMG"
+  },
+  {
+    "Station name":"Welling",
+    "Code":"WLI"
+  },
+  {
+    "Station name":"Wellingborough",
+    "Code":"WEL"
+  },
+  {
+    "Station name":"Wellington (Shropshire)",
+    "Code":"WLN"
+  },
+  {
+    "Station name":"Welshpool",
+    "Code":"WLP"
+  },
+  {
+    "Station name":"Welwyn Garden City",
+    "Code":"WGC"
+  },
+  {
+    "Station name":"Welwyn North",
+    "Code":"WLW"
+  },
+  {
+    "Station name":"Wem",
+    "Code":"WEM"
+  },
+  {
+    "Station name":"Wembley Central",
+    "Code":"WMB"
+  },
+  {
+    "Station name":"Wembley Stadium",
+    "Code":"WCX"
+  },
+  {
+    "Station name":"Wemyss Bay",
+    "Code":"WMS"
+  },
+  {
+    "Station name":"Wendover",
+    "Code":"WND"
+  },
+  {
+    "Station name":"Wennington",
+    "Code":"WNN"
+  },
+  {
+    "Station name":"West Allerton",
+    "Code":"WSA"
+  },
+  {
+    "Station name":"West Brompton",
+    "Code":"WBP"
+  },
+  {
+    "Station name":"West Byfleet",
+    "Code":"WBY"
+  },
+  {
+    "Station name":"West Calder",
+    "Code":"WCL"
+  },
+  {
+    "Station name":"West Croydon",
+    "Code":"WCY"
+  },
+  {
+    "Station name":"West Drayton",
+    "Code":"WDT"
+  },
+  {
+    "Station name":"West Dulwich",
+    "Code":"WDU"
+  },
+  {
+    "Station name":"West Ealing",
+    "Code":"WEA"
+  },
+  {
+    "Station name":"West Ham",
+    "Code":"WEH"
+  },
+  {
+    "Station name":"West Hampstead",
+    "Code":"WHD"
+  },
+  {
+    "Station name":"West Hampstead Thameslink",
+    "Code":"WHP"
+  },
+  {
+    "Station name":"West Horndon",
+    "Code":"WHR"
+  },
+  {
+    "Station name":"West Kilbride",
+    "Code":"WKB"
+  },
+  {
+    "Station name":"West Kirby",
+    "Code":"WKI"
+  },
+  {
+    "Station name":"West Malling",
+    "Code":"WMA"
+  },
+  {
+    "Station name":"West Norwood",
+    "Code":"WNW"
+  },
+  {
+    "Station name":"West Ruislip",
+    "Code":"WRU"
+  },
+  {
+    "Station name":"West Runton",
+    "Code":"WRN"
+  },
+  {
+    "Station name":"West St Leonards",
+    "Code":"WLD"
+  },
+  {
+    "Station name":"West Sutton",
+    "Code":"WSU"
+  },
+  {
+    "Station name":"West Wickham",
+    "Code":"WWI"
+  },
+  {
+    "Station name":"West Worthing",
+    "Code":"WWO"
+  },
+  {
+    "Station name":"Westbury (Wilts)",
+    "Code":"WSB"
+  },
+  {
+    "Station name":"Westcliff",
+    "Code":"WCF"
+  },
+  {
+    "Station name":"Westcombe Park",
+    "Code":"WCB"
+  },
+  {
+    "Station name":"Westenhanger",
+    "Code":"WHA"
+  },
+  {
+    "Station name":"Wester Hailes",
+    "Code":"WTA"
+  },
+  {
+    "Station name":"Westerfield",
+    "Code":"WFI"
+  },
+  {
+    "Station name":"Westerton",
+    "Code":"WES"
+  },
+  {
+    "Station name":"Westgate-on-Sea",
+    "Code":"WGA"
+  },
+  {
+    "Station name":"Westhoughton",
+    "Code":"WHG"
+  },
+  {
+    "Station name":"Weston Milton",
+    "Code":"WNM"
+  },
+  {
+    "Station name":"Weston-super-Mare",
+    "Code":"WSM"
+  },
+  {
+    "Station name":"Wetheral",
+    "Code":"WRL"
+  },
+  {
+    "Station name":"Weybridge",
+    "Code":"WYB"
+  },
+  {
+    "Station name":"Weymouth",
+    "Code":"WEY"
+  },
+  {
+    "Station name":"Whaley Bridge",
+    "Code":"WBR"
+  },
+  {
+    "Station name":"Whalley (Lancs)",
+    "Code":"WHE"
+  },
+  {
+    "Station name":"Whatstandwell",
+    "Code":"WTS"
+  },
+  {
+    "Station name":"Whifflet",
+    "Code":"WFF"
+  },
+  {
+    "Station name":"Whimple",
+    "Code":"WHM"
+  },
+  {
+    "Station name":"Whinhill",
+    "Code":"WNL"
+  },
+  {
+    "Station name":"Whiston",
+    "Code":"WHN"
+  },
+  {
+    "Station name":"Whitby",
+    "Code":"WTB"
+  },
+  {
+    "Station name":"Whitchurch (Cardiff)",
+    "Code":"WHT"
+  },
+  {
+    "Station name":"Whitchurch (Hants)",
+    "Code":"WCH"
+  },
+  {
+    "Station name":"Whitchurch (Shropshire)",
+    "Code":"WTC"
+  },
+  {
+    "Station name":"White Hart Lane",
+    "Code":"WHL"
+  },
+  {
+    "Station name":"White Notley",
+    "Code":"WNY"
+  },
+  {
+    "Station name":"Whitechapel",
+    "Code":"ZWL"
+  },
+  {
+    "Station name":"Whitecraigs",
+    "Code":"WCR"
+  },
+  {
+    "Station name":"Whitehaven",
+    "Code":"WTH"
+  },
+  {
+    "Station name":"Whitland",
+    "Code":"WTL"
+  },
+  {
+    "Station name":"Whitley Bridge",
+    "Code":"WBD"
+  },
+  {
+    "Station name":"Whitlocks End",
+    "Code":"WTE"
+  },
+  {
+    "Station name":"Whitstable",
+    "Code":"WHI"
+  },
+  {
+    "Station name":"Whittlesea",
+    "Code":"WLE"
+  },
+  {
+    "Station name":"Whittlesford Parkway",
+    "Code":"WLF"
+  },
+  {
+    "Station name":"Whitton (London)",
+    "Code":"WTN"
+  },
+  {
+    "Station name":"Whitwell (Derbyshire)",
+    "Code":"WWL"
+  },
+  {
+    "Station name":"Whyteleafe",
+    "Code":"WHY"
+  },
+  {
+    "Station name":"Whyteleafe South",
+    "Code":"WHS"
+  },
+  {
+    "Station name":"Wick",
+    "Code":"WCK"
+  },
+  {
+    "Station name":"Wickford",
+    "Code":"WIC"
+  },
+  {
+    "Station name":"Wickham Market",
+    "Code":"WCM"
+  },
+  {
+    "Station name":"Widdrington",
+    "Code":"WDD"
+  },
+  {
+    "Station name":"Widnes",
+    "Code":"WID"
+  },
+  {
+    "Station name":"Widney Manor",
+    "Code":"WMR"
+  },
+  {
+    "Station name":"Wigan North Western",
+    "Code":"WGN"
+  },
+  {
+    "Station name":"Wigan Wallgate",
+    "Code":"WGW"
+  },
+  {
+    "Station name":"Wigton",
+    "Code":"WGT"
+  },
+  {
+    "Station name":"Wildmill",
+    "Code":"WMI"
+  },
+  {
+    "Station name":"Willesden Junction",
+    "Code":"WIJ"
+  },
+  {
+    "Station name":"Williamwood",
+    "Code":"WLM"
+  },
+  {
+    "Station name":"Willington",
+    "Code":"WIL"
+  },
+  {
+    "Station name":"Wilmcote",
+    "Code":"WMC"
+  },
+  {
+    "Station name":"Wilmslow",
+    "Code":"WML"
+  },
+  {
+    "Station name":"Wilnecote (Staffs)",
+    "Code":"WNE"
+  },
+  {
+    "Station name":"Wimbledon",
+    "Code":"WIM"
+  },
+  {
+    "Station name":"Wimbledon Chase",
+    "Code":"WBO"
+  },
+  {
+    "Station name":"Winchelsea",
+    "Code":"WSE"
+  },
+  {
+    "Station name":"Winchester",
+    "Code":"WIN"
+  },
+  {
+    "Station name":"Winchfield",
+    "Code":"WNF"
+  },
+  {
+    "Station name":"Winchmore Hill",
+    "Code":"WIH"
+  },
+  {
+    "Station name":"Windermere",
+    "Code":"WDM"
+  },
+  {
+    "Station name":"Windsor & Eton Central",
+    "Code":"WNC"
+  },
+  {
+    "Station name":"Windsor & Eton Riverside",
+    "Code":"WNR"
+  },
+  {
+    "Station name":"Winnersh",
+    "Code":"WNS"
+  },
+  {
+    "Station name":"Winnersh Triangle",
+    "Code":"WTI"
+  },
+  {
+    "Station name":"Winsford",
+    "Code":"WSF"
+  },
+  {
+    "Station name":"Wishaw",
+    "Code":"WSH"
+  },
+  {
+    "Station name":"Witham",
+    "Code":"WTM"
+  },
+  {
+    "Station name":"Witley",
+    "Code":"WTY"
+  },
+  {
+    "Station name":"Witton (West Midlands)",
+    "Code":"WTT"
+  },
+  {
+    "Station name":"Wivelsfield",
+    "Code":"WVF"
+  },
+  {
+    "Station name":"Wivenhoe",
+    "Code":"WIV"
+  },
+  {
+    "Station name":"Woburn Sands",
+    "Code":"WOB"
+  },
+  {
+    "Station name":"Woking",
+    "Code":"WOK"
+  },
+  {
+    "Station name":"Wokingham",
+    "Code":"WKM"
+  },
+  {
+    "Station name":"Woldingham",
+    "Code":"WOH"
+  },
+  {
+    "Station name":"Wolverhampton",
+    "Code":"WVH"
+  },
+  {
+    "Station name":"Wolverton",
+    "Code":"WOL"
+  },
+  {
+    "Station name":"Wombwell",
+    "Code":"WOM"
+  },
+  {
+    "Station name":"Wood End",
+    "Code":"WDE"
+  },
+  {
+    "Station name":"Wood Street",
+    "Code":"WST"
+  },
+  {
+    "Station name":"Woodbridge",
+    "Code":"WDB"
+  },
+  {
+    "Station name":"Woodgrange Park",
+    "Code":"WGR"
+  },
+  {
+    "Station name":"Woodhall",
+    "Code":"WDL"
+  },
+  {
+    "Station name":"Woodhouse",
+    "Code":"WDH"
+  },
+  {
+    "Station name":"Woodlesford",
+    "Code":"WDS"
+  },
+  {
+    "Station name":"Woodley",
+    "Code":"WLY"
+  },
+  {
+    "Station name":"Woodmansterne",
+    "Code":"WME"
+  },
+  {
+    "Station name":"Woodsmoor",
+    "Code":"WSR"
+  },
+  {
+    "Station name":"Wool",
+    "Code":"WOO"
+  },
+  {
+    "Station name":"Woolston",
+    "Code":"WLS"
+  },
+  {
+    "Station name":"Woolwich Arsenal",
+    "Code":"WWA"
+  },
+  {
+    "Station name":"Woolwich Dockyard",
+    "Code":"WWD"
+  },
+  {
+    "Station name":"Wootton Wawen",
+    "Code":"WWW"
+  },
+  {
+    "Station name":"Worcester Foregate Street",
+    "Code":"WOF"
+  },
+  {
+    "Station name":"Worcester Park",
+    "Code":"WCP"
+  },
+  {
+    "Station name":"Worcester Shrub Hill",
+    "Code":"WOS"
+  },
+  {
+    "Station name":"Workington",
+    "Code":"WKG"
+  },
+  {
+    "Station name":"Worksop",
+    "Code":"WRK"
+  },
+  {
+    "Station name":"Worle",
+    "Code":"WOR"
+  },
+  {
+    "Station name":"Worplesdon",
+    "Code":"WPL"
+  },
+  {
+    "Station name":"Worstead",
+    "Code":"WRT"
+  },
+  {
+    "Station name":"Worthing",
+    "Code":"WRH"
+  },
+  {
+    "Station name":"Wrabness",
+    "Code":"WRB"
+  },
+  {
+    "Station name":"Wraysbury",
+    "Code":"WRY"
+  },
+  {
+    "Station name":"Wrenbury",
+    "Code":"WRE"
+  },
+  {
+    "Station name":"Wressle",
+    "Code":"WRS"
+  },
+  {
+    "Station name":"Wrexham Central",
+    "Code":"WXC"
+  },
+  {
+    "Station name":"Wrexham General",
+    "Code":"WRX"
+  },
+  {
+    "Station name":"Wye",
+    "Code":"WYE"
+  },
+  {
+    "Station name":"Wylam",
+    "Code":"WYM"
+  },
+  {
+    "Station name":"Wylde Green",
+    "Code":"WYL"
+  },
+  {
+    "Station name":"Wymondham",
+    "Code":"WMD"
+  },
+  {
+    "Station name":"Wythall",
+    "Code":"WYT"
+  },
+  {
+    "Station name":"Yalding",
+    "Code":"YAL"
+  },
+  {
+    "Station name":"Yardley Wood",
+    "Code":"YRD"
+  },
+  {
+    "Station name":"Yarm",
+    "Code":"YRM"
+  },
+  {
+    "Station name":"Yate",
+    "Code":"YAE"
+  },
+  {
+    "Station name":"Yatton",
+    "Code":"YAT"
+  },
+  {
+    "Station name":"Yeoford",
+    "Code":"YEO"
+  },
+  {
+    "Station name":"Yeovil Junction",
+    "Code":"YVJ"
+  },
+  {
+    "Station name":"Yeovil Pen Mill",
+    "Code":"YVP"
+  },
+  {
+    "Station name":"Yetminster",
+    "Code":"YET"
+  },
+  {
+    "Station name":"Ynyswen",
+    "Code":"YNW"
+  },
+  {
+    "Station name":"Yoker",
+    "Code":"YOK"
+  },
+  {
+    "Station name":"York",
+    "Code":"YRK"
+  },
+  {
+    "Station name":"Yorton",
+    "Code":"YRT"
+  },
+  {
+    "Station name":"Ystrad Mynach",
+    "Code":"YSM"
+  },
+  {
+    "Station name":"Ystrad Rhondda",
+    "Code":"YSR"
+  }
+]
