@@ -1,0 +1,8 @@
+<div class="bar bar-header bar-light">
+    <h1 class="title">Platform List</h1>
+</div>
+<ion-list>
+    <ion-item ng-repeat="platform in platforms">
+        {{platform.name}} <small>({{platform.code}})</small>
+    </ion-item>
+</ion-list>
