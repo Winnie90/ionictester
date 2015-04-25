@@ -5,7 +5,12 @@
 // the 2nd parameter is an array of 'requires'
 angular.module('TrainGetter', ['ionic', 'ngCordova','ngRoute',
         'TrainGetter.splashscreen',
-        'TrainGetter.platformListCtrl'
+        'TrainGetter.alert',
+        'TrainGetter.journeyViewCtrl',
+        'TrainGetter.platformFinderViewCtrl',
+        'TrainGetter.nextFastestViewCtrl',
+        'TrainGetter.liveDepartureBoardViewCtrl',
+        'TrainGetter.routeDetailsViewCtrl'
     ])
 
 .run(function($ionicPlatform) {
@@ -21,6 +26,6 @@ angular.module('TrainGetter', ['ionic', 'ngCordova','ngRoute',
   });
 })
 .config(['$routeProvider', function($routeProvider) {
-    $routeProvider.otherwise({redirectTo: '/platformListView'});
+    $routeProvider.otherwise({redirectTo: '/platformFinderView'});
 }]);
 

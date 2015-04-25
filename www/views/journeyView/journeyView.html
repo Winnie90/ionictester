@@ -1,9 +1,41 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-</head>
-<body>
+<ion-header-bar class="bar bar-header bar-balanced">
+    <h1 class="title">My Next Train</h1>
+</ion-header-bar>
+<ion-content>
+    <div class="card">
+        <div class="item item-text-wrap item-divider">
+            From:
+        </div>
+        <a href="#/platformFinderView">
+            <div class="item item-text-wrap item-icon-right">
+                Lancaster (LAN)
+                <i class="icon ion-ios-arrow-right"></i>
+            </div>
+        </a>
+        <a href="#/liveDepartureBoardView">
+            <div class="item item-text-wrap item-icon-right balanced">
+                Live train times
+                <i class="icon ion-ios-information-outline"></i>
+            </div>
+        </a>
+    </div>
 
-</body>
-</html>
+    <div class="card ">
+        <div class="item item-divider">
+            To:
+        </div>
+        <a href="#/platformFinderView">
+            <div class="item item-text-wrap item-icon-right">
+                Manchester (MAN)
+                <i class="icon ion-ios-arrow-right "></i>
+            </div>
+        </a>
+    </div>
+
+</ion-content>
+<a href="#/nextFastestView">
+    <div ng-click="showAlert()" class="bar bar-footer bar-balanced item-icon-right">
+        <div class="title">Next Fastest Train</div>
+        <i class="icon ion-ios-arrow-right"></i>
+    </div>
+</a>

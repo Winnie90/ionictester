@@ -1,4 +1,4 @@
-angular.module('TrainGetter.NextFastestViewCtrl', ['ngRoute'])
+angular.module('TrainGetter.nextFastestViewCtrl', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/nextFastestView', {

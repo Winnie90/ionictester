@@ -1,4 +1,4 @@
-angular.module('TrainGetter.liveDepartureBoardCtrl', ['ngRoute'])
+angular.module('TrainGetter.liveDepartureBoardViewCtrl', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
     $routeProvider.when('/liveDepartureBoardView', {

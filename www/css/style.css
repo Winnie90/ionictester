@@ -1,1 +1,19 @@
-/* Empty. Add your own CSS if you like */
+a {
+    text-decoration: none;
+}
+
+.item-calm p{
+    color: white;
+}
+
+.bar-footer p{
+    margin: auto;
+}
+
+.delayed {
+    color: red !important;
+}
+
+.balanced{
+    color: #33CD5F !important;
+}
