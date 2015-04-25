@@ -2,7 +2,8 @@
 
 angular.module('TrainGetter.services.shared-properties', [])
 .service('shared-properties', function () {
-    var fromStation = true;
+    var fromStation = null;
+    var toStation = null;
 
     return {
         getFromStation: function () {
@@ -10,6 +11,12 @@ angular.module('TrainGetter.services.shared-properties', [])
         },
         setFromStation: function(value) {
             fromStation = value;
+        },
+        getToStation: function () {
+            return toStation;
+        },
+        setToStation: function(value) {
+            toStation = value;
         }
     };
 });

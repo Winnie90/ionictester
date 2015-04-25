@@ -12,7 +12,6 @@ angular.module('TrainGetter.stationFinderViewCtrl', ['ngRoute'])
 .controller('StationFinderViewCtrl',
         ['$scope','shared-properties', 'all-stations', '$routeParams',
     function($scope, $sharedProperties, $stations, $routeParams) {
-
         $scope.stations = $stations.query();
 
         if($routeParams.getFrom == "from"){
@@ -23,9 +22,9 @@ angular.module('TrainGetter.stationFinderViewCtrl', ['ngRoute'])
 
         $scope.selectStation = function(station){
             if($routeParams.getFrom == "from"){
-                $scope.fromStation = station;
+                $sharedProperties.setFromStation(station);
             } else {
-                $scope.toStation = station;
+                $sharedProperties.setToStation(station);
             }
         };
     }

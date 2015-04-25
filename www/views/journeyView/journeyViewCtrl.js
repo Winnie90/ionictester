@@ -7,9 +7,9 @@ angular.module('TrainGetter.journeyViewCtrl', ['ionic', 'ngRoute'])
     });
 }])
 
-.controller('JourneyViewCtrl', ['shared-properties',
+.controller('JourneyViewCtrl', ['$scope','shared-properties',
     function($scope, $sharedProperties) {
-
-
+        $scope.fromStation = $sharedProperties.getFromStation();
+        $scope.toStation = $sharedProperties.getToStation();
     }
 ]);

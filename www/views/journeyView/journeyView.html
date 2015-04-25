@@ -6,9 +6,14 @@
         <div class="item item-text-wrap item-divider">
             From:
         </div>
-        <a href="#/platformFinderView/from">
+        <a href="#/stationFinderView/from">
             <div class="item item-text-wrap item-icon-right">
-                Lancaster (LAN)
+                <div ng-if="fromStation">
+                    {{fromStation.name}}
+                </div>
+                <div ng-if="!fromStation">
+                    Please choose the station you are travelling from
+                </div>
                 <i class="icon ion-ios-arrow-right"></i>
             </div>
         </a>
@@ -24,10 +29,15 @@
         <div class="item item-divider">
             To:
         </div>
-        <a href="#/platformFinderView/to">
-            <div  class="item item-text-wrap item-icon-right">
-                Manchester (MAN)
-                <i class="icon ion-ios-arrow-right "></i>
+        <a href="#/stationFinderView/to">
+            <div class="item item-text-wrap item-icon-right">
+                <div ng-if="toStation">
+                    {{toStation.name}}
+                </div>
+                <div ng-if="!toStation">
+                    Please choose destination station
+                </div>
+                <i class="icon ion-ios-arrow-right"></i>
             </div>
         </a>
     </div>
