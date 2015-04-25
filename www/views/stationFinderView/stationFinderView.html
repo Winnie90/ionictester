@@ -3,7 +3,7 @@
     <h1 class="title">Platform Finder</h1>
 </ion-header-bar>
 <ion-header-bar class="bar bar-subheader">
-    <h2 class="title">Where are you travelling from?</h2>
+    <h2 class="title">{{platformFinderTitle}}</h2>
 </ion-header-bar>
 <ion-content>
     <div class="list">
@@ -16,9 +16,6 @@
         <a class="item" href="#/journeyView">
             Manchester (MAN)
         </a>
-        <a class="item" href="#/journeyView">
-            London (EU)
-        </a>
     </div>
 
     <div class="list">
@@ -27,19 +24,12 @@
         </div>
         <label class="item item-input">
             <i class="icon ion-search placeholder-icon"></i>
-            <input type="text" placeholder="Search">
+            <input type="text" placeholder="Search" ng-model="query">
         </label>
-        <a class="item" href="#/journeyView">
-            Lancaster (LAN)
-        </a>
-        <a class="item" href="#/journeyView">
-            Manchester (MAN)
-        </a>
-        <a class="item" href="#/journeyView">
-            London (EU)
-        </a>
-        <a class="item" href="#/journeyView">
-            London (EU)
+        <a ng-repeat="station in stations | filter:query"
+           ng-click="selectStation(station)"
+            class="item" href="#/journeyView">
+            {{station.name}} ({{station.code}})
         </a>
     </div>
 </ion-content>

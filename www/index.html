@@ -18,17 +18,22 @@
     <!-- cordova script (this will be a 404 during development) -->
     <script src="lib/ngCordova/dist/ng-cordova.js"></script>
     <script src="lib/angular-route/angular-route.js"></script>
+     <script src="lib/angular-resource/angular-resource.js"></script>
     <script src="cordova.js"></script>
 
     <!-- your app's js -->
     <script src="js/app.js"></script>
+
     <script src="views/journeyView/journeyViewCtrl.js"></script>
-    <script src="views/platformFinderView/platformFinderViewCtrl.js"></script>
+    <script src="views/stationFinderView/stationFinderViewCtrl.js"></script>
     <script src="views/nextFastestView/nextFastestViewCtrl.js"></script>
     <script src="views/liveDepartureBoardView/liveDepartureBoardViewCtrl.js"></script>
     <script src="views/routeDetailsView/routeDetailsViewCtrl.js"></script>
     <script src="components/splashscreen/splashscreen.js"></script>
-    <script src="components/services/rateMe.js"></script>
+    <script src="components/services/services.js"></script>
+    <script src="components/services/shared-properties.js"></script>
+    <script src="components/services/all-stations.js"></script>
+    <script src="lib/angular-route/angular-route.js"></script>
   </head>
   <body ng-app="TrainGetter">
     <div ng-view></div>
