@@ -10,11 +10,10 @@
         <div class="item item-divider">
             Closest stations to you
         </div>
-        <a class="item" href="#/journeyView">
-            Lancaster (LAN)
-        </a>
-        <a class="item" href="#/journeyView">
-            Manchester (MAN)
+        <a ng-repeat="station in nearestStations | limitTo:2"
+           ng-click="selectStation(station)"
+           class="item" href="#/journeyView">
+            {{station.name}} ({{station.station_code}}) {{station.distance}}m away
         </a>
     </div>
 

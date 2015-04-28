@@ -1,8 +1,11 @@
 'use strict';
 
 angular.module('TrainGetter.services', [
-    'TrainGetter.services.shared-properties',
-    'TrainGetter.services.all-stations'
+    'TrainGetter.services.sharedProperties',
+    'TrainGetter.services.allStations',
+    'TrainGetter.services.geoLocation',
+    'TrainGetter.services.localStorage',
+    'TrainGetter.services.nearestStations'
 ]);
 
 

@@ -10,10 +10,12 @@ angular.module('TrainGetter.stationFinderViewCtrl', ['ngRoute'])
 }])
 
 .controller('StationFinderViewCtrl',
-        ['$scope','shared-properties', 'all-stations', '$routeParams',
-    function($scope, $sharedProperties, $stations, $routeParams) {
-        $scope.stations = $stations.query();
-
+        ['$scope','sharedProperties', 'allStations','$routeParams', 'geoLocation', 'nearestStations',
+    function($scope, $sharedProperties, $allStations, $routeParams, geoLocation, $nearestStations) {
+        $scope.stations = $allStations.query();
+        var resultObject = $nearestStations.query({}, function(){
+            $scope.nearestStations = resultObject.stations;
+        });
         if($routeParams.getFrom == "from"){
             $scope.platformFinderTitle = "Where are you travelling from?";
         } else {
@@ -27,5 +29,7 @@ angular.module('TrainGetter.stationFinderViewCtrl', ['ngRoute'])
                 $sharedProperties.setToStation(station);
             }
         };
+
+        //$scope.platformFinderTitle = geoLocation.getGeolocation();
     }
 ]);

@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('TrainGetter.services.all-stations',['ngResource'])
+angular.module('TrainGetter.services.allStations',['ngResource'])
 
-.factory('all-stations', function($resource){
+.factory('allStations', function($resource){
     return $resource(
         'static-data/station-codes.json', {},
         {'query': { method: 'GET', isArray:true}}

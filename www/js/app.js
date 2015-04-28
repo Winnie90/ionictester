@@ -13,7 +13,7 @@ angular.module('TrainGetter', ['ionic', 'ngCordova','ngRoute',
         'TrainGetter.routeDetailsViewCtrl'
     ])
 
-.run(function($ionicPlatform) {
+.run(function($ionicPlatform, $cordovaGeolocation, geoLocation) {
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
     // for form inputs)
@@ -23,9 +23,16 @@ angular.module('TrainGetter', ['ionic', 'ngCordova','ngRoute',
     if(window.StatusBar) {
       StatusBar.styleDefault();
     }
+
+    $cordovaGeolocation
+      .getCurrentPosition()
+      .then(function (position) {
+          geoLocation.setGeolocation(position.coords.latitude, position.coords.longitude)
+      }, function (err) {
+          //geoLocation.setGeolocation(54, -122.09)
+      });
   });
 })
 .config(['$routeProvider', function($routeProvider) {
     $routeProvider.otherwise({redirectTo: '/stationFinderView/from'});
 }]);
-
