@@ -6,6 +6,7 @@
 angular.module('TrainGetter', ['ionic', 'ngCordova','ngRoute',
         'TrainGetter.splashscreen',
         'TrainGetter.services',
+        'TrainGetter.filters',
         'TrainGetter.journeyViewCtrl',
         'TrainGetter.stationFinderViewCtrl',
         'TrainGetter.nextFastestViewCtrl',

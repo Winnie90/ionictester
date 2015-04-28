@@ -13,7 +13,7 @@
         <a ng-repeat="station in nearestStations | limitTo:2"
            ng-click="selectStation(station)"
            class="item" href="#/journeyView">
-            {{station.name}} ({{station.station_code}}) {{station.distance}}m away
+            {{station.name}} ({{station.station_code}}) {{station.distance | meterConversion}} away
         </a>
     </div>
 
