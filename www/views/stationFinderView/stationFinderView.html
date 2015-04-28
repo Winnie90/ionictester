@@ -28,7 +28,7 @@
         <a ng-repeat="station in stations | filter:query"
            ng-click="selectStation(station)"
             class="item" href="#/journeyView">
-            {{station.name}} ({{station.code}})
+            {{station.name}} ({{station.station_code}})
         </a>
     </div>
 </ion-content>

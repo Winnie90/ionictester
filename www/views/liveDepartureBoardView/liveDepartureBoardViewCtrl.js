@@ -7,8 +7,8 @@ angular.module('TrainGetter.liveDepartureBoardViewCtrl', ['ngRoute'])
     });
 }])
 
-.controller('LiveDepartureBoardViewCtrl', ['$scope',
-    function($scope) {
-
+.controller('LiveDepartureBoardViewCtrl', ['$scope', 'liveDepartureTimes',
+    function($scope, $liveDepartureTimes) {
+        console.log($liveDepartureTimes.query());
     }
 ]);

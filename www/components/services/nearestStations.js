@@ -2,7 +2,7 @@
 
 angular.module('TrainGetter.services.nearestStations',['ngResource'])
 
-.factory('nearestStations', function($resource, geoLocation, sharedProperties){
+    .factory('nearestStations', function($resource, geoLocation, sharedProperties){
         var loc = geoLocation.getGeolocation();
         return $resource(
             'http://transportapi.com/v3/uk/train/stations/near.json?'+
@@ -13,4 +13,4 @@ angular.module('TrainGetter.services.nearestStations',['ngResource'])
             {},
             {'query': { method: 'GET', isArray:false}}
         );
-});
+    });
