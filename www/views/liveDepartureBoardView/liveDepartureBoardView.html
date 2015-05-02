@@ -5,7 +5,7 @@
 <ion-content>
     <div class="card ">
         <div class="item item-divider">
-            From Lancaster
+            From {{fromStation.name}}
         </div>
         <div class="row">
             <div class="col col-25">
@@ -14,93 +14,36 @@
                     <i class="icon ion-android-arrow-dropdown"></i>
                 </div>
             </div>
-
             <div class="col col-50">
                 <div class="item item-divider">
                     Destination
                 </div>
             </div>
-            <div class="col col-25">
+            <div class="col col-25 ">
                 <div class="item item-divider">
                     Platform
                 </div>
             </div>
         </div>
-        <a href="#/routeDetailsView">
+        <a ng-repeat="departure in departures" href="#/routeDetailsView">
             <div class="row ">
                 <div class="col col-25">
                     <div class="item">
-                        <p>07:37</p>
-                        <p>2 Changes</p>
+                        <p>{{departure.aimed_departure_time}}</p>
                     </div>
                 </div>
                 <div class="col col-50">
                     <div class="item ">
-                        <p>Manchester</p>
-                        <p class="delayed">Delayed by 3 mins</p>
+                        <p>{{departure.destination_name}}</p>
+                        <div ng-switch on="status(departure.status)">
+                            <p ng-switch-when="true" ng-class="onTime(departure.delayed)"> {{departure.delayed | delayedStatus | lowercase}}</p>
+                            <p ng-switch-when="false" class="balanced">{{departure.status | lowercase}}</p>
+                        </div>
                     </div>
                 </div>
                 <div class="col col-25">
                     <div class="item">
-                        <p>4</p>
-                    </div>
-                </div>
-            </div>
-        </a>
-        <a href="#/routeDetailsView">
-            <div class="row">
-                <div class="col col-25">
-                    <div class="item departs">
-                        <p>07:30</p>
-                        <p>1 Change</p>
-                    </div>
-                </div>
-                <div class="col col-50">
-                    <div class="item">
-                        <p>Manchester</p>
-                    </div>
-                </div>
-                <div class="col col-25">
-                    <div class="item">
-                        <p>4</p>
-                    </div>
-                </div>
-            </div>
-        </a>
-        <a href="#/routeDetailsView">
-            <div class="row ">
-                <div class="col col-25">
-                    <div class="item">
-                        <p>07:47</p>
-                    </div>
-                </div>
-                <div class="col col-50">
-                    <div class="item">
-                        <p>Manchester</p>
-                    </div>
-                </div>
-                <div class="col col-25">
-                    <div class="item">
-                        <p>4</p>
-                    </div>
-                </div>
-            </div>
-        </a>
-        <a href="#/routeDetailsView">
-            <div class="row ">
-                <div class="col col-25">
-                    <div class="item">
-                        <p>08:28</p>
-                    </div>
-                </div>
-                <div class="col col-50">
-                    <div class="item ">
-                        <p>Manchester</p>
-                    </div>
-                </div>
-                <div class="col col-25">
-                    <div class="item">
-                        <p>4</p>
+                        <p>{{departure.platform}}</p>
                     </div>
                 </div>
             </div>

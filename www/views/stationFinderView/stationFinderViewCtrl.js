@@ -12,6 +12,7 @@ angular.module('TrainGetter.stationFinderViewCtrl', ['ngRoute'])
 .controller('StationFinderViewCtrl',
         ['$scope','sharedProperties', 'allStations','$routeParams', 'geoLocation', 'nearestStations',
     function($scope, $sharedProperties, $allStations, $routeParams, geoLocation, $nearestStations) {
+
         $scope.stations = $allStations.query();
         var resultObject = $nearestStations.query({}, function(){
             $scope.nearestStations = resultObject.stations;
@@ -29,7 +30,5 @@ angular.module('TrainGetter.stationFinderViewCtrl', ['ngRoute'])
                 $sharedProperties.setToStation(station);
             }
         };
-
-        //$scope.platformFinderTitle = geoLocation.getGeolocation();
     }
 ]);

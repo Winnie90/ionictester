@@ -9,8 +9,9 @@ angular.module('TrainGetter.routeDetailsViewCtrl', ['ngRoute'])
     });
 }])
 
-.controller('RouteDetailsViewCtrl', ['$scope','$http',
-    function($scope, $http) {
-
+.controller('RouteDetailsViewCtrl', ['$scope','routeDetails',
+    function($scope, $routeDetails) {
+        $scope.routeDetails = $routeDetails.query();
+        console.log($scope.routeDetails);
     }
 ]);
